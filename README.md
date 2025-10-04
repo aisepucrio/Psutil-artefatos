@@ -33,7 +33,7 @@ pip install psutil matplotlib
 python ferramenta.py
 ```
 
----
+
 
 ## Saída no Terminal
 
