@@ -116,5 +116,4 @@ Um script adicional lê todos os relatórios na pasta `relatorios/` e gera gráf
 * Verifique se os scripts existem nos caminhos especificados; caso contrário, o relatório registrará erro.
 * Projetos grandes podem gerar relatórios extensos.
 * Ferramenta adaptável a qualquer projeto Python.
-* Requer `psutil` para monitoramento e `matplotlib` para visualização.
 
