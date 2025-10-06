@@ -1,103 +1,64 @@
-# Monitoramento de Projetos Python com PSUTIL
+# EcoSustain Replication Study
 
-Ferramenta para analisar scripts Python, monitorando uso de CPU, memória, estrutura de arquivos e desempenho.
+Este repositório contém o estudo de replicação do EcoSustain, permitindo rodar e medir emissões de carbono e uso de recursos do sistema em artefatos Python.
 
-## Funcionalidades
+## Estrutura do Repositório
 
-**Informações do Sistema**
+- `scrapping-icse/`: contém o script `scrapping_icse.py`, que gera um CSV com os arquivos ICSE e se possuem artefato ou não.
+- `run-dpy/`: scripts para rodar os artefatos com DPY.
+- `implement-tools-into-artifact/`: scripts para instrumentar os artefatos com CodeCarbon e psutil.
+- `artefatos/`: pasta onde você deve colocar todos os artefatos baixados ou clonados.
 
-   * RAM disponível
-   * Espaço em disco livre
-   * Uso de CPU atual
-   * Núcleos físicos e lógicos
-   * Outros ...
+## Passo a Passo para Replicação
 
+### 1. Gerar CSV dos Artefatos ICSE
 
-## Como Usar
+Dentro da pasta `scrapping-icse`:
 
-1. **Instale a dependência**
-
-```bash
-pip install psutil 
-```
-
-2. **Coloque os projetos na pasta desejada**
-   Cada projeto deve conter o arquivo Python que será monitorado.
-
-3. **Edite na função `def main` se necessário**
-   Ajuste caminhos e scripts de cada projeto.
-
-4. **Execute o script principal**
-
-```bash
-python ferramenta.py
-```
+python scrapping_icse.py
 
 
-## Saída no Terminal
+Isso criará um CSV indicando todos os arquivos ICSE e se possuem artefato.
 
-Durante a execução, o terminal mostrará mensagens de acompanhamento para cada artefato:
+### 2. Organizar os Artefatos
 
-```
-============================================================
- Analisando: clozeMaster
-============================================================
-==> Relatório salvo em: relatorios\clozeMaster_relatorio_20251004_170242.txt
+Coloque todos os artefatos baixados ou clonados em uma pasta no seu computador.  
+Ex.: `~/EcoSustain/artefatos/`.
 
-============================================================
- Analisando: Discover-Data-Quality-With-RIOLU
-============================================================
-==> Relatório salvo em: relatorios\Discover-Data-Quality-With-RIOLU_relatorio_20251004_170244.txt
+### 3. Configurar DPY
 
-============================================================
- Analisando: dlisa
-============================================================
-==> Relatório salvo em: relatorios\dlisa_relatorio_20251004_170743.txt
+Baixe o DPY no seu computador.  
 
-============================================================
- Analisando: UNLEASH
-============================================================
-==> Relatório salvo em: relatorios\UNLEASH_relatorio_20251004_170745.txt
-```
-* Indica o artefato sob análise 
-* Informa o caminho do relatório gerado armazenado em `relatorios\`
+Entre na pasta `run-dpy` e configure:
 
+- `diretorio_dpy` → caminho para o DPY  
+- `pasta_base` → caminho para a pasta com os artefatos  
+- `pasta_saida_base` → pasta de saída para resultados
 
-## Saída no Arquivo de Relatório
+### 4. Instrumentar Artefatos com CodeCarbon e Psutil
 
-O conteúdo completo do relatório (`.txt`) inclui informações do sistema, estrutura do projeto e desempenho do script. 
+Abra `implement-tools-into-artifact/implement-tools.py`.  
 
-**Exemplo: Artefato `clozeMaster`**
-```
- Projeto: clozeMaster
+Altere a variável `artifacts_path` para o caminho da pasta com os artefatos.  
 
- Informações do Sistema:
- RAM disponível: 3395.36 MB
- Espaço em disco disponível: 381.47 GB
- CPU atual: 18.5%
- Núcleos físicos: 10 | Lógicos: 12
+Execute o script:
 
- Total de arquivos: 30476
- Tamanho total: 1762879.83 KB
-
- Duração: 0.50 segundos
- CPU médio: 20.30%
- Memória média usada: 12712.42 MB
-Erro:
-Traceback (most recent call last):
-  File "C:\Users\gabriele\Desktop\artefatos\clozeMaster\main.py", line 7, in <module>
-    from tqdm import tqdm
-ModuleNotFoundError: No module named 'tqdm'
-
-```
-
-* Permite verificar métricas completas e erros
-* Útil para auditoria ou comparação de desempenho entre projetos
+python implement-tools.py
 
 
-## Observações
+Isso vai adicionar CodeCarbon e psutil a todos os arquivos `.py` dentro de cada artefato.
 
-* Verifique se os scripts existem nos caminhos especificados; caso contrário, o relatório registrará erro.
-* Projetos grandes podem gerar relatórios extensos.
-* Ferramenta adaptável a qualquer projeto Python.
+### 5. Rodar os Artefatos
 
+Execute qualquer arquivo `.py` dentro de um artefato.  
+
+**IMPORTANTE:** Toda execução cria dois arquivos na pasta do artefato:
+
+- `emissions.csv` → saída do CodeCarbon  
+- `psutil_data.csv` → saída do Psutil
+
+⚠️ Renomeie esses arquivos imediatamente após cada execução para evitar sobrescrita ou mistura com outros artefatos.
+
+### 6. Refatorando Artefatos
+
+README DESSA PARTE EM BREVE
