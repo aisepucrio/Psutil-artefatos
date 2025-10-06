@@ -1,6 +1,6 @@
 # Monitoramento de Projetos Python com PSUTIL
 
-Ferramenta para analisar scripts Python, monitorando uso de CPU, memória, estrutura de arquivos e desempenho, gerando relatórios automáticos.
+Ferramenta para analisar scripts Python, monitorando uso de CPU, memória, estrutura de arquivos e desempenho.
 
 ## Funcionalidades
 
@@ -18,7 +18,7 @@ Ferramenta para analisar scripts Python, monitorando uso de CPU, memória, estru
 1. **Instale a dependência**
 
 ```bash
-pip install psutil matplotlib
+pip install psutil 
 ```
 
 2. **Coloque os projetos na pasta desejada**
@@ -32,7 +32,6 @@ pip install psutil matplotlib
 ```bash
 python ferramenta.py
 ```
-
 
 
 ## Saída no Terminal
@@ -94,21 +93,6 @@ ModuleNotFoundError: No module named 'tqdm'
 
 * Permite verificar métricas completas e erros
 * Útil para auditoria ou comparação de desempenho entre projetos
-
-
-5. **Execute o script de visualização**
-
-```bash
-python plot_resultados.py
-```
-
-## Visualização de Dados com Gráficos
-
-Um script adicional lê todos os relatórios na pasta `relatorios/` e gera gráficos comparativos para cada projeto:
-
-* **CPU Médio por Projeto**
-* **Memória Média Usada por Projeto**
-* **Duração de Execução por Projeto**
 
 
 ## Observações
