@@ -1,0 +1,57 @@
+[submodule "artefatos/Web-Ads-Accessibility"]
+	path = artefatos/Web-Ads-Accessibility
+	url = https://github.com/SEED-VT/Web-Ads-Accessibility.git
+[submodule "artefatos/NDSAStudy"]
+	path = artefatos/NDSAStudy
+	url = https://github.com/UTD-FAST-Lab/NDSAStudy.git
+[submodule "artefatos/LocalizeAgent"]
+	path = artefatos/LocalizeAgent
+	url = https://github.com/fraolBatole/LocalizeAgent.git
+[submodule "artefatos/Discover-Data-Quality-With-RIOLU"]
+	path = artefatos/Discover-Data-Quality-With-RIOLU
+	url = https://github.com/mooselab/Discover-Data-Quality-With-RIOLU.git
+[submodule "artefatos/Decictor"]
+	path = artefatos/Decictor
+	url = https://github.com/MingfeiCheng/Decictor.git
+[submodule "artefatos/RepSEO_Classifier"]
+	path = artefatos/RepSEO_Classifier
+	url = https://github.com/Marphownio/RepSEO_Classifier.git
+[submodule "artefatos/FairQuant-Artifact"]
+	path = artefatos/FairQuant-Artifact
+	url = https://github.com/briankim113/FairQuant-Artifact.git
+[submodule "artefatos/tf2-published-models"]
+	path = artefatos/tf2-published-models
+	url = https://github.com/sarus-tech/tf2-published-models.git
+[submodule "artefatos/ciri"]
+	path = artefatos/ciri
+	url = https://github.com/xlab-uiuc/ciri.git
+[submodule "artefatos/intellismt"]
+	path = artefatos/intellismt
+	url = https://github.com/aashishyadavally/intellismt.git
+[submodule "artefatos/pathfinder-artifact"]
+	path = artefatos/pathfinder-artifact
+	url = https://github.com/starlab-unist/pathfinder-artifact.git
+[submodule "artefatos/LISP"]
+	path = artefatos/LISP
+	url = https://github.com/FudanSELab/LISP.git
+[submodule "artefatos/magika"]
+	path = artefatos/magika
+	url = https://github.com/google/magika.git
+[submodule "artefatos/orca"]
+	path = artefatos/orca
+	url = https://github.com/SmitPatel910/orca.git
+[submodule "artefatos/P2SQL"]
+	path = artefatos/P2SQL
+	url = https://github.com/rodrigo-pedro/P2SQL.git
+[submodule "artefatos/RepairAgent"]
+	path = artefatos/RepairAgent
+	url = https://github.com/sola-st/RepairAgent.git
+[submodule "artefatos/TraceFL"]
+	path = artefatos/TraceFL
+	url = https://github.com/SEED-VT/TraceFL.git
+[submodule "artefatos/UNLEASH"]
+	path = artefatos/UNLEASH
+	url = https://github.com/LogIntelligence/UNLEASH.git
+[submodule "artefatos/benchmarking_rlmut"]
+	path = artefatos/benchmarking_rlmut
+	url = https://github.com/Deepakgthomas/benchmarking_rlmut.git
