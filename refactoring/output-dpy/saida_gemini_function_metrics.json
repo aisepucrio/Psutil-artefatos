@@ -1,0 +1,1379 @@
+[
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "__init__",
+        "LOC": 27,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "seed",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "step",
+        "LOC": 18,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "_validate_action",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "_get_force",
+        "LOC": 2,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "_integrate_state",
+        "LOC": 12,
+        "CC": 2,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "_is_done",
+        "LOC": 7,
+        "CC": 2,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "_get_reward",
+        "LOC": 16,
+        "CC": 2,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "reset",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "render",
+        "LOC": 17,
+        "CC": 2,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "_init_viewer",
+        "LOC": 30,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "_update_pole_vertex",
+        "LOC": 11,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "_update_cart_and_pole",
+        "LOC": 5,
+        "CC": 1,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Function": "close",
+        "LOC": 4,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "myCartPoleEnv",
+        "Function": "__init__",
+        "LOC": 15,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "myCartPoleEnv",
+        "Function": "reset",
+        "LOC": 6,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "ContactDetector",
+        "Function": "__init__",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "ContactDetector",
+        "Function": "BeginContact",
+        "LOC": 7,
+        "CC": 3,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "ContactDetector",
+        "Function": "_handle_leg_contact",
+        "LOC": 4,
+        "CC": 3,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "ContactDetector",
+        "Function": "EndContact",
+        "LOC": 2,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "ContactDetector",
+        "Function": "_handle_leg_end_contact",
+        "LOC": 4,
+        "CC": 3,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "__init__",
+        "LOC": 16,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "seed",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_destroy",
+        "LOC": 11,
+        "CC": 3,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "reset",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_setup_world",
+        "LOC": 8,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_create_terrain",
+        "LOC": 29,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_create_lander",
+        "LOC": 25,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_create_legs",
+        "LOC": 37,
+        "CC": 3,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_create_particle",
+        "LOC": 17,
+        "CC": 1,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_clean_particles",
+        "LOC": 3,
+        "CC": 4,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "step",
+        "LOC": 13,
+        "CC": 2,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_apply_engine_forces",
+        "LOC": 7,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_get_engine_powers",
+        "LOC": 22,
+        "CC": 11,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_apply_main_engine",
+        "LOC": 18,
+        "CC": 2,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_apply_side_engine",
+        "LOC": 27,
+        "CC": 3,
+        "PC": 5
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_get_state",
+        "LOC": 14,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_calculate_reward",
+        "LOC": 25,
+        "CC": 5,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "render",
+        "LOC": 10,
+        "CC": 2,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_update_particles",
+        "LOC": 13,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_draw_sky",
+        "LOC": 3,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_draw_objects",
+        "LOC": 18,
+        "CC": 4,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "_draw_helipad",
+        "LOC": 13,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Function": "close",
+        "LOC": 4,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "myLunarLanderEnv",
+        "Function": "__init__",
+        "LOC": 19,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "myLunarLanderEnv",
+        "Function": "reset",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "myLunarLanderEnv",
+        "Function": "_setup_world_with_custom_data",
+        "LOC": 8,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "myLunarLanderEnv",
+        "Function": "_create_terrain_custom",
+        "LOC": 31,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "myLunarLanderEnv",
+        "Function": "_create_lander_custom",
+        "LOC": 20,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "",
+        "Function": "heuristic",
+        "LOC": 24,
+        "CC": 10,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "",
+        "Function": "demo_heuristic_lander",
+        "LOC": 22,
+        "CC": 8,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "atoi",
+        "LOC": 2,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "natural_keys",
+        "LOC": 2,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "correct_reward_list",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "_calculate_hellinger_distance",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "_perform_dtr_test",
+        "LOC": 23,
+        "CC": 4,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "mt_dtr",
+        "LOC": 2,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "mt_rew",
+        "LOC": 7,
+        "CC": 2,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "_register_custom_env",
+        "LOC": 8,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "_test_agent",
+        "LOC": 2,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "test_val",
+        "LOC": 13,
+        "CC": 2,
+        "PC": 5
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "_search_boundary",
+        "LOC": 25,
+        "CC": 5,
+        "PC": 8
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "_generate_mid_points",
+        "LOC": 24,
+        "CC": 10,
+        "PC": 6
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "determine_boundaries",
+        "LOC": 18,
+        "CC": 4,
+        "PC": 6
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "_create_agents",
+        "LOC": 20,
+        "CC": 4,
+        "PC": 7
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "_get_comp_list",
+        "LOC": 8,
+        "CC": 1,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Function": "_test_mutations",
+        "LOC": 66,
+        "CC": 9,
+        "PC": 6
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "benchmark_rlmutation",
+        "Class": "",
+        "Function": "setup_codecarbon",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "benchmark_rlmutation",
+        "Class": "",
+        "Function": "run_test",
+        "LOC": 7,
+        "CC": 1,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "benchmark_rlmutation",
+        "Class": "",
+        "Function": "compute_mutation_results",
+        "LOC": 7,
+        "CC": 1,
+        "PC": 6
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "benchmark_rlmutation",
+        "Class": "",
+        "Function": "get_environment_details",
+        "LOC": 24,
+        "CC": 8,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "benchmark_rlmutation",
+        "Class": "",
+        "Function": "rename_environment",
+        "LOC": 6,
+        "CC": 1,
+        "PC": 5
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "benchmark_rlmutation",
+        "Class": "",
+        "Function": "rename",
+        "LOC": 13,
+        "CC": 6,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "benchmark_rlmutation",
+        "Class": "",
+        "Function": "process_file",
+        "LOC": 19,
+        "CC": 4,
+        "PC": 7
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "benchmark_rlmutation",
+        "Class": "",
+        "Function": "run_tool",
+        "LOC": 13,
+        "CC": 7,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "benchmark_rlmutation",
+        "Class": "",
+        "Function": "main",
+        "LOC": 5,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "ContactDetector",
+        "Function": "__init__",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "ContactDetector",
+        "Function": "BeginContact",
+        "LOC": 9,
+        "CC": 5,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "ContactDetector",
+        "Function": "EndContact",
+        "LOC": 4,
+        "CC": 3,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "__init__",
+        "LOC": 18,
+        "CC": 2,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "seed",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_destroy_bodies",
+        "LOC": 11,
+        "CC": 5,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_destroy",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_create_terrain",
+        "LOC": 29,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_create_lander",
+        "LOC": 25,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_create_legs",
+        "LOC": 36,
+        "CC": 3,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_prepare_reset",
+        "LOC": 6,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "reset",
+        "LOC": 7,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_create_particle",
+        "LOC": 17,
+        "CC": 1,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_clean_particles",
+        "LOC": 3,
+        "CC": 4,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_apply_main_engine",
+        "LOC": 25,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_apply_side_engine",
+        "LOC": 26,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_calculate_state",
+        "LOC": 14,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_calculate_reward",
+        "LOC": 15,
+        "CC": 2,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_is_done",
+        "LOC": 6,
+        "CC": 2,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "step",
+        "LOC": 36,
+        "CC": 15,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_update_particle_colors",
+        "LOC": 13,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_draw_body",
+        "LOC": 16,
+        "CC": 3,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "_draw_helipad",
+        "LOC": 13,
+        "CC": 2,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "render",
+        "LOC": 13,
+        "CC": 4,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Function": "close",
+        "LOC": 4,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomCartPole",
+        "Function": "__init__",
+        "LOC": 27,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomCartPole",
+        "Function": "seed",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomCartPole",
+        "Function": "_calculate_derivatives",
+        "LOC": 12,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomCartPole",
+        "Function": "_integrate_state",
+        "LOC": 13,
+        "CC": 2,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomCartPole",
+        "Function": "_is_episode_over",
+        "LOC": 8,
+        "CC": 2,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomCartPole",
+        "Function": "step",
+        "LOC": 25,
+        "CC": 4,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomCartPole",
+        "Function": "reset",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomCartPole",
+        "Function": "_create_cart_pole_geometries",
+        "LOC": 39,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomCartPole",
+        "Function": "render",
+        "LOC": 19,
+        "CC": 2,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomCartPole",
+        "Function": "close",
+        "LOC": 4,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Function": "natural_keys",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Function": "correct_reward_list",
+        "LOC": 6,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Function": "calculate_hellinger_distances",
+        "LOC": 21,
+        "CC": 3,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Function": "perform_statistical_tests",
+        "LOC": 16,
+        "CC": 2,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Function": "mt_dtr",
+        "LOC": 5,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Function": "mt_rew",
+        "LOC": 13,
+        "CC": 2,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Function": "hom_check_property",
+        "LOC": 18,
+        "CC": 5,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Function": "load_agents",
+        "LOC": 16,
+        "CC": 2,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Function": "run_agent_tests",
+        "LOC": 10,
+        "CC": 3,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Function": "register_custom_environment",
+        "LOC": 8,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Function": "process_test_environment",
+        "LOC": 12,
+        "CC": 2,
+        "PC": 5
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Function": "main",
+        "LOC": 53,
+        "CC": 5,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "mutated_env",
+        "Class": "Buffer",
+        "Function": "__init__",
+        "LOC": 5,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "mutated_env",
+        "Class": "Buffer",
+        "Function": "add",
+        "LOC": 6,
+        "CC": 2,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "mutated_env",
+        "Class": "Buffer",
+        "Function": "sample",
+        "LOC": 7,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "mutated_env",
+        "Class": "Buffer",
+        "Function": "__len__",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "mutated_env",
+        "Class": "Buffer",
+        "Function": "__getitem__",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "mutated_env",
+        "Class": "MutatedMonitor",
+        "Function": "__init__",
+        "LOC": 11,
+        "CC": 2,
+        "PC": 6
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "mutated_env",
+        "Class": "MutatedMonitor",
+        "Function": "_apply_mutation",
+        "LOC": 22,
+        "CC": 9,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "mutated_env",
+        "Class": "MutatedMonitor",
+        "Function": "_handle_episode_end",
+        "LOC": 14,
+        "CC": 3,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "mutated_env",
+        "Class": "MutatedMonitor",
+        "Function": "step",
+        "LOC": 19,
+        "CC": 3,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "rename_program",
+        "Class": "",
+        "Function": "initialize_tracker",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "rename_program",
+        "Class": "",
+        "Function": "get_parent_directory",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "rename_program",
+        "Class": "",
+        "Function": "handle_environment_name_casing",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "rename_program",
+        "Class": "",
+        "Function": "should_handle_logs_directory_rename",
+        "LOC": 2,
+        "CC": 2,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "rename_program",
+        "Class": "",
+        "Function": "get_corrected_substring_for_logs",
+        "LOC": 6,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "rename_program",
+        "Class": "",
+        "Function": "rename_folder",
+        "LOC": 12,
+        "CC": 3,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "rename_program",
+        "Class": "",
+        "Function": "rename_folders",
+        "LOC": 8,
+        "CC": 4,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "rename_program",
+        "Class": "",
+        "Function": "construct_paths",
+        "LOC": 20,
+        "CC": 3,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "rename_program",
+        "Class": "",
+        "Function": "main",
+        "LOC": 28,
+        "CC": 3,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Function": "calculate_p_value_glm",
+        "LOC": 14,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Function": "calculate_cohen_d",
+        "LOC": 8,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Function": "calculate_power",
+        "LOC": 5,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Function": "calculate_hellinger_distance",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Function": "_create_a2c_model",
+        "LOC": 34,
+        "CC": 3,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Function": "_create_ppo_model",
+        "LOC": 32,
+        "CC": 3,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Function": "_create_dqn_model",
+        "LOC": 42,
+        "CC": 3,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Function": "create_model",
+        "LOC": 12,
+        "CC": 2,
+        "PC": 5
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Function": "_load_a2c_model",
+        "LOC": 11,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Function": "_load_ppo_model",
+        "LOC": 12,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Function": "_load_dqn_model",
+        "LOC": 13,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Function": "load_model",
+        "LOC": 10,
+        "CC": 2,
+        "PC": 3
+    }
+]

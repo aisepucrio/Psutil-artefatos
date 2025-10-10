@@ -1,0 +1,322 @@
+[
+    {
+        "Package": "benchmarking_rlmut.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Smell": "Long method",
+        "Function/Method": "step",
+        "Line no": "120 - 176",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\custom_env\\custom_cartpole\\cartpole_folder\\envs\\cartpole_modified.py",
+        "Details": "Method 'step' is too long (48 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.custom_env.custom_cartpole.cartpole_folder.envs",
+        "Module": "cartpole_modified",
+        "Class": "CartPoleEnv",
+        "Smell": "Long method",
+        "Function/Method": "render",
+        "Line no": "183 - 246",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\custom_env\\custom_cartpole\\cartpole_folder\\envs\\cartpole_modified.py",
+        "Details": "Method 'render' is too long (57 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Smell": "Long method",
+        "Function/Method": "reset",
+        "Line no": "155 - 259",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\custom_env\\custom_lunarlander\\lunarlander_folder\\envs\\lunarlander_modified.py",
+        "Details": "Method 'reset' is too long (96 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Smell": "Long method",
+        "Function/Method": "step",
+        "Line no": "283 - 404",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\custom_env\\custom_lunarlander\\lunarlander_folder\\envs\\lunarlander_modified.py",
+        "Details": "Method 'step' is too long (112 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "LunarLander",
+        "Smell": "Long method",
+        "Function/Method": "render",
+        "Line no": "406 - 461",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\custom_env\\custom_lunarlander\\lunarlander_folder\\envs\\lunarlander_modified.py",
+        "Details": "Method 'render' is too long (49 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.custom_env.custom_lunarlander.lunarlander_folder.envs",
+        "Module": "lunarlander_modified",
+        "Class": "myLunarLanderEnv",
+        "Smell": "Long method",
+        "Function/Method": "reset",
+        "Line no": "602 - 714",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\custom_env\\custom_lunarlander\\lunarlander_folder\\envs\\lunarlander_modified.py",
+        "Details": "Method 'reset' is too long (95 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "mt_dtr",
+        "Line no": "81 - 132",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\algo.py",
+        "Details": "Method 'mt_dtr' is too long (48 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "algo",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "determine_boundaries",
+        "Line no": "204 - 316",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\algo.py",
+        "Details": "Method 'determine_boundaries' is too long (96 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "benchmark_rlmutation",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "rename",
+        "Line no": "48 - 115",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\benchmark_rlmutation.py",
+        "Details": "Method 'rename' is too long (68 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "benchmark_rlmutation",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "run_tool",
+        "Line no": "118 - 167",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\benchmark_rlmutation.py",
+        "Details": "Method 'run_tool' is too long (44 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Smell": "Long method",
+        "Function/Method": "reset",
+        "Line no": "135 - 239",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\custom_test_env.py",
+        "Details": "Method 'reset' is too long (96 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Smell": "Long method",
+        "Function/Method": "step",
+        "Line no": "263 - 384",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\custom_test_env.py",
+        "Details": "Method 'step' is too long (112 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomLunarLander",
+        "Smell": "Long method",
+        "Function/Method": "render",
+        "Line no": "386 - 441",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\custom_test_env.py",
+        "Details": "Method 'render' is too long (49 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomCartPole",
+        "Smell": "Long method",
+        "Function/Method": "step",
+        "Line no": "539 - 595",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\custom_test_env.py",
+        "Details": "Method 'step' is too long (48 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "custom_test_env",
+        "Class": "CustomCartPole",
+        "Smell": "Long method",
+        "Function/Method": "render",
+        "Line no": "602 - 665",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\custom_test_env.py",
+        "Details": "Method 'render' is too long (57 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "hom_prop",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "mt_dtr",
+        "Line no": "81 - 129",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\hom_prop.py",
+        "Details": "Method 'mt_dtr' is too long (45 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_algorithms",
+        "Class": "MutatedRolloutBuffer",
+        "Smell": "Long method",
+        "Function/Method": "compute_returns_and_advantage",
+        "Line no": "159 - 212",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_algorithms.py",
+        "Details": "Method 'compute_returns_and_advantage' is too long (47 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_algorithms",
+        "Class": "MutatedOnPolicyAlgorithm",
+        "Smell": "Long method",
+        "Function/Method": "__init__",
+        "Line no": "221 - 297",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_algorithms.py",
+        "Details": "Method '__init__' is too long (50 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_algorithms",
+        "Class": "MutatedOnPolicyAlgorithm",
+        "Smell": "Long method",
+        "Function/Method": "_setup_model",
+        "Line no": "301 - 349",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_algorithms.py",
+        "Details": "Method '_setup_model' is too long (45 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_algorithms",
+        "Class": "MutatedOnPolicyAlgorithm",
+        "Smell": "Long method",
+        "Function/Method": "mutated_collect_rollouts",
+        "Line no": "351 - 451",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_algorithms.py",
+        "Details": "Method 'mutated_collect_rollouts' is too long (85 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_algorithms",
+        "Class": "MutatedOnPolicyAlgorithm",
+        "Smell": "Long method",
+        "Function/Method": "learn",
+        "Line no": "453 - 533",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_algorithms.py",
+        "Details": "Method 'learn' is too long (65 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_algorithms",
+        "Class": "MutatedOffPolicyAlgorithm",
+        "Smell": "Long method",
+        "Function/Method": "__init__",
+        "Line no": "537 - 638",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_algorithms.py",
+        "Details": "Method '__init__' is too long (62 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_algorithms",
+        "Class": "MutatedOffPolicyAlgorithm",
+        "Smell": "Long method",
+        "Function/Method": "_setup_model",
+        "Line no": "642 - 689",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_algorithms.py",
+        "Details": "Method '_setup_model' is too long (42 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_algorithms",
+        "Class": "MutatedA2C",
+        "Smell": "Long method",
+        "Function/Method": "train",
+        "Line no": "766 - 832",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_algorithms.py",
+        "Details": "Method 'train' is too long (58 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_algorithms",
+        "Class": "MutatedPPO",
+        "Smell": "Long method",
+        "Function/Method": "__init__",
+        "Line no": "867 - 956",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_algorithms.py",
+        "Details": "Method '__init__' is too long (59 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_algorithms",
+        "Class": "MutatedPPO",
+        "Smell": "Long method",
+        "Function/Method": "train",
+        "Line no": "972 - 1109",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_algorithms.py",
+        "Details": "Method 'train' is too long (125 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_algorithms",
+        "Class": "MutatedDQN",
+        "Smell": "Long method",
+        "Function/Method": "__init__",
+        "Line no": "1153 - 1229",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_algorithms.py",
+        "Details": "Method '__init__' is too long (42 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_algorithms",
+        "Class": "MutatedDQN",
+        "Smell": "Long method",
+        "Function/Method": "train",
+        "Line no": "1275 - 1334",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_algorithms.py",
+        "Details": "Method 'train' is too long (54 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "mutated_env",
+        "Class": "MutatedMonitor",
+        "Smell": "Long method",
+        "Function/Method": "step",
+        "Line no": "118 - 186",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\mutated_env.py",
+        "Details": "Method 'step' is too long (54 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "rename_program",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "rename_folders",
+        "Line no": "24 - 66",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\rename_program.py",
+        "Details": "Method 'rename_folders' is too long (43 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "create_model",
+        "Line no": "99 - 347",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\utils.py",
+        "Details": "Method 'create_model' is too long (230 lines)."
+    },
+    {
+        "Package": "benchmarking_rlmut.RLMutation.RLMT",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "load_model",
+        "Line no": "350 - 409",
+        "File": "C:\\Users\\guicu\\OneDrive\\Documentos\\prog\\aise\\artifact\\artifacts\\benchmarking_rlmut\\RLMutation\\RLMT\\utils.py",
+        "Details": "Method 'load_model' is too long (49 lines)."
+    }
+]
