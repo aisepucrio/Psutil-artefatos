@@ -55,3 +55,6 @@
 [submodule "artefatos/benchmarking_rlmut"]
 	path = artefatos/benchmarking_rlmut
 	url = https://github.com/Deepakgthomas/benchmarking_rlmut.git
+[submodule "artefatos/dlisa"]
+	path = artefatos/dlisa
+	url = https://github.com/ideas-labo/dlisa.git

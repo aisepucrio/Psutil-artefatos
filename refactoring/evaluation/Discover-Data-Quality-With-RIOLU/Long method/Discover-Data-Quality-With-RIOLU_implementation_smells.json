@@ -1,0 +1,392 @@
+[
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "Auto-RIOLU",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\Auto-RIOLU.py",
+        "Details": "A line with 164 chars in Auto-RIOLU exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "Auto-RIOLU",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "113",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\Auto-RIOLU.py",
+        "Details": "A line with 135 chars in Auto-RIOLU exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "Guided-RIOLU",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\Guided-RIOLU.py",
+        "Details": "A line with 166 chars in Guided-RIOLU exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "Guided-RIOLU",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "111",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\Guided-RIOLU.py",
+        "Details": "A line with 135 chars in Guided-RIOLU exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_generator",
+        "Class": "PatternGenerator",
+        "Smell": "Complex method",
+        "Function/Method": "information_gathering",
+        "Line no": "48 - 90",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_generator.py",
+        "Details": "Method 'information_gathering' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_generator",
+        "Class": "PatternGenerator",
+        "Smell": "Complex method",
+        "Function/Method": "pattern_generation",
+        "Line no": "93 - 252",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_generator.py",
+        "Details": "Method 'pattern_generation' has a cyclomatic complexity of 34, exceeding the max of 6."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_generator",
+        "Class": "PatternGenerator",
+        "Smell": "Long method",
+        "Function/Method": "pattern_generation",
+        "Line no": "93 - 252",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_generator.py",
+        "Details": "Method 'pattern_generation' is too long (159 lines)."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_generator",
+        "Class": "PatternGenerator",
+        "Smell": "Long statement",
+        "Function/Method": "pattern_coverage_statictics",
+        "Line no": "261",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_generator.py",
+        "Details": "A line with 157 chars in pattern_coverage_statictics exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_generator.py",
+        "Details": "A line with 171 chars in pattern_generator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "290",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_generator.py",
+        "Details": "A line with 135 chars in pattern_generator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_selector",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_selector.py",
+        "Details": "A line with 170 chars in pattern_selector exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_selector",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_selector.py",
+        "Details": "A line with 135 chars in pattern_selector exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_summarizer",
+        "Class": "PatternGenerator",
+        "Smell": "Complex method",
+        "Function/Method": "information_gathering",
+        "Line no": "43 - 82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_summarizer.py",
+        "Details": "Method 'information_gathering' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_summarizer",
+        "Class": "PatternGenerator",
+        "Smell": "Complex method",
+        "Function/Method": "pattern_generation",
+        "Line no": "85 - 244",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_summarizer.py",
+        "Details": "Method 'pattern_generation' has a cyclomatic complexity of 34, exceeding the max of 6."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_summarizer",
+        "Class": "PatternGenerator",
+        "Smell": "Long method",
+        "Function/Method": "pattern_generation",
+        "Line no": "85 - 244",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_summarizer.py",
+        "Details": "Method 'pattern_generation' is too long (159 lines)."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_summarizer",
+        "Class": "PatternGenerator",
+        "Smell": "Long statement",
+        "Function/Method": "pattern_coverage_statictics",
+        "Line no": "253",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_summarizer.py",
+        "Details": "A line with 157 chars in pattern_coverage_statictics exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_summarizer",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_summarizer.py",
+        "Details": "A line with 172 chars in pattern_summarizer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "pattern_summarizer",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "282",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\pattern_summarizer.py",
+        "Details": "A line with 135 chars in pattern_summarizer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "test_profiling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\test_profiling.py",
+        "Details": "A line with 168 chars in test_profiling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "test_profiling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "195",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\test_profiling.py",
+        "Details": "A line with 135 chars in test_profiling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "utils",
+        "Class": "Utils",
+        "Smell": "Complex method",
+        "Function/Method": "symbol_length",
+        "Line no": "46 - 72",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\utils.py",
+        "Details": "Method 'symbol_length' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "utils",
+        "Class": "Utils",
+        "Smell": "Complex method",
+        "Function/Method": "token_info",
+        "Line no": "75 - 122",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\utils.py",
+        "Details": "Method 'token_info' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\utils.py",
+        "Details": "A line with 159 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "179",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.ablation_study",
+        "Module": "20_subsampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\ablation_study\\20_subsampling.py",
+        "Details": "A line with 184 chars in 20_subsampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.ablation_study",
+        "Module": "20_subsampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "172",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\ablation_study\\20_subsampling.py",
+        "Details": "A line with 135 chars in 20_subsampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.ablation_study",
+        "Module": "no_selection",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\ablation_study\\no_selection.py",
+        "Details": "A line with 182 chars in no_selection exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.ablation_study",
+        "Module": "no_selection",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "170",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\ablation_study\\no_selection.py",
+        "Details": "A line with 135 chars in no_selection exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.ablation_study",
+        "Module": "static_rcov_95",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\ablation_study\\static_rcov_95.py",
+        "Details": "A line with 184 chars in static_rcov_95 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.ablation_study",
+        "Module": "static_rcov_95",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "160",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\ablation_study\\static_rcov_95.py",
+        "Details": "A line with 135 chars in static_rcov_95 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.ablation_study",
+        "Module": "static_rEM_1",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\ablation_study\\static_rEM_1.py",
+        "Details": "A line with 182 chars in static_rEM_1 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.ablation_study",
+        "Module": "static_rEM_1",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "172",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\ablation_study\\static_rEM_1.py",
+        "Details": "A line with 135 chars in static_rEM_1 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.ablation_study",
+        "Module": "static_selection_threshold",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\ablation_study\\static_selection_threshold.py",
+        "Details": "A line with 196 chars in static_selection_threshold exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.ablation_study",
+        "Module": "static_selection_threshold",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "173",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\ablation_study\\static_selection_threshold.py",
+        "Details": "A line with 135 chars in static_selection_threshold exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.ablation_study",
+        "Module": "static_selection_threshold",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "coverage_estimation",
+        "Line no": "34",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\ablation_study\\static_selection_threshold.py",
+        "Details": "Magic number 0.01 used in coverage_estimation."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.sensitivity_analysis",
+        "Module": "Auto_RIOLU_alt_inircov",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\sensitivity_analysis\\Auto_RIOLU_alt_inircov.py",
+        "Details": "A line with 198 chars in Auto_RIOLU_alt_inircov exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.sensitivity_analysis",
+        "Module": "Auto_RIOLU_alt_inircov",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "203",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\sensitivity_analysis\\Auto_RIOLU_alt_inircov.py",
+        "Details": "A line with 135 chars in Auto_RIOLU_alt_inircov exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.sensitivity_analysis",
+        "Module": "Auto_RIOLU_alt_nsubset",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\sensitivity_analysis\\Auto_RIOLU_alt_nsubset.py",
+        "Details": "A line with 198 chars in Auto_RIOLU_alt_nsubset exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU.sensitivity_analysis",
+        "Module": "Auto_RIOLU_alt_nsubset",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "201",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\sensitivity_analysis\\Auto_RIOLU_alt_nsubset.py",
+        "Details": "A line with 135 chars in Auto_RIOLU_alt_nsubset exceeds the maximum length of 120 characters."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "prune",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "singular_verification_adult",
+        "Line no": "281 - 369",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\prune.py",
+        "Details": "Method 'singular_verification_adult' is too long (78 lines)."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "prune",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "singular_verification_fairval",
+        "Line no": "512 - 606",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\prune.py",
+        "Details": "Method 'singular_verification_fairval' is too long (84 lines)."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "verif_utils",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "load_adult",
+        "Line no": "300 - 413",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\verif_utils.py",
+        "Details": "Method 'load_adult' is too long (72 lines)."
+    }
+]

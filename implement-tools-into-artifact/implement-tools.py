@@ -88,6 +88,6 @@ def implement_codecarbon_and_psutil(base_path):
 
 if __name__ == "__main__":
     artifacts_path = os.path.abspath(
-        r"C:\Users\guicu\OneDrive\Documentos\prog\aise\ecosustain-replication-study\artifacts\Discover-Data-Quality-With-RIOLU"
+        r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\artefatos"
     )
     implement_codecarbon_and_psutil(artifacts_path)

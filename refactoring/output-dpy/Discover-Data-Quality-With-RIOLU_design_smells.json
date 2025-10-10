@@ -1,0 +1,11 @@
+[
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Module": "utils",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "Utils",
+        "Line no": "17",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Discover-Data-Quality-With-RIOLU\\utils.py",
+        "Details": "Class 'Utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    }
+]

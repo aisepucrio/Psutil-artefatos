@@ -2,8 +2,8 @@ import os
 import pandas as pd
 
 # === CONFIGURAÇÃO ===
-artefato = "benchmarking_rlmut"
-base_path = r"C:\Users\guicu\OneDrive\Documentos\prog\aise\refactoring\output-dpy"
+artefato = "Discover-Data-Quality-With-RIOLU"
+base_path = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\output-dpy"
 
 # Caminhos dos arquivos JSON
 path_original = os.path.join(base_path, f"{artefato}_implementation_smells.json")

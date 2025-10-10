@@ -1,0 +1,142 @@
+[
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_generator",
+        "Class": "PatternGenerator",
+        "Smell": "Complex method",
+        "Function/Method": "_process_char_level",
+        "Line no": "97 - 149",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_generator.py",
+        "Details": "Method '_process_char_level' has a cyclomatic complexity of 17, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_generator",
+        "Class": "PatternGenerator",
+        "Smell": "Long parameter list",
+        "Function/Method": "_process_char_level",
+        "Line no": "97 - 149",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_generator.py",
+        "Details": "_process_char_level has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_generator",
+        "Class": "PatternGenerator",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "16",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_generator.py",
+        "Details": "A line with 132 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_generator",
+        "Class": "PatternGenerator",
+        "Smell": "Long statement",
+        "Function/Method": "_process_token_level",
+        "Line no": "90",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_generator.py",
+        "Details": "A line with 180 chars in _process_token_level exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_generator",
+        "Class": "PatternGenerator",
+        "Smell": "Long statement",
+        "Function/Method": "pattern_coverage_statictics",
+        "Line no": "167",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_generator.py",
+        "Details": "A line with 157 chars in pattern_coverage_statictics exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "181",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_generator.py",
+        "Details": "A line with 171 chars in pattern_generator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_summarizer",
+        "Class": "PatternGenerator",
+        "Smell": "Complex method",
+        "Function/Method": "_process_char_type",
+        "Line no": "185 - 229",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_summarizer.py",
+        "Details": "Method '_process_char_type' has a cyclomatic complexity of 15, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_summarizer",
+        "Class": "PatternGenerator",
+        "Smell": "Long parameter list",
+        "Function/Method": "_process_char_stats",
+        "Line no": "160 - 183",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_summarizer.py",
+        "Details": "_process_char_stats has 8 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_summarizer",
+        "Class": "PatternGenerator",
+        "Smell": "Long parameter list",
+        "Function/Method": "_process_char_type",
+        "Line no": "185 - 229",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_summarizer.py",
+        "Details": "_process_char_type has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_summarizer",
+        "Class": "PatternGenerator",
+        "Smell": "Long statement",
+        "Function/Method": "_process_token_stats",
+        "Line no": "112",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_summarizer.py",
+        "Details": "A line with 174 chars in _process_token_stats exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_summarizer",
+        "Class": "PatternGenerator",
+        "Smell": "Long statement",
+        "Function/Method": "_process_char_stats",
+        "Line no": "182",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_summarizer.py",
+        "Details": "A line with 135 chars in _process_char_stats exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_summarizer",
+        "Class": "PatternGenerator",
+        "Smell": "Long statement",
+        "Function/Method": "pattern_coverage_statictics",
+        "Line no": "243",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_summarizer.py",
+        "Details": "A line with 157 chars in pattern_coverage_statictics exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_summarizer",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "264",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_summarizer.py",
+        "Details": "A line with 172 chars in pattern_summarizer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pattern_summarizer",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "274",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pattern_summarizer.py",
+        "Details": "A line with 141 chars in pattern_summarizer exceeds the maximum length of 120 characters."
+    }
+]

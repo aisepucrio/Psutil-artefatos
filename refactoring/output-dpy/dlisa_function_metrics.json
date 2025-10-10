@@ -1,0 +1,218 @@
+[
+    {
+        "Package": "dlisa",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "__init__",
+        "LOC": 8,
+        "CC": 1,
+        "PC": 7
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "dynamic_optimization",
+        "LOC": 72,
+        "CC": 9,
+        "PC": 3
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "initialize_population",
+        "LOC": 34,
+        "CC": 6,
+        "PC": 4
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "generate_next_population",
+        "LOC": 141,
+        "CC": 33,
+        "PC": 4
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "find_top_k_configs",
+        "LOC": 8,
+        "CC": 2,
+        "PC": 4
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "generate_next_population_based_high_similarity",
+        "LOC": 54,
+        "CC": 11,
+        "PC": 1
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "generate_next_population_based_medium_similarity",
+        "LOC": 10,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "calculate_similarity",
+        "LOC": 23,
+        "CC": 5,
+        "PC": 4
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "calculate_average_similarity",
+        "LOC": 13,
+        "CC": 2,
+        "PC": 2
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "__init__",
+        "LOC": 8,
+        "CC": 1,
+        "PC": 4
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "run",
+        "LOC": 50,
+        "CC": 5,
+        "PC": 10
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "evaluate",
+        "LOC": 19,
+        "CC": 6,
+        "PC": 3
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "generate_offspring_by_cro_mut",
+        "LOC": 31,
+        "CC": 6,
+        "PC": 3
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "tournament_selection",
+        "LOC": 7,
+        "CC": 2,
+        "PC": 1
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "crossover",
+        "LOC": 8,
+        "CC": 2,
+        "PC": 2
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "mutate",
+        "LOC": 6,
+        "CC": 3,
+        "PC": 2
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "is_valid_offspring",
+        "LOC": 8,
+        "CC": 2,
+        "PC": 3
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "find_nearest_neighbors",
+        "LOC": 5,
+        "CC": 1,
+        "PC": 3
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "generate_multi_objective_scores",
+        "LOC": 11,
+        "CC": 2,
+        "PC": 3
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "fast_non_dominated_sort",
+        "LOC": 26,
+        "CC": 10,
+        "PC": 1
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "crowding_distance_assignment",
+        "LOC": 21,
+        "CC": 4,
+        "PC": 2
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "dominates",
+        "LOC": 2,
+        "CC": 2,
+        "PC": 2
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Genetic_Algorithm",
+        "Class": "GeneticAlgorithm",
+        "Function": "LiDOS_selection",
+        "LOC": 38,
+        "CC": 6,
+        "PC": 3
+    },
+    {
+        "Package": "dlisa",
+        "Module": "main",
+        "Class": "",
+        "Function": "main",
+        "LOC": 33,
+        "CC": 5,
+        "PC": 0
+    }
+]

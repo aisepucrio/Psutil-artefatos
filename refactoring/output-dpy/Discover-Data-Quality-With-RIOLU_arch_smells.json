@@ -1,0 +1,7 @@
+[
+    {
+        "Package": "Discover-Data-Quality-With-RIOLU",
+        "Smell": "Feature concentration",
+        "Details": "The component realizes more than one architectural concern/feature. Independent sets of related modules within this component are: [Auto-RIOLU; pattern_generator; pattern_selector; test_profiling; Guided-RIOLU]; [pattern_summarizer]; [utils]. LCC (Lack of Component Cohesion) = 0.43"
+    }
+]

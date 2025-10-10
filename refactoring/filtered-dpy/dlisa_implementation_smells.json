@@ -1,0 +1,22 @@
+[
+    {
+        "Package": "dlisa",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Smell": "Long method",
+        "Function/Method": "dynamic_optimization",
+        "Line no": "34 - 108",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\dlisa\\Adaptation_Optimizer.py",
+        "Details": "Method 'dynamic_optimization' is too long (72 lines)."
+    },
+    {
+        "Package": "dlisa",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Smell": "Long method",
+        "Function/Method": "generate_next_population",
+        "Line no": "159 - 302",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\dlisa\\Adaptation_Optimizer.py",
+        "Details": "Method 'generate_next_population' is too long (141 lines)."
+    }
+]

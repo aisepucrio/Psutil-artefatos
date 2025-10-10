@@ -1,0 +1,398 @@
+[
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-1-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-1-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-1-Model-Functions.py",
+        "Details": "Class 'AC-1-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-10-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-10-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-10-Model-Functions.py",
+        "Details": "Class 'AC-10-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-11-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-11-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-11-Model-Functions.py",
+        "Details": "Class 'AC-11-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-12-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-12-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-12-Model-Functions.py",
+        "Details": "Class 'AC-12-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-2-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-2-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-2-Model-Functions.py",
+        "Details": "Class 'AC-2-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-3-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-3-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-3-Model-Functions.py",
+        "Details": "Class 'AC-3-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-4-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-4-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-4-Model-Functions.py",
+        "Details": "Class 'AC-4-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-5-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-5-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-5-Model-Functions.py",
+        "Details": "Class 'AC-5-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-6-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-6-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-6-Model-Functions.py",
+        "Details": "Class 'AC-6-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-7-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-7-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-7-Model-Functions.py",
+        "Details": "Class 'AC-7-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-8-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-8-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-8-Model-Functions.py",
+        "Details": "Class 'AC-8-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-9-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-9-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-9-Model-Functions.py",
+        "Details": "Class 'AC-9-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "AC-A-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "AC-A-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\AC-A-Model-Functions.py",
+        "Details": "Class 'AC-A-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "BM-1-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "BM-1-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\BM-1-Model-Functions.py",
+        "Details": "Class 'BM-1-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "BM-2-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "BM-2-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\BM-2-Model-Functions.py",
+        "Details": "Class 'BM-2-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "BM-3-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "BM-3-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\BM-3-Model-Functions.py",
+        "Details": "Class 'BM-3-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "BM-4-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "BM-4-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\BM-4-Model-Functions.py",
+        "Details": "Class 'BM-4-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "BM-5-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "BM-5-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\BM-5-Model-Functions.py",
+        "Details": "Class 'BM-5-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "BM-6-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "BM-6-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\BM-6-Model-Functions.py",
+        "Details": "Class 'BM-6-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "BM-7-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "BM-7-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\BM-7-Model-Functions.py",
+        "Details": "Class 'BM-7-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "BM-8-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "BM-8-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\BM-8-Model-Functions.py",
+        "Details": "Class 'BM-8-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "compas-1-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "compas-1-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\compas-1-Model-Functions.py",
+        "Details": "Class 'compas-1-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "compas-2-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "compas-2-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\compas-2-Model-Functions.py",
+        "Details": "Class 'compas-2-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "compas-3-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "compas-3-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\compas-3-Model-Functions.py",
+        "Details": "Class 'compas-3-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "compas-4-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "compas-4-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\compas-4-Model-Functions.py",
+        "Details": "Class 'compas-4-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "compas-5-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "compas-5-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\compas-5-Model-Functions.py",
+        "Details": "Class 'compas-5-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "compas-6-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "compas-6-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\compas-6-Model-Functions.py",
+        "Details": "Class 'compas-6-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "compas-7-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "compas-7-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\compas-7-Model-Functions.py",
+        "Details": "Class 'compas-7-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "GC-1-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "GC-1-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\GC-1-Model-Functions.py",
+        "Details": "Class 'GC-1-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "GC-2-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "GC-2-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\GC-2-Model-Functions.py",
+        "Details": "Class 'GC-2-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "GC-3-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "GC-3-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\GC-3-Model-Functions.py",
+        "Details": "Class 'GC-3-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "GC-4-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "GC-4-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\GC-4-Model-Functions.py",
+        "Details": "Class 'GC-4-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "GC-5-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "GC-5-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\GC-5-Model-Functions.py",
+        "Details": "Class 'GC-5-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "input_partition",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "input_partition",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\input_partition.py",
+        "Details": "Class 'input_partition' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "prune",
+        "Smell": "Insufficient modularization",
+        "Class/Module": "prune",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\prune.py",
+        "Details": "Module 'prune' is insufficiently modularized with NOPM: 33, WMC: 167, NOM: 33."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "salary-1-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "salary-1-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\salary-1-Model-Functions.py",
+        "Details": "Class 'salary-1-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "salary-2-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "salary-2-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\salary-2-Model-Functions.py",
+        "Details": "Class 'salary-2-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "salary-3-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "salary-3-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\salary-3-Model-Functions.py",
+        "Details": "Class 'salary-3-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "salary-4-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "salary-4-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\salary-4-Model-Functions.py",
+        "Details": "Class 'salary-4-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "salary-5-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "salary-5-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\salary-5-Model-Functions.py",
+        "Details": "Class 'salary-5-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "salary-6-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "salary-6-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\salary-6-Model-Functions.py",
+        "Details": "Class 'salary-6-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "salary-7-Model-Functions",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "salary-7-Model-Functions",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\salary-7-Model-Functions.py",
+        "Details": "Class 'salary-7-Model-Functions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "verif_utils",
+        "Smell": "Insufficient modularization",
+        "Class/Module": "verif_utils",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\verif_utils.py",
+        "Details": "Module 'verif_utils' is insufficiently modularized with NOPM: 46, WMC: 164, NOM: 46."
+    },
+    {
+        "Package": "FairQuant-Artifact.Fairify.utils",
+        "Module": "verif_utils",
+        "Smell": "Multifaceted abstraction",
+        "Class/Module": "verif_utils",
+        "Line no": "1",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\FairQuant-Artifact\\Fairify\\utils\\verif_utils.py",
+        "Details": "Class 'verif_utils' has a high LCOM value of 0.83, indicating it may have multiple responsibilities."
+    }
+]

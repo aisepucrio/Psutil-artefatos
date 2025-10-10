@@ -42,8 +42,8 @@ def reset_experimento():
 
 def roda_dpy(path):
     print("Iniciando análises com o DPy...")
-    diretorio_dpy = r"C:\Users\guicu\OneDrive\Documentos\prog\aise\DPy\DPy\windows"
-    caminho_saida = r"C:\Users\guicu\OneDrive\Documentos\prog\aise\refactoring\output-dpy"
+    diretorio_dpy = r"C:\Users\PUC\Documents\DPy"
+    caminho_saida = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\output-dpy"
 
     comando = [
         ".\\dpy", "analyze",
@@ -159,23 +159,23 @@ def filtrar_por_smell(caminho_arquivo, smell_tipo):
     with open(caminho_arquivo, "r", encoding="utf-8") as f:
         data = json.load(f)
     filtrado = [item for item in data if item.get("Smell") == smell_tipo]
-    caminho = rf"C:\Users\guicu\OneDrive\Documentos\prog\aise\refactoring\filtered-dpy\{os.path.basename(caminho_arquivo)}"
+    caminho = rf"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\filtered-dpy\{os.path.basename(caminho_arquivo)}"
     with open(caminho, "w", encoding="utf-8") as f:
         json.dump(filtrado, f, indent=4, ensure_ascii=False)
 
 
 # === MAIN PIPELINE ===
-pasta_output = r"C:\Users\guicu\OneDrive\Documentos\prog\aise\refactoring\output-dpy"
-nome_artefato = "benchmarking_rlmut"
-artefato = fr"C:\Users\guicu\OneDrive\Documentos\prog\aise\artifact\artifacts\{nome_artefato}"
-saida_gemini = r"C:\Users\guicu\OneDrive\Documentos\prog\aise\refactoring\saida_gemini"
-filtered_output = r"C:\Users\guicu\OneDrive\Documentos\prog\aise\refactoring\filtered-dpy"
+pasta_output = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\output-dpy"
+nome_artefato = "FairQuant-Artifact"
+artefato = fr"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\artefatos\{nome_artefato}"
+saida_gemini = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\saida_gemini"
+filtered_output = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\filtered-dpy"
 
 reset_experimento()
 roda_dpy(artefato)
 
 filtrar_por_smell(
-    f"{pasta_output}/{os.path.basename(artefato)}_implementation_smells.json",
+    rf"{pasta_output}\{os.path.basename(artefato)}_implementation_smells.json",
     "Long method"
 )
 
