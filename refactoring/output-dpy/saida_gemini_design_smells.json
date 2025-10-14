@@ -1,0 +1,11 @@
+[
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Smell": "Insufficient modularization",
+        "Class/Module": "AdaptationOptimizer",
+        "Line no": "12",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\Adaptation_Optimizer.py",
+        "Details": "Class 'AdaptationOptimizer' is insufficiently modularized with NOPM: 8, WMC: 60, NOM: 32."
+    }
+]

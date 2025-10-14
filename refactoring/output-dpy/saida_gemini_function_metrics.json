@@ -1,236 +1,290 @@
 [
     {
         "Package": "saida_gemini",
-        "Module": "pattern_generator",
-        "Class": "PatternGenerator",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
         "Function": "__init__",
-        "LOC": 14,
-        "CC": 1,
-        "PC": 4
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_generator",
-        "Class": "PatternGenerator",
-        "Function": "_get_max_length",
-        "LOC": 4,
-        "CC": 1,
-        "PC": 3
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_generator",
-        "Class": "PatternGenerator",
-        "Function": "_process_token_info",
-        "LOC": 13,
-        "CC": 5,
-        "PC": 3
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_generator",
-        "Class": "PatternGenerator",
-        "Function": "_update_token_info",
-        "LOC": 17,
-        "CC": 6,
-        "PC": 4
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_generator",
-        "Class": "PatternGenerator",
-        "Function": "information_gathering",
-        "LOC": 4,
-        "CC": 1,
-        "PC": 3
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_generator",
-        "Class": "PatternGenerator",
-        "Function": "_cluster_coverages",
         "LOC": 8,
         "CC": 1,
-        "PC": 2
+        "PC": 7
     },
     {
         "Package": "saida_gemini",
-        "Module": "pattern_generator",
-        "Class": "PatternGenerator",
-        "Function": "_process_token_level",
-        "LOC": 16,
-        "CC": 1,
-        "PC": 4
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_generator",
-        "Class": "PatternGenerator",
-        "Function": "_process_char_level",
-        "LOC": 53,
-        "CC": 17,
-        "PC": 6
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_generator",
-        "Class": "PatternGenerator",
-        "Function": "pattern_generation",
-        "LOC": 12,
-        "CC": 3,
-        "PC": 2
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_generator",
-        "Class": "PatternGenerator",
-        "Function": "pattern_coverage_statictics",
-        "LOC": 15,
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "dynamic_optimization",
+        "LOC": 32,
         "CC": 4,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_initialize_algorithm_data",
+        "LOC": 7,
+        "CC": 1,
         "PC": 0
     },
     {
         "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "__init__",
-        "LOC": 15,
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_create_output_folders",
+        "LOC": 6,
         "CC": 1,
         "PC": 2
     },
     {
         "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "information_gathering",
-        "LOC": 12,
-        "CC": 3,
-        "PC": 3
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_get_initial_population",
+        "LOC": 7,
+        "CC": 2,
+        "PC": 6
     },
     {
         "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "_process_token_info",
-        "LOC": 13,
-        "CC": 3,
-        "PC": 4
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_get_environmental_selection_type",
+        "LOC": 2,
+        "CC": 1,
+        "PC": 1
     },
     {
         "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "_update_token_stats",
-        "LOC": 4,
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_save_optimization_results",
+        "LOC": 9,
+        "CC": 1,
+        "PC": 7
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_update_historical_data",
+        "LOC": 6,
         "CC": 1,
         "PC": 5
     },
     {
         "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "_update_length_counts",
-        "LOC": 5,
-        "CC": 2,
-        "PC": 3
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_save_similarity_score",
+        "LOC": 4,
+        "CC": 1,
+        "PC": 1
     },
     {
         "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "_update_token_counts",
-        "LOC": 5,
-        "CC": 2,
-        "PC": 3
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "initialize_population",
+        "LOC": 8,
+        "CC": 1,
+        "PC": 4
     },
     {
         "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "_update_char_counts",
-        "LOC": 10,
-        "CC": 4,
-        "PC": 3
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_get_existing_config_hashes",
+        "LOC": 2,
+        "CC": 1,
+        "PC": 1
     },
     {
         "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "pattern_generation",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_get_configs_from_data",
+        "LOC": 14,
+        "CC": 3,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_get_configs_from_random",
         "LOC": 9,
         "CC": 3,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_get_ids_from_random",
+        "LOC": 7,
+        "CC": 2,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "generate_next_population",
+        "LOC": 18,
+        "CC": 1,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_seed_ea_population",
+        "LOC": 2,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_d_soga_population",
+        "LOC": 13,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_lidos_population",
+        "LOC": 2,
+        "CC": 1,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_dlisa_population",
+        "LOC": 11,
+        "CC": 2,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_dlisa_i_population",
+        "LOC": 10,
+        "CC": 2,
         "PC": 2
     },
     {
         "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "_process_token_stats",
-        "LOC": 25,
-        "CC": 3,
-        "PC": 4
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "_handle_token_categories",
-        "LOC": 21,
-        "CC": 5,
-        "PC": 4
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "_get_length_constraints",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_dlisa_i_high_similarity_population",
         "LOC": 8,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_dlisa_ii_population",
+        "LOC": 10,
+        "CC": 2,
+        "PC": 2
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_collect_historical_configs_and_ids",
+        "LOC": 7,
+        "CC": 2,
+        "PC": 0
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_get_unique_optima_configs_and_counts",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_select_configs_for_transfer",
+        "LOC": 20,
+        "CC": 6,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "find_top_k_configs",
+        "LOC": 5,
+        "CC": 1,
+        "PC": 4
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "generate_next_population_based_high_similarity",
+        "LOC": 17,
         "CC": 2,
         "PC": 1
     },
     {
         "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "_should_skip_char_processing",
-        "LOC": 7,
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_calculate_latest_env_num",
+        "LOC": 9,
+        "CC": 4,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "_calculate_compound_weights",
+        "LOC": 8,
         "CC": 2,
+        "PC": 3
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "generate_next_population_based_medium_similarity",
+        "LOC": 9,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "calculate_similarity",
+        "LOC": 18,
+        "CC": 5,
         "PC": 4
     },
     {
         "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "_process_char_stats",
-        "LOC": 24,
-        "CC": 6,
-        "PC": 8
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "_process_char_type",
-        "LOC": 45,
-        "CC": 15,
-        "PC": 6
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "_finalize_token_char",
-        "LOC": 8,
-        "CC": 3,
-        "PC": 5
-    },
-    {
-        "Package": "saida_gemini",
-        "Module": "pattern_summarizer",
-        "Class": "PatternGenerator",
-        "Function": "pattern_coverage_statictics",
-        "LOC": 21,
-        "CC": 4,
-        "PC": 0
+        "Module": "Adaptation_Optimizer",
+        "Class": "AdaptationOptimizer",
+        "Function": "calculate_average_similarity",
+        "LOC": 14,
+        "CC": 2,
+        "PC": 2
     }
 ]

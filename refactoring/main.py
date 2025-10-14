@@ -23,12 +23,15 @@ elif IA_PROVIDER == "openai":
 
 
 def reset_experimento():
+    base_path = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring"
     pastas = ["filtered-dpy", "output-dpy", "saida_gemini"]
 
     for pasta in pastas:
-        if os.path.exists(pasta):
-            for item in os.listdir(pasta):
-                caminho_item = os.path.join(pasta, item)
+        caminho_pasta = os.path.join(base_path, pasta)
+
+        if os.path.exists(caminho_pasta):
+            for item in os.listdir(caminho_pasta):
+                caminho_item = os.path.join(caminho_pasta, item)
                 try:
                     if os.path.isfile(caminho_item) or os.path.islink(caminho_item):
                         os.remove(caminho_item)
@@ -37,7 +40,7 @@ def reset_experimento():
                 except Exception as e:
                     print(f"Erro ao excluir {caminho_item}: {e}")
         else:
-            print(f"A pasta '{pasta}' não existe.")
+            print(f"A pasta '{caminho_pasta}' não existe.")
 
 
 def roda_dpy(path):
@@ -166,7 +169,7 @@ def filtrar_por_smell(caminho_arquivo, smell_tipo):
 
 # === MAIN PIPELINE ===
 pasta_output = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\output-dpy"
-nome_artefato = "FairQuant-Artifact"
+nome_artefato = "dlisa"
 artefato = fr"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\artefatos\{nome_artefato}"
 saida_gemini = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\saida_gemini"
 filtered_output = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\filtered-dpy"
