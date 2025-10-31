@@ -1,0 +1,8 @@
+﻿Smell,Original,Refatorado
+Complex method,6,4
+Empty catch block,6,1
+Long identifier,29,12
+Long method,4,1
+Long parameter list,3,2
+Long statement,267,34
+Magic number,180,104

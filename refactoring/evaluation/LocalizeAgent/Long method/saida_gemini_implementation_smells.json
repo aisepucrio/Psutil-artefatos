@@ -1,0 +1,122 @@
+[
+    {
+        "Package": "saida_gemini.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "VariableUsage",
+        "Smell": "Complex method",
+        "Function/Method": "_run",
+        "Line no": "52 - 73",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "Method '_run' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "CountMethods",
+        "Smell": "Empty catch block",
+        "Function/Method": "_run",
+        "Line no": "43",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "Empty catch block found in _run."
+    },
+    {
+        "Package": "saida_gemini.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "VariableUsage",
+        "Smell": "Empty catch block",
+        "Function/Method": "_run",
+        "Line no": "72",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "Empty catch block found in _run."
+    },
+    {
+        "Package": "saida_gemini.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "FanInFanOutAnalysis",
+        "Smell": "Empty catch block",
+        "Function/Method": "_run",
+        "Line no": "92",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "Empty catch block found in _run."
+    },
+    {
+        "Package": "saida_gemini.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "ClassCouplingAnalysis",
+        "Smell": "Empty catch block",
+        "Function/Method": "_run",
+        "Line no": "140",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "Empty catch block found in _run."
+    },
+    {
+        "Package": "saida_gemini.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "ClassCouplingAnalysis",
+        "Smell": "Long statement",
+        "Function/Method": "_format_class_references",
+        "Line no": "159",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "A line with 121 chars in _format_class_references exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "12",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "A line with 191 chars in custom_tools exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "177",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "A line with 135 chars in custom_tools exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.localize_agent.src.localize_agent.tools",
+        "Module": "test_count_methods",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "get_java_code",
+        "Line no": "25 - 27",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\localize_agent\\src\\localize_agent\\tools\\test_count_methods.py",
+        "Details": "Method 'get_java_code' is too long (79 lines)."
+    },
+    {
+        "Package": "saida_gemini.localize_agent.src.localize_agent.tools",
+        "Module": "test_count_methods",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "get_java_code",
+        "Line no": "27",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\localize_agent\\src\\localize_agent\\tools\\test_count_methods.py",
+        "Details": "A line with 2274 chars in get_java_code exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.localize_agent.src.localize_agent.tools",
+        "Module": "test_count_methods",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "save_psutil_data",
+        "Line no": "129",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\localize_agent\\src\\localize_agent\\tools\\test_count_methods.py",
+        "Details": "A line with 135 chars in save_psutil_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.localize_agent.src.localize_agent.tools",
+        "Module": "test_count_methods",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "141",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\localize_agent\\src\\localize_agent\\tools\\test_count_methods.py",
+        "Details": "A line with 197 chars in test_count_methods exceeds the maximum length of 120 characters."
+    }
+]

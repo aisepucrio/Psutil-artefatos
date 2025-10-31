@@ -1,0 +1,6 @@
+﻿Smell,Original,Refatorado
+Complex method,3,2
+Long method,4,1
+Long parameter list,6,4
+Long statement,139,31
+Magic number,124,66

@@ -1,0 +1,542 @@
+[
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "post_process_tokens",
+        "Line no": "36 - 47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Method 'post_process_tokens' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "227 - 297",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Method '_find_template_recursive' has a cyclomatic complexity of 23, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "227 - 297",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Method '_find_template_recursive' is too long (71 lines)."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "message_split",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "A line with 129 chars in message_split exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "ParsingCache",
+        "Smell": "Long statement",
+        "Function/Method": "insert",
+        "Line no": "146",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "A line with 148 chars in insert exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "304",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "A line with 151 chars in parsing_cache exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "316",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "A line with 135 chars in parsing_cache exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "lcs_similarity",
+        "Line no": "33",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in lcs_similarity."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "match_template",
+        "Line no": "223",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in match_template."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "match_template",
+        "Line no": "223",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 3 used in match_template."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "match_template",
+        "Line no": "223",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in match_template."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "289",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in _find_template_recursive."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "294",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in _find_template_recursive."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "233",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in _find_template_recursive."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "239",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in _find_template_recursive."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "251",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in _find_template_recursive."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "252",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in _find_template_recursive."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "244",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in _find_template_recursive."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "283",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in _find_template_recursive."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "269",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in _find_template_recursive."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "285",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in _find_template_recursive."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_find_template_recursive",
+        "Line no": "270",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in _find_template_recursive."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "ParsingCache",
+        "Smell": "Magic number",
+        "Function/Method": "add_templates",
+        "Line no": "120",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 0.8 used in add_templates."
+    },
+    {
+        "Package": "saida_gemini.unleash",
+        "Module": "parsing_cache",
+        "Class": "ParsingCache",
+        "Smell": "Magic number",
+        "Function/Method": "delete",
+        "Line no": "204",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\parsing_cache.py",
+        "Details": "Magic number 3 used in delete."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "BaseDataLoader",
+        "Smell": "Complex method",
+        "Function/Method": "load_data",
+        "Line no": "61 - 83",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "Method 'load_data' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Complex method",
+        "Function/Method": "_refine_tokens_and_labels",
+        "Line no": "154 - 174",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "Method '_refine_tokens_and_labels' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long identifier",
+        "Function/Method": "_extract_input_tokens_and_labels",
+        "Line no": "129",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "Identifier'_extract_input_tokens_and_labels' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long parameter list",
+        "Function/Method": "_tokenize_and_prepare_data",
+        "Line no": "176 - 189",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "_tokenize_and_prepare_data has 7 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long statement",
+        "Function/Method": "initialize",
+        "Line no": "123",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "A line with 135 chars in initialize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long statement",
+        "Function/Method": "_process_example",
+        "Line no": "199",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "A line with 153 chars in _process_example exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long statement",
+        "Function/Method": "tokenize",
+        "Line no": "233",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "A line with 209 chars in tokenize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long statement",
+        "Function/Method": "tokenize",
+        "Line no": "243",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "A line with 235 chars in tokenize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long statement",
+        "Function/Method": "build_dataloaders",
+        "Line no": "254",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "A line with 148 chars in build_dataloaders exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long statement",
+        "Function/Method": "build_dataloaders",
+        "Line no": "261",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "A line with 136 chars in build_dataloaders exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "270",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "A line with 155 chars in data_loader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "282",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "A line with 135 chars in data_loader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Magic number",
+        "Function/Method": "_process_example",
+        "Line no": "205",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "Magic number 100 used in _process_example."
+    },
+    {
+        "Package": "saida_gemini.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Magic number",
+        "Function/Method": "_process_example",
+        "Line no": "205",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\data\\data_loader.py",
+        "Details": "Magic number 100 used in _process_example."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Empty catch block",
+        "Function/Method": "is_file_empty",
+        "Line no": "78",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "Empty catch block found in is_file_empty."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "write_results_to_file",
+        "Line no": "106 - 113",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "write_results_to_file has 13 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "process_evaluation",
+        "Line no": "115 - 145",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "process_evaluation has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "evaluator",
+        "Line no": "148 - 149",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "evaluator has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "initialize_tracker",
+        "Line no": "20",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 171 chars in initialize_tracker exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "prepare_result_file",
+        "Line no": "36",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 144 chars in prepare_result_file exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "calculate_accuracies",
+        "Line no": "86",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 129 chars in calculate_accuracies exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "calculate_accuracies",
+        "Line no": "91",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 124 chars in calculate_accuracies exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "write_results_to_file",
+        "Line no": "107",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 159 chars in write_results_to_file exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "process_evaluation",
+        "Line no": "145",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 146 chars in process_evaluation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "save_psutil_data",
+        "Line no": "158",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 135 chars in save_psutil_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "get_initial_system_metrics",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "Magic number 1024 used in get_initial_system_metrics."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "get_initial_system_metrics",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "Magic number 2 used in get_initial_system_metrics."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "correct_single_template",
+        "Line no": "57",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\post_process.py",
+        "Details": "A line with 123 chars in correct_single_template exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "73",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\post_process.py",
+        "Details": "A line with 169 chars in post_process exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.unleash.evaluation.utils",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "93",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\unleash\\evaluation\\utils\\post_process.py",
+        "Details": "A line with 135 chars in post_process exceeds the maximum length of 120 characters."
+    }
+]

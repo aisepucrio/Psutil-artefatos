@@ -1,0 +1,6 @@
+﻿Smell,Original,Refatorado
+Complex method,3,1
+Empty catch block,3,4
+Long identifier,3,0
+Long method,2,1
+Long statement,17,6

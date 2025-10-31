@@ -1,0 +1,1582 @@
+[
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "DirichletDataPartitioner",
+        "Smell": "Complex method",
+        "Function/Method": "_partition_helper",
+        "Line no": "253 - 285",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "Method '_partition_helper' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "ShardedDataPartitioner",
+        "Smell": "Complex method",
+        "Function/Method": "_partition_helper",
+        "Line no": "305 - 336",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "Method '_partition_helper' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "PathologicalDataPartitioner",
+        "Smell": "Complex method",
+        "Function/Method": "_partition_helper",
+        "Line no": "356 - 387",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "Method '_partition_helper' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "TokenizerFactory",
+        "Smell": "Long identifier",
+        "Function/Method": "_create_yahoo_answers_tokenizer",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "Identifier'_create_yahoo_answers_tokenizer' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "TransformsFactory",
+        "Smell": "Long identifier",
+        "Function/Method": "_create_pathmnist_organmnist_transforms",
+        "Line no": "136",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "Identifier'_create_pathmnist_organmnist_transforms' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "TokenizerFactory",
+        "Smell": "Long statement",
+        "Function/Method": "_create_yahoo_answers_tokenizer",
+        "Line no": "67",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "A line with 140 chars in _create_yahoo_answers_tokenizer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "TokenizerFactory",
+        "Smell": "Long statement",
+        "Function/Method": "create_tokenizer",
+        "Line no": "75",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "A line with 138 chars in create_tokenizer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "TransformsFactory",
+        "Smell": "Long statement",
+        "Function/Method": "_create_cifar10_transforms",
+        "Line no": "88",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "A line with 137 chars in _create_cifar10_transforms exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "DatasetProcessor",
+        "Smell": "Long statement",
+        "Function/Method": "process_image_dataset",
+        "Line no": "175",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "A line with 160 chars in process_image_dataset exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "DatasetProcessor",
+        "Smell": "Long statement",
+        "Function/Method": "process_transformer_dataset",
+        "Line no": "182",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "A line with 159 chars in process_transformer_dataset exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "DataPartitioner",
+        "Smell": "Long statement",
+        "Function/Method": "partition",
+        "Line no": "228",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "A line with 125 chars in partition exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "DirichletDataPartitioner",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "241",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "A line with 191 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "ShardedDataPartitioner",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "294",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "A line with 191 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "PathologicalDataPartitioner",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "345",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "A line with 221 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "ClientsAndServerDatasets",
+        "Smell": "Long statement",
+        "Function/Method": "get_data",
+        "Line no": "469",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "A line with 133 chars in get_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "A line with 157 chars in dataset_preparation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "488",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "A line with 135 chars in dataset_preparation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "fix_partition",
+        "Line no": "197",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "Magic number 10 used in fix_partition."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "DatasetProcessor",
+        "Smell": "Magic number",
+        "Function/Method": "_apply_image_transforms",
+        "Line no": "165",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "Magic number 256 used in _apply_image_transforms."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "dataset_preparation",
+        "Class": "DatasetProcessor",
+        "Smell": "Magic number",
+        "Function/Method": "_apply_image_transforms",
+        "Line no": "165",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\dataset_preparation.py",
+        "Details": "Magic number 8 used in _apply_image_transforms."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "_convert_cache_to_csv",
+        "Line no": "76 - 118",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Method '_convert_cache_to_csv' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Empty catch block",
+        "Function/Method": "_remove_individual_legends_and_add_common_legend",
+        "Line no": "27",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Empty catch block found in _remove_individual_legends_and_add_common_legend."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_remove_individual_legends_and_add_common_legend",
+        "Line no": "20",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Identifier'_remove_individual_legends_and_add_common_legend' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "146",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Identifier'_plot_label_distribution_motivation_helper' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_plot_label_distribution_motivation",
+        "Line no": "167",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Identifier'_plot_label_distribution_motivation' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_plot_text_image_audio_classification_results",
+        "Line no": "222",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Identifier'_plot_text_image_audio_classification_results' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "296",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Identifier'_generate_scalability_table_and_plot' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "296",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Identifier'total_model_trained_clients200_1000' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "296",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Identifier'total_rounds_per_round_client20_50' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "296",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Identifier'total_accuracy_per_round_client20_50' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "296",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Identifier'total_model_trained_per_round_client20_50' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "486",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Identifier'_generate_dirichlet_alpha_vs_accuracy_plot' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "296 - 390",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Method '_generate_scalability_table_and_plot' is too long (77 lines)."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "_plot_line",
+        "Line no": "120 - 124",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "_plot_line has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "_plot_model_dataset_configs",
+        "Line no": "215 - 220",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "_plot_model_dataset_configs has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_remove_individual_legends_and_add_common_legend",
+        "Line no": "31",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 158 chars in _remove_individual_legends_and_add_common_legend exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "164",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 124 chars in _plot_label_distribution_motivation_helper exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_classification_df",
+        "Line no": "183",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 202 chars in _get_classification_df exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_plot_single_classification",
+        "Line no": "206",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 174 chars in _plot_single_classification exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_plot_text_image_audio_classification_results",
+        "Line no": "265",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 154 chars in _plot_text_image_audio_classification_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_scaling_df",
+        "Line no": "268",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 206 chars in _get_scaling_df exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_clients_per_round_df",
+        "Line no": "272",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 213 chars in _get_clients_per_round_df exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_num_rounds_df",
+        "Line no": "276",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 197 chars in _get_num_rounds_df exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_plot_scalability_helper",
+        "Line no": "288",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 162 chars in _plot_scalability_helper exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "346",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 191 chars in _generate_scalability_table_and_plot exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "377",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 143 chars in _generate_scalability_table_and_plot exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "382",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 121 chars in _generate_scalability_table_and_plot exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "384",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 137 chars in _generate_scalability_table_and_plot exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "386",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 154 chars in _generate_scalability_table_and_plot exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_dp_results",
+        "Line no": "396",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 229 chars in _get_dp_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_dp_results",
+        "Line no": "402",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 198 chars in _get_dp_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "422",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 126 chars in _generate_dp_results_and_table exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "445",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 134 chars in _generate_dp_results_and_table exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "446",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 144 chars in _generate_dp_results_and_table exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "454",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 154 chars in _generate_dp_results_and_table exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_dirichlet_df",
+        "Line no": "457",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 186 chars in _get_dirichlet_df exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_avg_and_max_acc_dirichlet",
+        "Line no": "464",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "A line with 198 chars in _get_avg_and_max_acc_dirichlet exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_remove_individual_legends_and_add_common_legend",
+        "Line no": "20",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.5 used in _remove_individual_legends_and_add_common_legend."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_remove_individual_legends_and_add_common_legend",
+        "Line no": "20",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.3 used in _remove_individual_legends_and_add_common_legend."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_smooth_data",
+        "Line no": "55",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 2 used in _smooth_data."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_convert_cache_to_csv",
+        "Line no": "107",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 250 used in _convert_cache_to_csv."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_line",
+        "Line no": "120",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 2 used in _plot_line."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_save_figure",
+        "Line no": "126",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 600 used in _save_figure."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_create_subplots",
+        "Line no": "136",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 3.3374 used in _create_subplots."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_create_subplots",
+        "Line no": "136",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 3.3374 used in _create_subplots."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_create_subplots",
+        "Line no": "136",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 1.618 used in _create_subplots."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "151",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 670 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "151",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 667 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "151",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 711 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "152",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 568 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "152",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 623 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "152",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 857 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "153",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 602 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "153",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 807 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "153",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 639 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "154",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 737 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "154",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 508 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "154",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 803 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "155",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 587 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "155",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 846 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "155",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 615 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "156",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 891 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "156",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 533 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "156",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 624 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "157",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 528 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "157",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 635 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "157",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 885 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "158",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 516 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "158",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 611 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "158",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 921 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "159",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 540 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "159",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 521 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "159",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 987 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "160",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 672 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "160",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 666 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_label_distribution_motivation_helper",
+        "Line no": "160",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 710 used in _plot_label_distribution_motivation_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_single_classification",
+        "Line no": "192",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 100 used in _plot_single_classification."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_single_classification",
+        "Line no": "193",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 100 used in _plot_single_classification."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_text_image_audio_classification_results",
+        "Line no": "226",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.3 used in _plot_text_image_audio_classification_results."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_text_image_audio_classification_results",
+        "Line no": "229",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 3.3374 used in _plot_text_image_audio_classification_results."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_text_image_audio_classification_results",
+        "Line no": "229",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 1.6 used in _plot_text_image_audio_classification_results."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_text_image_audio_classification_results",
+        "Line no": "230",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 3.3374 used in _plot_text_image_audio_classification_results."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_text_image_audio_classification_results",
+        "Line no": "230",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 1.5 used in _plot_text_image_audio_classification_results."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_text_image_audio_classification_results",
+        "Line no": "265",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 10 used in _plot_text_image_audio_classification_results."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_scalability_helper",
+        "Line no": "280",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 100 used in _plot_scalability_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_plot_scalability_helper",
+        "Line no": "281",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 100 used in _plot_scalability_helper."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "361",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 3.3374 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "365",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 80 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "298",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 200 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "298",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 400 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "298",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 600 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "298",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 800 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "298",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 1000 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "299",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 20 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "299",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 30 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "299",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 40 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "299",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 50 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "316",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 10 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "362",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 3.3374 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "362",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 1.6 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "374",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 80 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "374",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 10 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "314",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 100 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_scalability_table_and_plot",
+        "Line no": "344",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 100 used in _generate_scalability_table_and_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_get_dp_results",
+        "Line no": "400",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 100 used in _get_dp_results."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_get_dp_results",
+        "Line no": "401",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 100 used in _get_dp_results."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "421",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.2 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "420",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.0001 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "420",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.0003 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "420",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.0007 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "420",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.0009 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "420",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.001 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "420",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.003 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "430",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.003 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "432",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.003 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "432",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 15 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "433",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.006 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "435",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.006 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "435",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 10 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "436",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.012 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "438",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.012 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "438",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 15 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dp_results_and_table",
+        "Line no": "448",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 10 used in _generate_dp_results_and_table."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_get_avg_and_max_acc_dirichlet",
+        "Line no": "462",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 100 used in _get_avg_and_max_acc_dirichlet."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_get_avg_and_max_acc_dirichlet",
+        "Line no": "463",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 100 used in _get_avg_and_max_acc_dirichlet."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "490",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 3.3374 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "490",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 1.6 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "491",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 3.3374 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "491",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 1.5 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "492",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.1 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "492",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.2 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "492",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.3 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "492",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.4 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "492",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.5 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "492",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.6 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "492",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.7 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "492",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.8 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    },
+    {
+        "Package": "saida_gemini.tracefl",
+        "Module": "plotting",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_dirichlet_alpha_vs_accuracy_plot",
+        "Line no": "492",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\tracefl\\plotting.py",
+        "Details": "Magic number 0.9 used in _generate_dirichlet_alpha_vs_accuracy_plot."
+    }
+]

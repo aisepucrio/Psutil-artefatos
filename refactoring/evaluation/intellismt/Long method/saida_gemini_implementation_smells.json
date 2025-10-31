@@ -1,0 +1,472 @@
+[
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "main",
+        "Line no": "198 - 359",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "Method 'main' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "main",
+        "Line no": "198 - 359",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "Method 'main' is too long (145 lines)."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "process_candidate",
+        "Line no": "72 - 98",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "process_candidate has 9 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "minimize",
+        "Line no": "170 - 194",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "minimize has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "initialize_llm_explorer",
+        "Line no": "33",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 254 chars in initialize_llm_explorer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "initialize_llm_explorer",
+        "Line no": "43",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 292 chars in initialize_llm_explorer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "initialize_llm_explorer",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 203 chars in initialize_llm_explorer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "explore_and_validate",
+        "Line no": "101",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 638 chars in explore_and_validate exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "explore_and_validate",
+        "Line no": "124",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 150 chars in explore_and_validate exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "minimize_with_smt2",
+        "Line no": "142",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 618 chars in minimize_with_smt2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "minimize_with_smt2",
+        "Line no": "161",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 144 chars in minimize_with_smt2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "minimize",
+        "Line no": "174",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 566 chars in minimize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "204",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 125 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "206",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 145 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "210",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 133 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "212",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 151 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "216",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 128 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "220",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 164 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "224",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 287 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "229",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 405 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "236",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 205 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "245",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 373 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "251",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 209 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "301",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 238 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "329",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 243 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "339",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 145 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 133 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "363",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 140 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "382",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pipeline.py",
+        "Details": "A line with 135 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "extract_smt2_formula_placeholder",
+        "Line no": "28",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset\\cvc5_runner.py",
+        "Details": "Identifier'extract_smt2_formula_placeholder' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "extract_constraints",
+        "Line no": "53",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset\\cvc5_runner.py",
+        "Details": "A line with 123 chars in extract_constraints exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "extract_constraints",
+        "Line no": "57",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset\\cvc5_runner.py",
+        "Details": "A line with 125 chars in extract_constraints exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "process_unsat_core",
+        "Line no": "96",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset\\cvc5_runner.py",
+        "Details": "A line with 343 chars in process_unsat_core exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "process_unsat_core",
+        "Line no": "104",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset\\cvc5_runner.py",
+        "Details": "A line with 184 chars in process_unsat_core exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "analyze_with_cvc5",
+        "Line no": "117",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset\\cvc5_runner.py",
+        "Details": "A line with 122 chars in analyze_with_cvc5 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "run_cvc5_solver",
+        "Line no": "136",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset\\cvc5_runner.py",
+        "Details": "A line with 129 chars in run_cvc5_solver exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "149",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset\\cvc5_runner.py",
+        "Details": "A line with 152 chars in cvc5_runner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "158",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset\\cvc5_runner.py",
+        "Details": "A line with 153 chars in cvc5_runner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "189",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset\\cvc5_runner.py",
+        "Details": "A line with 135 chars in cvc5_runner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "UNSATVerifier",
+        "Smell": "Empty catch block",
+        "Function/Method": "check",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\experiments\\intrinsic_naive.py",
+        "Details": "Empty catch block found in check."
+    },
+    {
+        "Package": "saida_gemini.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "UNSATVerifier",
+        "Smell": "Long statement",
+        "Function/Method": "check",
+        "Line no": "36",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 122 chars in check exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "20",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 133 chars in intrinsic_naive exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "137",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 160 chars in intrinsic_naive exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "143",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 128 chars in intrinsic_naive exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "164",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 135 chars in intrinsic_naive exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "update_stratified_results",
+        "Line no": "81",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\experiments\\intrinsic_naive.py",
+        "Details": "Magic number 10 used in update_stratified_results."
+    },
+    {
+        "Package": "saida_gemini.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "update_stratified_results",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\experiments\\intrinsic_naive.py",
+        "Details": "Magic number 10 used in update_stratified_results."
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent",
+        "Module": "crew",
+        "Class": "LocalizeAgent",
+        "Smell": "Long identifier",
+        "Function/Method": "design_issue_identification_agent",
+        "Line no": "58",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\crew.py",
+        "Details": "Identifier'design_issue_identification_agent' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent",
+        "Module": "crew",
+        "Class": "LocalizeAgent",
+        "Smell": "Long identifier",
+        "Function/Method": "design_issue_localization_agent",
+        "Line no": "80",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\crew.py",
+        "Details": "Identifier'design_issue_localization_agent' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent",
+        "Module": "crew",
+        "Class": "LocalizeAgent",
+        "Smell": "Long identifier",
+        "Function/Method": "design_issue_identification_task",
+        "Line no": "101",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\crew.py",
+        "Details": "Identifier'design_issue_identification_task' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent",
+        "Module": "crew",
+        "Class": "LocalizeAgent",
+        "Smell": "Long statement",
+        "Function/Method": "code_analyzer_agent",
+        "Line no": "66",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\crew.py",
+        "Details": "A line with 166 chars in code_analyzer_agent exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent",
+        "Module": "crew",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\crew.py",
+        "Details": "A line with 176 chars in crew exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent",
+        "Module": "crew",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "156",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\crew.py",
+        "Details": "A line with 135 chars in crew exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent",
+        "Module": "main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "43",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\main.py",
+        "Details": "A line with 125 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent",
+        "Module": "main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "8",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\main.py",
+        "Details": "A line with 176 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent",
+        "Module": "main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "116",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\main.py",
+        "Details": "A line with 135 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\__init__.py",
+        "Details": "A line with 180 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "VariableUsage",
+        "Smell": "Complex method",
+        "Function/Method": "_run",
+        "Line no": "61 - 96",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "Method '_run' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "FanInFanOutAnalysis",
+        "Smell": "Complex method",
+        "Function/Method": "_run",
+        "Line no": "107 - 173",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "Method '_run' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "ClassCouplingAnalysis",
+        "Smell": "Complex method",
+        "Function/Method": "_run",
+        "Line no": "185 - 226",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "Method '_run' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "VariableUsage",
+        "Smell": "Empty catch block",
+        "Function/Method": "_run",
+        "Line no": "95",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "Empty catch block found in _run."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "FanInFanOutAnalysis",
+        "Smell": "Empty catch block",
+        "Function/Method": "_run",
+        "Line no": "172",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "Empty catch block found in _run."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "ClassCouplingAnalysis",
+        "Smell": "Empty catch block",
+        "Function/Method": "_run",
+        "Line no": "225",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "Empty catch block found in _run."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "FanInFanOutAnalysis",
+        "Smell": "Long method",
+        "Function/Method": "_run",
+        "Line no": "107 - 173",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "Method '_run' is too long (67 lines)."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "CountMethods",
+        "Smell": "Long statement",
+        "Function/Method": "_run",
+        "Line no": "48",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "A line with 123 chars in _run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "ClassCouplingAnalysis",
+        "Smell": "Long statement",
+        "Function/Method": "_run",
+        "Line no": "218",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "A line with 121 chars in _run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "A line with 191 chars in custom_tools exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "custom_tools",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "239",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\custom_tools.py",
+        "Details": "A line with 135 chars in custom_tools exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "test_count_methods",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "test_count_methods",
+        "Line no": "15 - 124",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\test_count_methods.py",
+        "Details": "Method 'test_count_methods' is too long (107 lines)."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "test_count_methods",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_count_methods",
+        "Line no": "17",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\test_count_methods.py",
+        "Details": "A line with 2279 chars in test_count_methods exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "test_count_methods",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\test_count_methods.py",
+        "Details": "A line with 197 chars in test_count_methods exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.src.localize_agent.tools",
+        "Module": "test_count_methods",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "141",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\src\\localize_agent\\tools\\test_count_methods.py",
+        "Details": "A line with 135 chars in test_count_methods exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.tests",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\tests\\__init__.py",
+        "Details": "A line with 166 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LocalizeAgent.localize_agent.tests",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "27",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LocalizeAgent\\localize_agent\\tests\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    }
+]

@@ -1,0 +1,1052 @@
+[
+    {
+        "Package": "RepSEO_Classifier",
+        "Module": "download_nltk_model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\download_nltk_model.py",
+        "Details": "A line with 158 chars in download_nltk_model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier",
+        "Module": "download_nltk_model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "27",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\download_nltk_model.py",
+        "Details": "A line with 135 chars in download_nltk_model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier",
+        "Module": "download_tranco_list",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "download_and_extract_csv_from_zip",
+        "Line no": "18",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\download_tranco_list.py",
+        "Details": "Identifier'download_and_extract_csv_from_zip' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier",
+        "Module": "download_tranco_list",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\download_tranco_list.py",
+        "Details": "A line with 159 chars in download_tranco_list exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier",
+        "Module": "download_tranco_list",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\download_tranco_list.py",
+        "Details": "A line with 135 chars in download_tranco_list exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier",
+        "Module": "download_tranco_list",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "download_and_extract_csv_from_zip",
+        "Line no": "20",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\download_tranco_list.py",
+        "Details": "Magic number 200 used in download_and_extract_csv_from_zip."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "classify",
+        "Class": "classify",
+        "Smell": "Complex method",
+        "Function/Method": "analysis",
+        "Line no": "77 - 107",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\classify.py",
+        "Details": "Method 'analysis' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "classify",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\classify.py",
+        "Details": "A line with 173 chars in classify exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "classify",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "127",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\classify.py",
+        "Details": "A line with 135 chars in classify exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Complex conditional",
+        "Function/Method": "get_structure_feature",
+        "Line no": "112",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "A conditional in get_structure_feature has 7 conditions, more than the recommended maximum 3 conditions."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Complex method",
+        "Function/Method": "get_structure_feature",
+        "Line no": "89 - 132",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "Method 'get_structure_feature' has a cyclomatic complexity of 16, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Complex method",
+        "Function/Method": "get_semantic_feature",
+        "Line no": "136 - 163",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "Method 'get_semantic_feature' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Complex method",
+        "Function/Method": "get_url_feature",
+        "Line no": "167 - 236",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "Method 'get_url_feature' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Complex method",
+        "Function/Method": "get_ctx_features",
+        "Line no": "252 - 281",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "Method 'get_ctx_features' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_semantic_feature",
+        "Line no": "161",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "A line with 128 chars in get_semantic_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_url_feature",
+        "Line no": "186",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "A line with 298 chars in get_url_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_url_feature",
+        "Line no": "228",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "A line with 206 chars in get_url_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "total_features",
+        "Line no": "247",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "A line with 139 chars in total_features exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "A line with 172 chars in feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "A line with 685 chars in feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "294",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "A line with 135 chars in feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_semantic_feature",
+        "Line no": "160",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "Magic number 10 used in get_semantic_feature."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_url_feature",
+        "Line no": "217",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "Magic number 1000000 used in get_url_feature."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_ctx_features",
+        "Line no": "271",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "Magic number 0.6 used in get_ctx_features."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_ctx_features",
+        "Line no": "271",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\feature.py",
+        "Details": "Magic number 0.4 used in get_ctx_features."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "word2vec",
+        "Class": "TextPreprocessor",
+        "Smell": "Complex method",
+        "Function/Method": "tokenize_text",
+        "Line no": "125 - 151",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\word2vec.py",
+        "Details": "Method 'tokenize_text' has a cyclomatic complexity of 12, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "word2vec",
+        "Class": "TextVectorizer",
+        "Smell": "Complex method",
+        "Function/Method": "get_min_distances",
+        "Line no": "214 - 230",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\word2vec.py",
+        "Details": "Method 'get_min_distances' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "word2vec",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\word2vec.py",
+        "Details": "A line with 173 chars in word2vec exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "word2vec",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "243",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\word2vec.py",
+        "Details": "A line with 135 chars in word2vec exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "word2vec",
+        "Class": "TextPreprocessor",
+        "Smell": "Magic number",
+        "Function/Method": "tokenize_text",
+        "Line no": "132",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\word2vec.py",
+        "Details": "Magic number 0.9 used in tokenize_text."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker",
+        "Module": "word2vec",
+        "Class": "TextPreprocessor",
+        "Smell": "Magic number",
+        "Function/Method": "get_top_words",
+        "Line no": "165",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\word2vec.py",
+        "Details": "Magic number 10 used in get_top_words."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker.db",
+        "Module": "db_init",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\db\\db_init.py",
+        "Details": "A line with 176 chars in db_init exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker.db",
+        "Module": "db_init",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "34",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\db\\db_init.py",
+        "Details": "A line with 135 chars in db_init exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker.db",
+        "Module": "locale_config",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\db\\locale_config.py",
+        "Details": "A line with 182 chars in locale_config exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-docker.db",
+        "Module": "locale_config",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "32",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-docker\\db\\locale_config.py",
+        "Details": "A line with 135 chars in locale_config exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "classify",
+        "Class": "classify",
+        "Smell": "Complex method",
+        "Function/Method": "load_test_case",
+        "Line no": "40 - 68",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\classify.py",
+        "Details": "Method 'load_test_case' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "classify",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\classify.py",
+        "Details": "A line with 170 chars in classify exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "classify",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "131",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\classify.py",
+        "Details": "A line with 135 chars in classify exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Complex method",
+        "Function/Method": "get_structure_feature",
+        "Line no": "83 - 117",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "Method 'get_structure_feature' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Complex method",
+        "Function/Method": "get_url_feature",
+        "Line no": "143 - 213",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "Method 'get_url_feature' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Complex method",
+        "Function/Method": "get_ctx_features",
+        "Line no": "250 - 280",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "Method 'get_ctx_features' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_structure_feature",
+        "Line no": "85",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "A line with 220 chars in get_structure_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_semantic_feature",
+        "Line no": "137",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "A line with 128 chars in get_semantic_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_url_feature",
+        "Line no": "164",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "A line with 298 chars in get_url_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_url_feature",
+        "Line no": "206",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "A line with 206 chars in get_url_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_metadata_feature",
+        "Line no": "216",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "A line with 218 chars in get_metadata_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "total_features",
+        "Line no": "284",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "A line with 139 chars in total_features exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "A line with 169 chars in feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "370",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "A line with 135 chars in feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_semantic_feature",
+        "Line no": "136",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "Magic number 10 used in get_semantic_feature."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_url_feature",
+        "Line no": "195",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "Magic number 1000000 used in get_url_feature."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_metadata_feature",
+        "Line no": "237",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "Magic number 1000000 used in get_metadata_feature."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_ctx_features",
+        "Line no": "270",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "Magic number 0.6 used in get_ctx_features."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_ctx_features",
+        "Line no": "270",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "Magic number 0.4 used in get_ctx_features."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "translate_baidu",
+        "Line no": "296",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\feature.py",
+        "Details": "Magic number 0.4 used in translate_baidu."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "file_extractor",
+        "Class": "FileExtractor",
+        "Smell": "Complex method",
+        "Function/Method": "extract_tarfile",
+        "Line no": "41 - 175",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\file_extractor.py",
+        "Details": "Method 'extract_tarfile' has a cyclomatic complexity of 28, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "file_extractor",
+        "Class": "FileExtractor",
+        "Smell": "Long method",
+        "Function/Method": "extract_tarfile",
+        "Line no": "41 - 175",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\file_extractor.py",
+        "Details": "Method 'extract_tarfile' is too long (122 lines)."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "file_extractor",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\file_extractor.py",
+        "Details": "A line with 176 chars in file_extractor exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "file_extractor",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "197",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\file_extractor.py",
+        "Details": "A line with 135 chars in file_extractor exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "file_extractor",
+        "Class": "FileExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "extract_tarfile",
+        "Line no": "168",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\file_extractor.py",
+        "Details": "Magic number 5 used in extract_tarfile."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "file_extractor",
+        "Class": "FileExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "extract_tarfile",
+        "Line no": "169",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\file_extractor.py",
+        "Details": "Magic number 9 used in extract_tarfile."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "word2vec",
+        "Class": "TextVectorizer",
+        "Smell": "Complex method",
+        "Function/Method": "get_min_distances",
+        "Line no": "117 - 133",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\word2vec.py",
+        "Details": "Method 'get_min_distances' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "word2vec",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\word2vec.py",
+        "Details": "A line with 170 chars in word2vec exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "word2vec",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "146",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\word2vec.py",
+        "Details": "A line with 135 chars in word2vec exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm",
+        "Module": "word2vec",
+        "Class": "TextPreprocessor",
+        "Smell": "Magic number",
+        "Function/Method": "get_top_words",
+        "Line no": "67",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\word2vec.py",
+        "Details": "Magic number 10 used in get_top_words."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm.db",
+        "Module": "db_init",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\db\\db_init.py",
+        "Details": "A line with 173 chars in db_init exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm.db",
+        "Module": "db_init",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "33",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\db\\db_init.py",
+        "Details": "A line with 135 chars in db_init exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm.db",
+        "Module": "locale_config",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\db\\locale_config.py",
+        "Details": "A line with 179 chars in locale_config exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-npm.db",
+        "Module": "locale_config",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "34",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-npm\\db\\locale_config.py",
+        "Details": "A line with 135 chars in locale_config exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "classify",
+        "Class": "classify",
+        "Smell": "Long statement",
+        "Function/Method": "analysis",
+        "Line no": "92",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\classify.py",
+        "Details": "A line with 123 chars in analysis exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "classify",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\classify.py",
+        "Details": "A line with 172 chars in classify exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "classify",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "120",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\classify.py",
+        "Details": "A line with 135 chars in classify exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Complex method",
+        "Function/Method": "get_structure_feature",
+        "Line no": "99 - 133",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "Method 'get_structure_feature' has a cyclomatic complexity of 9, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Complex method",
+        "Function/Method": "get_url_feature",
+        "Line no": "165 - 233",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "Method 'get_url_feature' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Complex method",
+        "Function/Method": "get_ctx_features",
+        "Line no": "271 - 301",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "Method 'get_ctx_features' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "26 - 84",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "__init__ has 9 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "A line with 801 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "total_features",
+        "Line no": "88",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "A line with 139 chars in total_features exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_structure_feature",
+        "Line no": "100",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "A line with 198 chars in get_structure_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_semantic_feature",
+        "Line no": "161",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "A line with 128 chars in get_semantic_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_url_feature",
+        "Line no": "184",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "A line with 298 chars in get_url_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_url_feature",
+        "Line no": "226",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "A line with 206 chars in get_url_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Long statement",
+        "Function/Method": "get_metadata_feature",
+        "Line no": "237",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "A line with 160 chars in get_metadata_feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "A line with 171 chars in feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "314",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "A line with 135 chars in feature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_semantic_feature",
+        "Line no": "160",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "Magic number 10 used in get_semantic_feature."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_url_feature",
+        "Line no": "215",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "Magic number 1000000 used in get_url_feature."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_metadata_feature",
+        "Line no": "263",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "Magic number 1000000 used in get_metadata_feature."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_ctx_features",
+        "Line no": "291",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "Magic number 0.6 used in get_ctx_features."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "feature",
+        "Class": "FeatureExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "get_ctx_features",
+        "Line no": "291",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\feature.py",
+        "Details": "Magic number 0.4 used in get_ctx_features."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "file_extractor",
+        "Class": "FilePreprocessor",
+        "Smell": "Complex method",
+        "Function/Method": "get_content",
+        "Line no": "61 - 128",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\file_extractor.py",
+        "Details": "Method 'get_content' has a cyclomatic complexity of 13, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "file_extractor",
+        "Class": "FilePreprocessor",
+        "Smell": "Long statement",
+        "Function/Method": "extract_info",
+        "Line no": "134",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\file_extractor.py",
+        "Details": "A line with 124 chars in extract_info exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "file_extractor",
+        "Class": "FilePreprocessor",
+        "Smell": "Long statement",
+        "Function/Method": "extract_info",
+        "Line no": "190",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\file_extractor.py",
+        "Details": "A line with 124 chars in extract_info exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "file_extractor",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\file_extractor.py",
+        "Details": "A line with 178 chars in file_extractor exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "file_extractor",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "204",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\file_extractor.py",
+        "Details": "A line with 135 chars in file_extractor exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "word2vec",
+        "Class": "TextPreprocessor",
+        "Smell": "Complex method",
+        "Function/Method": "tokenize_text",
+        "Line no": "124 - 150",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\word2vec.py",
+        "Details": "Method 'tokenize_text' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "word2vec",
+        "Class": "TextVectorizer",
+        "Smell": "Complex method",
+        "Function/Method": "get_min_distances",
+        "Line no": "213 - 229",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\word2vec.py",
+        "Details": "Method 'get_min_distances' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "word2vec",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\word2vec.py",
+        "Details": "A line with 172 chars in word2vec exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "word2vec",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "242",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\word2vec.py",
+        "Details": "A line with 135 chars in word2vec exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "word2vec",
+        "Class": "TextPreprocessor",
+        "Smell": "Magic number",
+        "Function/Method": "tokenize_text",
+        "Line no": "131",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\word2vec.py",
+        "Details": "Magic number 0.4 used in tokenize_text."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget",
+        "Module": "word2vec",
+        "Class": "TextPreprocessor",
+        "Smell": "Magic number",
+        "Function/Method": "get_top_words",
+        "Line no": "164",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\word2vec.py",
+        "Details": "Magic number 10 used in get_top_words."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget.db",
+        "Module": "db_init",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\db\\db_init.py",
+        "Details": "A line with 175 chars in db_init exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget.db",
+        "Module": "db_init",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "33",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\db\\db_init.py",
+        "Details": "A line with 135 chars in db_init exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget.db",
+        "Module": "locale_config",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\db\\locale_config.py",
+        "Details": "A line with 181 chars in locale_config exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "RepSEO_Classifier.RepSEO-classifier-nuget.db",
+        "Module": "locale_config",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "33",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\RepSEO_Classifier\\RepSEO-classifier-nuget\\db\\locale_config.py",
+        "Details": "A line with 135 chars in locale_config exceeds the maximum length of 120 characters."
+    }
+]

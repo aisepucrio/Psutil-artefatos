@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # === CONFIGURAÇÃO ===
-artefato = "dlisa"
+artefato = "Web-Ads-Accessibility"
 base_path = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\output-dpy"
 
 # Caminhos dos arquivos JSON

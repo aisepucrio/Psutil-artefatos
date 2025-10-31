@@ -1,0 +1,1042 @@
+[
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGAN",
+        "Smell": "Complex method",
+        "Function/Method": "from_tf_hub",
+        "Line no": "569 - 642",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Method 'from_tf_hub' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGAN",
+        "Smell": "Long method",
+        "Function/Method": "from_tf_hub",
+        "Line no": "569 - 642",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Method 'from_tf_hub' is too long (73 lines)."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "_add_genblock_weights",
+        "Line no": "392 - 403",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "_add_genblock_weights has 7 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "202 - 275",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "__init__ has 7 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "468 - 499",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "__init__ has 9 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_batchnorm_weights",
+        "Line no": "375",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 123 chars in _get_batchnorm_weights exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_conv_weights",
+        "Line no": "384",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 143 chars in _get_conv_weights exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_add_attention_weights",
+        "Line no": "418",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 123 chars in _add_attention_weights exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "weights_mapping",
+        "Line no": "428",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 269 chars in weights_mapping exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "weights_mapping",
+        "Line no": "458",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 155 chars in weights_mapping exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANBatchNorm",
+        "Smell": "Long statement",
+        "Function/Method": "_get_running_stats",
+        "Line no": "151",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 146 chars in _get_running_stats exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANBatchNorm",
+        "Smell": "Long statement",
+        "Function/Method": "_get_running_stats",
+        "Line no": "156",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 143 chars in _get_running_stats exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANBatchNorm",
+        "Smell": "Long statement",
+        "Function/Method": "_non_conditional_batch_norm",
+        "Line no": "177",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 141 chars in _non_conditional_batch_norm exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "218",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 122 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "229",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 126 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "244",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 126 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "259",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 126 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "Generator",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "330",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 159 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "672",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 156 chars in biggan exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "684",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "A line with 135 chars in biggan exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "truncated_noise_sample",
+        "Line no": "16",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 128 used in truncated_noise_sample."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "snconv2d",
+        "Line no": "26",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 1e-12 used in snconv2d."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "snlinear",
+        "Line no": "31",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 1e-12 used in snlinear."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "sn_embedding",
+        "Line no": "36",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 1e-12 used in sn_embedding."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "SelfAttn",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 1e-12 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANBatchNorm",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "106",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 51 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANBatchNorm",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "107",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 0.0001 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "207",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "209",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 51 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "210",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 1e-12 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Magic number",
+        "Function/Method": "_upsample_and_drop_channels",
+        "Line no": "280",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in _upsample_and_drop_channels."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Magic number",
+        "Function/Method": "_upsample_and_drop_channels",
+        "Line no": "280",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 3 used in _upsample_and_drop_channels."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "Generator",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "317",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "Generator",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "367",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 3 used in call."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "470",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 128 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "471",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 128 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "472",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 128 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "473",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 128 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "474",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 1000 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "487",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 8 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "488",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 0.0001 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "489",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 51 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "476",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "476",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "477",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "477",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "478",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "478",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "479",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "479",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 8 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "480",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 8 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "480",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 8 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "481",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 8 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "481",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "482",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "482",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "483",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "483",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "484",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "484",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "485",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGAN",
+        "Smell": "Magic number",
+        "Function/Method": "from_tf_hub",
+        "Line no": "589",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 3 used in from_tf_hub."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGAN",
+        "Smell": "Magic number",
+        "Function/Method": "from_tf_hub",
+        "Line no": "600",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in from_tf_hub."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGAN",
+        "Smell": "Magic number",
+        "Function/Method": "sample_with_labels",
+        "Line no": "655",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 0.5 used in sample_with_labels."
+    },
+    {
+        "Package": "saida_gemini.biggan",
+        "Module": "biggan",
+        "Class": "BigGAN",
+        "Smell": "Magic number",
+        "Function/Method": "sample",
+        "Line no": "662",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\biggan\\biggan.py",
+        "Details": "Magic number 0.5 used in sample."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Complex method",
+        "Function/Method": "call",
+        "Line no": "289 - 328",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Method 'call' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "150 - 157",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "__init__ has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "discretized_logistic_mix_loss",
+        "Line no": "378",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 126 chars in discretized_logistic_mix_loss exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConv",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "33",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 130 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConvTranspose",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "52",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 138 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConvTranspose",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "59",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 125 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownRightShiftedConvTranspose",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "91",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 138 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "_build_downsampling_blocks",
+        "Line no": "184",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 178 chars in _build_downsampling_blocks exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "_build_downsampling_blocks",
+        "Line no": "193",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 150 chars in _build_downsampling_blocks exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "_build_downsampling_blocks",
+        "Line no": "201",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 155 chars in _build_downsampling_blocks exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "_build_upsampling_blocks",
+        "Line no": "211",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 176 chars in _build_upsampling_blocks exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "_build_upsampling_blocks",
+        "Line no": "220",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 155 chars in _build_upsampling_blocks exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "_build_upsampling_blocks",
+        "Line no": "228",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 160 chars in _build_upsampling_blocks exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "_build_residual_connections",
+        "Line no": "239",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 129 chars in _build_residual_connections exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "_build_residual_connections",
+        "Line no": "247",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 129 chars in _build_residual_connections exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "sample",
+        "Line no": "344",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 126 chars in sample exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "418",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 162 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "430",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "A line with 135 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "discretized_logistic_mix_loss",
+        "Line no": "400",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 255.0 used in discretized_logistic_mix_loss."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "discretized_logistic_mix_loss",
+        "Line no": "399",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2.0 used in discretized_logistic_mix_loss."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "discretized_logistic_mix_loss",
+        "Line no": "384",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in discretized_logistic_mix_loss."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConv",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "31",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConv",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "31",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 3 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConvTranspose",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "50",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConvTranspose",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "50",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 3 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownRightShiftedConv",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "70",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownRightShiftedConv",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "70",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownRightShiftedConvTranspose",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "89",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownRightShiftedConvTranspose",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "89",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "ResidualBlock",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "109",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 0.2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "150",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 0.2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "150",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 5 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "151",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "151",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 5 used in __init__."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "278",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 3 used in build."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "279",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 3 used in build."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "280",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 10 used in build."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "sample",
+        "Line no": "357",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 3 used in sample."
+    },
+    {
+        "Package": "saida_gemini.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "sample",
+        "Line no": "363",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in sample."
+    }
+]

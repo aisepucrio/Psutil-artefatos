@@ -1,0 +1,11 @@
+﻿Smell,Original,Refatorado
+Complex conditional,2,0
+Complex method,39,22
+Empty catch block,35,8
+Long identifier,22,5
+Long lambda function,0,3
+Long message chain,1,0
+Long method,10,1
+Long parameter list,6,10
+Long statement,317,49
+Magic number,57,35

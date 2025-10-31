@@ -1,0 +1,17 @@
+[
+    {
+        "Package": "saida_gemini.llm-seed-generator.util",
+        "Module": "mg_util",
+        "Class": "",
+        "LOC": 83,
+        "WMC": 36,
+        "NOM": 8,
+        "NOPM": 5,
+        "NOF": 9,
+        "NOPF": 9,
+        "LCOM": 0.5,
+        "Fan-in": 0,
+        "Fan-out": 0,
+        "DIT": 0
+    }
+]

@@ -1,0 +1,8 @@
+﻿Smell,Original,Refatorado
+Complex conditional,1,0
+Complex method,19,0
+Long identifier,1,0
+Long method,1,0
+Long parameter list,1,0
+Long statement,59,2
+Magic number,23,2

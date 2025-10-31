@@ -1,0 +1,1332 @@
+[
+    {
+        "Package": "saida_gemini.dataset_builder.CFG",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "get_block_ranges_and_statements",
+        "Line no": "21 - 50",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset_builder\\CFG\\utils.py",
+        "Details": "Method 'get_block_ranges_and_statements' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.dataset_builder.CFG",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "get_block_connections",
+        "Line no": "130 - 164",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset_builder\\CFG\\utils.py",
+        "Details": "Method 'get_block_connections' has a cyclomatic complexity of 12, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.dataset_builder.CFG",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "renumber_cfg_blocks",
+        "Line no": "166 - 216",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset_builder\\CFG\\utils.py",
+        "Details": "Method 'renumber_cfg_blocks' has a cyclomatic complexity of 16, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.dataset_builder.CFG",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "map_execution_order_to_blockwise",
+        "Line no": "218 - 248",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset_builder\\CFG\\utils.py",
+        "Details": "Method 'map_execution_order_to_blockwise' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.dataset_builder.CFG",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "generate_cfg_text",
+        "Line no": "250 - 289",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset_builder\\CFG\\utils.py",
+        "Details": "Method 'generate_cfg_text' has a cyclomatic complexity of 13, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.dataset_builder.CFG",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Empty catch block",
+        "Function/Method": "transform_statement_with_ast",
+        "Line no": "86",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset_builder\\CFG\\utils.py",
+        "Details": "Empty catch block found in transform_statement_with_ast."
+    },
+    {
+        "Package": "saida_gemini.dataset_builder.CFG",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "get_block_ranges_and_statements",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset_builder\\CFG\\utils.py",
+        "Details": "Identifier'get_block_ranges_and_statements' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset_builder.CFG",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "map_execution_order_to_blockwise",
+        "Line no": "218",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset_builder\\CFG\\utils.py",
+        "Details": "Identifier'map_execution_order_to_blockwise' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset_builder.CFG",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "renumber_cfg_blocks",
+        "Line no": "169",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset_builder\\CFG\\utils.py",
+        "Details": "A line with 129 chars in renumber_cfg_blocks exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset_builder.CFG",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "renumber_cfg_blocks",
+        "Line no": "174",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset_builder\\CFG\\utils.py",
+        "Details": "A line with 123 chars in renumber_cfg_blocks exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset_builder.CFG",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "291",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset_builder\\CFG\\utils.py",
+        "Details": "A line with 153 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.dataset_builder.CFG",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "308",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\dataset_builder\\CFG\\utils.py",
+        "Details": "A line with 136 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "fetch_the_symbol_table",
+        "Line no": "56 - 102",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "Method 'fetch_the_symbol_table' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "parse_and_save_results",
+        "Line no": "172 - 192",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "parse_and_save_results has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "evaluate",
+        "Line no": "29",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "A line with 133 chars in evaluate exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "setup_model",
+        "Line no": "147",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "A line with 210 chars in setup_model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "196",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "A line with 146 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "198",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "A line with 122 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "200",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "A line with 123 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "210",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "A line with 161 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "249",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "A line with 165 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "252",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "A line with 140 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "256",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "A line with 149 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "273",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "A line with 135 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "fetch_the_symbol_table",
+        "Line no": "73",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "Magic number 2 used in fetch_the_symbol_table."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "main",
+        "Line no": "235",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\run.py",
+        "Details": "Magic number 3 used in main."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "calculate_metrics",
+        "Line no": "19 - 82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\show_results.py",
+        "Details": "Method 'calculate_metrics' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "10",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\show_results.py",
+        "Details": "A line with 158 chars in show_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "127",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\show_results.py",
+        "Details": "A line with 135 chars in show_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_metrics",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\show_results.py",
+        "Details": "Magic number 100 used in calculate_metrics."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_metrics",
+        "Line no": "66",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\show_results.py",
+        "Details": "Magic number 100 used in calculate_metrics."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_metrics",
+        "Line no": "67",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\show_results.py",
+        "Details": "Magic number 100 used in calculate_metrics."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_metrics",
+        "Line no": "68",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\show_results.py",
+        "Details": "Magic number 100 used in calculate_metrics."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_metrics",
+        "Line no": "69",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\show_results.py",
+        "Details": "Magic number 100 used in calculate_metrics."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b0",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_metrics",
+        "Line no": "71",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b0\\show_results.py",
+        "Details": "Magic number 100 used in calculate_metrics."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "extract_accuracy_metrics",
+        "Line no": "59 - 90",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Method 'extract_accuracy_metrics' has a cyclomatic complexity of 17, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "process_data",
+        "Line no": "92 - 128",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Method 'process_data' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "calculate_rates",
+        "Line no": "18 - 26",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "calculate_rates has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "print_results",
+        "Line no": "28 - 57",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "print_results has 14 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "print_results",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "A line with 123 chars in print_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "process_data",
+        "Line no": "128",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "A line with 127 chars in process_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "9",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "A line with 158 chars in show_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "165",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "A line with 135 chars in show_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_rates",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 100 used in calculate_rates."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_rates",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 100 used in calculate_rates."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_rates",
+        "Line no": "23",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 100 used in calculate_rates."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_rates",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 100 used in calculate_rates."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_rates",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 100 used in calculate_rates."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "process_data",
+        "Line no": "118",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 2 used in process_data."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "process_data",
+        "Line no": "119",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 3 used in process_data."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "process_data",
+        "Line no": "120",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 4 used in process_data."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "process_data",
+        "Line no": "121",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 5 used in process_data."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "process_data",
+        "Line no": "122",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 6 used in process_data."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "process_data",
+        "Line no": "123",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 7 used in process_data."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "process_data",
+        "Line no": "124",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 8 used in process_data."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b1",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "process_data",
+        "Line no": "125",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b1\\show_results.py",
+        "Details": "Magic number 9 used in process_data."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "extract_accuracy_data",
+        "Line no": "59 - 103",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "Method 'extract_accuracy_data' has a cyclomatic complexity of 22, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "calculate_rates",
+        "Line no": "18 - 24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "calculate_rates has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "print_error_detection_results",
+        "Line no": "27 - 42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "print_error_detection_results has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "print_accuracy_metrics",
+        "Line no": "44 - 57",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "print_accuracy_metrics has 9 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "calculate_rates",
+        "Line no": "20",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "A line with 231 chars in calculate_rates exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "print_accuracy_metrics",
+        "Line no": "50",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "A line with 122 chars in print_accuracy_metrics exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "process_data",
+        "Line no": "107",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "A line with 142 chars in process_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "9",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "A line with 158 chars in show_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "156",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "A line with 135 chars in show_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_rates",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "Magic number 100 used in calculate_rates."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_rates",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "Magic number 100 used in calculate_rates."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_rates",
+        "Line no": "23",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "Magic number 100 used in calculate_rates."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "calculate_rates",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "Magic number 100 used in calculate_rates."
+    },
+    {
+        "Package": "saida_gemini.src.baselines.b2",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "print_error_detection_results",
+        "Line no": "41",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\baselines\\b2\\show_results.py",
+        "Details": "Magic number 100 used in print_error_detection_results."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long lambda function",
+        "Function/Method": "calculate_rq1_2",
+        "Line no": "121",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A Lambda with 142 chars in calculate_rq1_2 exceeds the maximum length of 80 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long lambda function",
+        "Function/Method": "calculate_rq3",
+        "Line no": "261",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A Lambda with 184 chars in calculate_rq3 exceeds the maximum length of 80 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long lambda function",
+        "Function/Method": "calculate_rq4",
+        "Line no": "374",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A Lambda with 184 chars in calculate_rq4 exceeds the maximum length of 80 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "calculate_rq1_2_accuracy",
+        "Line no": "57 - 75",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "Method 'calculate_rq1_2_accuracy' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "calculate_rq1_2",
+        "Line no": "106 - 156",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "Method 'calculate_rq1_2' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "calculate_rq3_metrics",
+        "Line no": "159 - 200",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "Method 'calculate_rq3_metrics' has a cyclomatic complexity of 12, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "calculate_rq5_metrics",
+        "Line no": "397 - 443",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "Method 'calculate_rq5_metrics' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "calculate_rq5",
+        "Line no": "471 - 500",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "Method 'calculate_rq5' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "545",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "Identifier'incomplete_dataset_response_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "calculate_rq3",
+        "Line no": "239 - 334",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "Method 'calculate_rq3' is too long (92 lines)."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "calculate_rq1_2_accuracy",
+        "Line no": "57 - 75",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "calculate_rq1_2_accuracy has 7 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "print_rq1_2_results",
+        "Line no": "78 - 103",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "print_rq1_2_results has 9 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "calculate_rq3_metrics",
+        "Line no": "159 - 200",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "calculate_rq3_metrics has 13 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "print_rq3_results",
+        "Line no": "203 - 236",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "print_rq3_results has 16 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "calculate_accuracy_metrics",
+        "Line no": "11",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 571 chars in calculate_accuracy_metrics exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "calculate_rq1_2",
+        "Line no": "116",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 278 chars in calculate_rq1_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "calculate_rq1_2",
+        "Line no": "149",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 203 chars in calculate_rq1_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "calculate_rq1_2",
+        "Line no": "156",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 151 chars in calculate_rq1_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "calculate_rq3_metrics",
+        "Line no": "200",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 206 chars in calculate_rq3_metrics exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "calculate_rq3",
+        "Line no": "258",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 605 chars in calculate_rq3 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "calculate_rq3",
+        "Line no": "300",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 436 chars in calculate_rq3 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "calculate_rq3",
+        "Line no": "318",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 277 chars in calculate_rq3 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "calculate_rq4",
+        "Line no": "371",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 420 chars in calculate_rq4 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "print_rq5_results",
+        "Line no": "450",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 174 chars in print_rq5_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "process_data",
+        "Line no": "504",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 386 chars in process_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "load_file",
+        "Line no": "522",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 159 chars in load_file exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "565",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 235 chars in show_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "576",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "A line with 149 chars in show_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "print_rq5_results",
+        "Line no": "450",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "Magic number 100 used in print_rq5_results."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "print_rq5_results",
+        "Line no": "451",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "Magic number 100 used in print_rq5_results."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "show_results",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "print_rq5_results",
+        "Line no": "452",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\show_results.py",
+        "Details": "Magic number 100 used in print_rq5_results."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Empty catch block",
+        "Function/Method": "load_tokens",
+        "Line no": "28",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "Empty catch block found in load_tokens."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Empty catch block",
+        "Function/Method": "load_tokens",
+        "Line no": "30",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "Empty catch block found in load_tokens."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Empty catch block",
+        "Function/Method": "fetch_symbol_table",
+        "Line no": "134",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "Empty catch block found in fetch_symbol_table."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Empty catch block",
+        "Function/Method": "parse_block_execution_order",
+        "Line no": "187",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "Empty catch block found in parse_block_execution_order."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "extract_scopes_with_line_numbers",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "Identifier'extract_scopes_with_line_numbers' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "token_tracker",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "A line with 245 chars in token_tracker exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "extract_scopes_with_line_numbers",
+        "Line no": "63",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "A line with 918 chars in extract_scopes_with_line_numbers exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "save_system_metrics",
+        "Line no": "244",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "A line with 135 chars in save_system_metrics exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "10",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "A line with 142 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "get_system_metrics",
+        "Line no": "15",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "Magic number 1024 used in get_system_metrics."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "get_system_metrics",
+        "Line no": "15",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "Magic number 2 used in get_system_metrics."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "token_tracker",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "Magic number 1000 used in token_tracker."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "token_tracker",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "Magic number 1000 used in token_tracker."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "token_tracker",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "Magic number 0.001 used in token_tracker."
+    },
+    {
+        "Package": "saida_gemini.src.orca",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "token_tracker",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\utils.py",
+        "Details": "Magic number 0.002 used in token_tracker."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "get_block_ranges_and_statements",
+        "Line no": "64 - 88",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "Method 'get_block_ranges_and_statements' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "_get_next_block_index",
+        "Line no": "99 - 142",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "Method '_get_next_block_index' has a cyclomatic complexity of 15, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "get_block_connections",
+        "Line no": "159 - 195",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "Method 'get_block_connections' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "renumber_cfg_blocks",
+        "Line no": "197 - 238",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "Method 'renumber_cfg_blocks' has a cyclomatic complexity of 16, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "generate_cfg_text",
+        "Line no": "240 - 278",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "Method 'generate_cfg_text' has a cyclomatic complexity of 13, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "_extract_error_details",
+        "Line no": "315 - 338",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "Method '_extract_error_details' has a cyclomatic complexity of 9, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "output_parser",
+        "Line no": "360 - 385",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "Method 'output_parser' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Empty catch block",
+        "Function/Method": "transform_statement_with_ast",
+        "Line no": "61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "Empty catch block found in transform_statement_with_ast."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Empty catch block",
+        "Function/Method": "fetch_symbol_table",
+        "Line no": "300",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "Empty catch block found in fetch_symbol_table."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Empty catch block",
+        "Function/Method": "output_parser",
+        "Line no": "374",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "Empty catch block found in output_parser."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "get_block_ranges_and_statements",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "Identifier'get_block_ranges_and_statements' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "get_block_connections",
+        "Line no": "188",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "A line with 150 chars in get_block_connections exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "renumber_cfg_blocks",
+        "Line no": "200",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "A line with 129 chars in renumber_cfg_blocks exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "renumber_cfg_blocks",
+        "Line no": "202",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "A line with 123 chars in renumber_cfg_blocks exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "399",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "A line with 153 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "409",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.src.orca.inference",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "423",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\src\\orca\\inference\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    }
+]

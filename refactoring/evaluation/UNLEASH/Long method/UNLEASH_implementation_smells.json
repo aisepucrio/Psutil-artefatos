@@ -1,0 +1,2452 @@
+[
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "01_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "10",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\01_sampling.py",
+        "Details": "A line with 150 chars in 01_sampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "01_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "34",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\01_sampling.py",
+        "Details": "A line with 140 chars in 01_sampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "01_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "95",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\01_sampling.py",
+        "Details": "A line with 135 chars in 01_sampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "02_run_unleash",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\02_run_unleash.py",
+        "Details": "A line with 153 chars in 02_run_unleash exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "02_run_unleash",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\02_run_unleash.py",
+        "Details": "A line with 481 chars in 02_run_unleash exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "02_run_unleash",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\02_run_unleash.py",
+        "Details": "A line with 426 chars in 02_run_unleash exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "02_run_unleash",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "98",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\02_run_unleash.py",
+        "Details": "A line with 241 chars in 02_run_unleash exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "02_run_unleash",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "139",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\02_run_unleash.py",
+        "Details": "A line with 145 chars in 02_run_unleash exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "02_run_unleash",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "167",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\02_run_unleash.py",
+        "Details": "A line with 135 chars in 02_run_unleash exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "03_evaluation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\03_evaluation.py",
+        "Details": "A line with 152 chars in 03_evaluation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "03_evaluation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\03_evaluation.py",
+        "Details": "A line with 696 chars in 03_evaluation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "03_evaluation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "39",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\03_evaluation.py",
+        "Details": "A line with 161 chars in 03_evaluation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "03_evaluation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "108",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\03_evaluation.py",
+        "Details": "A line with 135 chars in 03_evaluation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "config",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\config.py",
+        "Details": "A line with 145 chars in config exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "config",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\config.py",
+        "Details": "A line with 156 chars in config exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.examples",
+        "Module": "config",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "118",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\examples\\config.py",
+        "Details": "A line with 135 chars in config exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.tests",
+        "Module": "test",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "8",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\tests\\test.py",
+        "Details": "A line with 140 chars in test exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.tests",
+        "Module": "test",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "79",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\tests\\test.py",
+        "Details": "A line with 135 chars in test exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.tests",
+        "Module": "test",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_sampling",
+        "Line no": "30",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\tests\\test.py",
+        "Details": "Magic number 0.2 used in test_sampling."
+    },
+    {
+        "Package": "UNLEASH.tests",
+        "Module": "test",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_sampling",
+        "Line no": "35",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\tests\\test.py",
+        "Details": "Magic number 32 used in test_sampling."
+    },
+    {
+        "Package": "UNLEASH.tests",
+        "Module": "test",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_sampling",
+        "Line no": "39",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\tests\\test.py",
+        "Details": "Magic number 32 used in test_sampling."
+    },
+    {
+        "Package": "UNLEASH.tests",
+        "Module": "test",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_sampling",
+        "Line no": "43",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\tests\\test.py",
+        "Details": "Magic number 32 used in test_sampling."
+    },
+    {
+        "Package": "UNLEASH.tests",
+        "Module": "test",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_sampling",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\tests\\test.py",
+        "Details": "Magic number 32 used in test_sampling."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "arguments",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\arguments.py",
+        "Details": "A line with 147 chars in arguments exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "arguments",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "192",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\arguments.py",
+        "Details": "A line with 135 chars in arguments exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_base",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "template_extraction",
+        "Line no": "86 - 151",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_base.py",
+        "Details": "Method 'template_extraction' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_base",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_base.py",
+        "Details": "A line with 150 chars in parsing_base exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_base",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "164",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_base.py",
+        "Details": "A line with 135 chars in parsing_base exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_base",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "template_extraction",
+        "Line no": "109",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_base.py",
+        "Details": "Magic number 2 used in template_extraction."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "post_process_tokens",
+        "Line no": "158 - 169",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Method 'post_process_tokens' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "find_template",
+        "Line no": "245 - 326",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Method 'find_template' has a cyclomatic complexity of 25, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "ParsingCache",
+        "Smell": "Complex method",
+        "Function/Method": "add_templates",
+        "Line no": "48 - 83",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Method 'add_templates' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "find_template",
+        "Line no": "245 - 326",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Method 'find_template' is too long (82 lines)."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "message_split",
+        "Line no": "188",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "A line with 129 chars in message_split exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "ParsingCache",
+        "Smell": "Long statement",
+        "Function/Method": "insert",
+        "Line no": "99",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "A line with 148 chars in insert exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "A line with 151 chars in parsing_cache exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "340",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "A line with 135 chars in parsing_cache exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "lcs_similarity",
+        "Line no": "40",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in lcs_similarity."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "match_template",
+        "Line no": "231",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in match_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "match_template",
+        "Line no": "231",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 3 used in match_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "match_template",
+        "Line no": "231",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in match_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "match_template",
+        "Line no": "224",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in match_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "find_template",
+        "Line no": "317",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in find_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "find_template",
+        "Line no": "323",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in find_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "find_template",
+        "Line no": "251",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in find_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "find_template",
+        "Line no": "257",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in find_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "find_template",
+        "Line no": "271",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in find_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "find_template",
+        "Line no": "272",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in find_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "find_template",
+        "Line no": "262",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in find_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "find_template",
+        "Line no": "310",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in find_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "find_template",
+        "Line no": "296",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in find_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "find_template",
+        "Line no": "312",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in find_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "find_template",
+        "Line no": "297",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 2 used in find_template."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "ParsingCache",
+        "Smell": "Magic number",
+        "Function/Method": "add_templates",
+        "Line no": "74",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 0.8 used in add_templates."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "parsing_cache",
+        "Class": "ParsingCache",
+        "Smell": "Magic number",
+        "Function/Method": "delete",
+        "Line no": "145",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\parsing_cache.py",
+        "Details": "Magic number 3 used in delete."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "postprocess",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "correct_single_template",
+        "Line no": "16 - 102",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\postprocess.py",
+        "Details": "Method 'correct_single_template' has a cyclomatic complexity of 14, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "postprocess",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "correct_single_template_for_evaluation",
+        "Line no": "240 - 331",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\postprocess.py",
+        "Details": "Method 'correct_single_template_for_evaluation' has a cyclomatic complexity of 17, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "postprocess",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "correct_single_template_for_evaluation",
+        "Line no": "240",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\postprocess.py",
+        "Details": "Identifier'correct_single_template_for_evaluation' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "postprocess",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "correct_single_template",
+        "Line no": "17",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\postprocess.py",
+        "Details": "A line with 264 chars in correct_single_template exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "postprocess",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "correct_single_template",
+        "Line no": "32",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\postprocess.py",
+        "Details": "A line with 123 chars in correct_single_template exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "postprocess",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "correct_single_template_for_evaluation",
+        "Line no": "241",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\postprocess.py",
+        "Details": "A line with 264 chars in correct_single_template_for_evaluation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "postprocess",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "correct_single_template_for_evaluation",
+        "Line no": "257",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\postprocess.py",
+        "Details": "A line with 123 chars in correct_single_template_for_evaluation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "postprocess",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\postprocess.py",
+        "Details": "A line with 149 chars in postprocess exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "postprocess",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "344",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\postprocess.py",
+        "Details": "A line with 135 chars in postprocess exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\__init__.py",
+        "Details": "A line with 146 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "26",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "data_loader",
+        "Class": "BaseDataLoader",
+        "Smell": "Complex method",
+        "Function/Method": "load_data",
+        "Line no": "89 - 119",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\data_loader.py",
+        "Details": "Method 'load_data' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Complex method",
+        "Function/Method": "tokenize",
+        "Line no": "169 - 287",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\data_loader.py",
+        "Details": "Method 'tokenize' has a cyclomatic complexity of 17, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long method",
+        "Function/Method": "tokenize",
+        "Line no": "169 - 287",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\data_loader.py",
+        "Details": "Method 'tokenize' is too long (114 lines)."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long statement",
+        "Function/Method": "initialize",
+        "Line no": "162",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\data_loader.py",
+        "Details": "A line with 135 chars in initialize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long statement",
+        "Function/Method": "tokenize",
+        "Line no": "268",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\data_loader.py",
+        "Details": "A line with 209 chars in tokenize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long statement",
+        "Function/Method": "tokenize",
+        "Line no": "282",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\data_loader.py",
+        "Details": "A line with 235 chars in tokenize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long statement",
+        "Function/Method": "build_dataloaders",
+        "Line no": "293",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\data_loader.py",
+        "Details": "A line with 148 chars in build_dataloaders exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Long statement",
+        "Function/Method": "build_dataloaders",
+        "Line no": "300",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\data_loader.py",
+        "Details": "A line with 136 chars in build_dataloaders exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "data_loader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\data_loader.py",
+        "Details": "A line with 155 chars in data_loader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "data_loader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "319",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\data_loader.py",
+        "Details": "A line with 135 chars in data_loader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Magic number",
+        "Function/Method": "tokenize",
+        "Line no": "252",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\data_loader.py",
+        "Details": "Magic number 100 used in tokenize."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "data_loader",
+        "Class": "DataLoaderForPromptTuning",
+        "Smell": "Magic number",
+        "Function/Method": "tokenize",
+        "Line no": "252",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\data_loader.py",
+        "Details": "Magic number 100 used in tokenize."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Empty catch block",
+        "Function/Method": "log_to_dataframe",
+        "Line no": "68",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\utils.py",
+        "Details": "Empty catch block found in log_to_dataframe."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "generate_logformat_regex",
+        "Line no": "23",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\utils.py",
+        "Details": "A line with 241 chars in generate_logformat_regex exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "log_to_dataframe",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\utils.py",
+        "Details": "A line with 304 chars in log_to_dataframe exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "utils",
+        "Class": "CustomDataCollator",
+        "Smell": "Long statement",
+        "Function/Method": "__call__",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\utils.py",
+        "Details": "A line with 188 chars in __call__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\utils.py",
+        "Details": "A line with 149 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "151",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "generate_logformat_regex",
+        "Line no": "35",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\utils.py",
+        "Details": "Magic number 2 used in generate_logformat_regex."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\__init__.py",
+        "Details": "A line with 152 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.data",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\data\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation",
+        "Module": "settings",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\settings.py",
+        "Details": "A line with 158 chars in settings exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation",
+        "Module": "settings",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "157",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\settings.py",
+        "Details": "A line with 135 chars in settings exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\__init__.py",
+        "Details": "A line with 158 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "correct_single_template",
+        "Line no": "120 - 200",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "Method 'correct_single_template' has a cyclomatic complexity of 14, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "correct_templates_and_update_files",
+        "Line no": "203 - 281",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "Method 'correct_templates_and_update_files' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "correct_templates_and_update_files",
+        "Line no": "203",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "Identifier'correct_templates_and_update_files' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "sort_templates",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "A line with 153 chars in sort_templates exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "is_abstract",
+        "Line no": "80",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "A line with 208 chars in is_abstract exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "common_args",
+        "Line no": "108",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "A line with 126 chars in common_args exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "correct_single_template",
+        "Line no": "121",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "A line with 264 chars in correct_single_template exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "correct_single_template",
+        "Line no": "136",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "A line with 123 chars in correct_single_template exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "correct_templates_and_update_files",
+        "Line no": "204",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "A line with 1398 chars in correct_templates_and_update_files exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "correct_templates",
+        "Line no": "285",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "A line with 222 chars in correct_templates exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "A line with 163 chars in common exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "15",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "A line with 696 chars in common exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "40",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "A line with 160 chars in common exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "59",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "A line with 178 chars in common exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "common",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "333",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\common.py",
+        "Details": "A line with 135 chars in common exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "evaluator",
+        "Line no": "119 - 231",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "Method 'evaluator' is too long (79 lines)."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "evaluator",
+        "Line no": "119 - 231",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "evaluator has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "prepare_results",
+        "Line no": "57",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 140 chars in prepare_results exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "evaluator",
+        "Line no": "145",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 215 chars in evaluator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "evaluator",
+        "Line no": "200",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 134 chars in evaluator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "evaluator",
+        "Line no": "202",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 129 chars in evaluator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "evaluator",
+        "Line no": "215",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 372 chars in evaluator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 171 chars in evaluator_main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 696 chars in evaluator_main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "evaluator_main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "244",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\evaluator_main.py",
+        "Details": "A line with 135 chars in evaluator_main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "GA_calculator",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "get_accuracy",
+        "Line no": "45 - 101",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\GA_calculator.py",
+        "Details": "Method 'get_accuracy' has a cyclomatic complexity of 13, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "GA_calculator",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "get_accuracy",
+        "Line no": "45",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\GA_calculator.py",
+        "Details": "Identifier'series_parsedlog_logId_valuecounts' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "GA_calculator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "evaluate",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\GA_calculator.py",
+        "Details": "A line with 350 chars in evaluate exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "GA_calculator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "get_accuracy",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\GA_calculator.py",
+        "Details": "A line with 517 chars in get_accuracy exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "GA_calculator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\GA_calculator.py",
+        "Details": "A line with 170 chars in GA_calculator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "GA_calculator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\GA_calculator.py",
+        "Details": "A line with 137 chars in GA_calculator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "GA_calculator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "178",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\GA_calculator.py",
+        "Details": "A line with 135 chars in GA_calculator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "GA_calculator",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "get_accuracy",
+        "Line no": "100",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\GA_calculator.py",
+        "Details": "Magic number 2 used in get_accuracy."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "oracle_template_correction",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\oracle_template_correction.py",
+        "Details": "A line with 183 chars in oracle_template_correction exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "oracle_template_correction",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\oracle_template_correction.py",
+        "Details": "A line with 696 chars in oracle_template_correction exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "oracle_template_correction",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "58",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\oracle_template_correction.py",
+        "Details": "A line with 135 chars in oracle_template_correction exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "PA_calculator",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "post_process_tokens",
+        "Line no": "32 - 43",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\PA_calculator.py",
+        "Details": "Method 'post_process_tokens' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "PA_calculator",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "calculate_parsing_accuracy_lstm",
+        "Line no": "98",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\PA_calculator.py",
+        "Details": "Identifier'calculate_parsing_accuracy_lstm' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "PA_calculator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "message_split",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\PA_calculator.py",
+        "Details": "A line with 129 chars in message_split exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "PA_calculator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\PA_calculator.py",
+        "Details": "A line with 170 chars in PA_calculator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "PA_calculator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\PA_calculator.py",
+        "Details": "A line with 696 chars in PA_calculator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "PA_calculator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "141",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\PA_calculator.py",
+        "Details": "A line with 135 chars in PA_calculator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "postprocess",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\postprocess.py",
+        "Details": "A line with 168 chars in postprocess exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "postprocess",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\postprocess.py",
+        "Details": "A line with 135 chars in postprocess exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "correct_single_template",
+        "Line no": "21 - 147",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\post_process.py",
+        "Details": "Method 'correct_single_template' has a cyclomatic complexity of 20, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "correct_single_template",
+        "Line no": "21 - 147",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\post_process.py",
+        "Details": "Method 'correct_single_template' is too long (68 lines)."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "correct_single_template",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\post_process.py",
+        "Details": "A line with 264 chars in correct_single_template exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "correct_single_template",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\post_process.py",
+        "Details": "A line with 123 chars in correct_single_template exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\post_process.py",
+        "Details": "A line with 169 chars in post_process exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "160",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\post_process.py",
+        "Details": "A line with 135 chars in post_process exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "template_level_analysis",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "evaluate_template_level",
+        "Line no": "36 - 96",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\template_level_analysis.py",
+        "Details": "Method 'evaluate_template_level' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "template_level_analysis",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "evaluate_template_level_lstm",
+        "Line no": "99 - 162",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\template_level_analysis.py",
+        "Details": "Method 'evaluate_template_level_lstm' has a cyclomatic complexity of 12, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "template_level_analysis",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "evaluate_template_level",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\template_level_analysis.py",
+        "Details": "A line with 205 chars in evaluate_template_level exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "template_level_analysis",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "evaluate_template_level_lstm",
+        "Line no": "100",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\template_level_analysis.py",
+        "Details": "A line with 205 chars in evaluate_template_level_lstm exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "template_level_analysis",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\template_level_analysis.py",
+        "Details": "A line with 180 chars in template_level_analysis exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "template_level_analysis",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\template_level_analysis.py",
+        "Details": "A line with 696 chars in template_level_analysis exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "template_level_analysis",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "214",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\template_level_analysis.py",
+        "Details": "A line with 135 chars in template_level_analysis exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "template_level_analysis",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "evaluate_template_level",
+        "Line no": "91",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\template_level_analysis.py",
+        "Details": "Magic number 2 used in evaluate_template_level."
+    },
+    {
+        "Package": "UNLEASH.unleash.evaluation.utils",
+        "Module": "template_level_analysis",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "evaluate_template_level_lstm",
+        "Line no": "157",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\evaluation\\utils\\template_level_analysis.py",
+        "Details": "Magic number 2 used in evaluate_template_level_lstm."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "base",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\base.py",
+        "Details": "A line with 150 chars in base exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "base",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "53",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\base.py",
+        "Details": "A line with 135 chars in base exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "deberta",
+        "Class": "DebertaForLogParsing",
+        "Smell": "Long message chain",
+        "Function/Method": "add_label_token",
+        "Line no": "80",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\deberta.py",
+        "Details": "A long message chain has 7 attributes/calls chained together, more than the recommended 3 in the following statement: (crr_tokens, _) = self.plm.deberta.embeddings.word_embeddings.weight.shape."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "deberta",
+        "Class": "DebertaForLogParsing",
+        "Smell": "Long statement",
+        "Function/Method": "parse",
+        "Line no": "109",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\deberta.py",
+        "Details": "A line with 143 chars in parse exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "deberta",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\deberta.py",
+        "Details": "A line with 153 chars in deberta exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "deberta",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "153",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\deberta.py",
+        "Details": "A line with 135 chars in deberta exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "deberta",
+        "Class": "DebertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\deberta.py",
+        "Details": "Magic number 0.1 used in __init__."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "deberta",
+        "Class": "DebertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "52",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\deberta.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "deberta",
+        "Class": "DebertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "forward",
+        "Line no": "66",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\deberta.py",
+        "Details": "Magic number 2 used in forward."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "deberta",
+        "Class": "DebertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "forward",
+        "Line no": "70",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\deberta.py",
+        "Details": "Magic number 2 used in forward."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "deberta",
+        "Class": "DebertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "forward",
+        "Line no": "71",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\deberta.py",
+        "Details": "Magic number 2 used in forward."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "deberta",
+        "Class": "DebertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "parse",
+        "Line no": "90",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\deberta.py",
+        "Details": "Magic number 256 used in parse."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "deberta",
+        "Class": "DebertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "parse",
+        "Line no": "107",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\deberta.py",
+        "Details": "Magic number 2 used in parse."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "roberta",
+        "Class": "RobertaForLogParsing",
+        "Smell": "Long message chain",
+        "Function/Method": "add_label_token",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\roberta.py",
+        "Details": "A long message chain has 7 attributes/calls chained together, more than the recommended 3 in the following statement: (crr_tokens, _) = self.plm.roberta.embeddings.word_embeddings.weight.shape."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "roberta",
+        "Class": "RobertaForLogParsing",
+        "Smell": "Long statement",
+        "Function/Method": "parse",
+        "Line no": "111",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\roberta.py",
+        "Details": "A line with 143 chars in parse exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "roberta",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\roberta.py",
+        "Details": "A line with 153 chars in roberta exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "roberta",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "156",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\roberta.py",
+        "Details": "A line with 135 chars in roberta exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "roberta",
+        "Class": "RobertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "45",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\roberta.py",
+        "Details": "Magic number 0.1 used in __init__."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "roberta",
+        "Class": "RobertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "51",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\roberta.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "roberta",
+        "Class": "RobertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "forward",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\roberta.py",
+        "Details": "Magic number 2 used in forward."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "roberta",
+        "Class": "RobertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "forward",
+        "Line no": "69",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\roberta.py",
+        "Details": "Magic number 2 used in forward."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "roberta",
+        "Class": "RobertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "forward",
+        "Line no": "70",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\roberta.py",
+        "Details": "Magic number 2 used in forward."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "roberta",
+        "Class": "RobertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "parse",
+        "Line no": "92",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\roberta.py",
+        "Details": "Magic number 256 used in parse."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "roberta",
+        "Class": "RobertaForLogParsing",
+        "Smell": "Magic number",
+        "Function/Method": "parse",
+        "Line no": "109",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\roberta.py",
+        "Details": "Magic number 2 used in parse."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\__init__.py",
+        "Details": "A line with 154 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.models",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\models\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "entropy_sampling",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "entropy_sampling",
+        "Line no": "38 - 62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\entropy_sampling.py",
+        "Details": "Method 'entropy_sampling' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "entropy_sampling",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "hierarchical_distribute",
+        "Line no": "154 - 208",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\entropy_sampling.py",
+        "Details": "Method 'hierarchical_distribute' has a cyclomatic complexity of 9, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "entropy_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "hierarchical_distribute",
+        "Line no": "176",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\entropy_sampling.py",
+        "Details": "A line with 121 chars in hierarchical_distribute exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "entropy_sampling",
+        "Class": "Vocab",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "67",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\entropy_sampling.py",
+        "Details": "A line with 176 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "entropy_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\entropy_sampling.py",
+        "Details": "A line with 164 chars in entropy_sampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "entropy_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "273",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\entropy_sampling.py",
+        "Details": "A line with 135 chars in entropy_sampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "entropy_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "entropy_sampling",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\entropy_sampling.py",
+        "Details": "Magic number 10 used in entropy_sampling."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "entropy_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "entropy_sampling",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\entropy_sampling.py",
+        "Details": "Magic number 5 used in entropy_sampling."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "entropy_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "entropy_sampling",
+        "Line no": "52",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\entropy_sampling.py",
+        "Details": "Magic number 2 used in entropy_sampling."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "entropy_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "sampling",
+        "Line no": "211",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\entropy_sampling.py",
+        "Details": "Magic number 8 used in sampling."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "entropy_sampling",
+        "Class": "Vocab",
+        "Smell": "Magic number",
+        "Function/Method": "topk_tokens",
+        "Line no": "94",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\entropy_sampling.py",
+        "Details": "Magic number 3 used in topk_tokens."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "entropy_sampling",
+        "Class": "Vocab",
+        "Smell": "Magic number",
+        "Function/Method": "__filter_stopwords",
+        "Line no": "109",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\entropy_sampling.py",
+        "Details": "Magic number 2 used in __filter_stopwords."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "",
+        "Smell": "Empty catch block",
+        "Function/Method": "log_to_dataframe",
+        "Line no": "61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "Empty catch block found in log_to_dataframe."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "hierichical_distribute",
+        "Line no": "236",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "A line with 131 chars in hierichical_distribute exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "Vocab",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "140",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "A line with 176 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "A line with 162 chars in lilac_sampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "342",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "A line with 130 chars in lilac_sampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "350",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "A line with 138 chars in lilac_sampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "381",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "A line with 135 chars in lilac_sampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "generate_logformat_regex",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "Magic number 2 used in generate_logformat_regex."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "lcs_distance",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "Magic number 2 used in lcs_distance."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "min_distance",
+        "Line no": "104",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "Magic number 10000000000.0 used in min_distance."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "adaptive_random_sampling",
+        "Line no": "112",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "Magic number 128 used in adaptive_random_sampling."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "sampling",
+        "Line no": "261",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "Magic number 8 used in sampling."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "Vocab",
+        "Smell": "Magic number",
+        "Function/Method": "topk_tokens",
+        "Line no": "167",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "Magic number 3 used in topk_tokens."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "lilac_sampling",
+        "Class": "Vocab",
+        "Smell": "Magic number",
+        "Function/Method": "__filter_stopwords",
+        "Line no": "182",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\lilac_sampling.py",
+        "Details": "Magic number 2 used in __filter_stopwords."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "logppt_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\logppt_sampling.py",
+        "Details": "A line with 163 chars in logppt_sampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "logppt_sampling",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "103",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\logppt_sampling.py",
+        "Details": "A line with 135 chars in logppt_sampling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "logppt_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "lcs_distance",
+        "Line no": "31",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\logppt_sampling.py",
+        "Details": "Magic number 2 used in lcs_distance."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "logppt_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "min_distance",
+        "Line no": "53",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\logppt_sampling.py",
+        "Details": "Magic number 10000000000.0 used in min_distance."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "logppt_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "sampling",
+        "Line no": "61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\logppt_sampling.py",
+        "Details": "Magic number 128 used in sampling."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "logppt_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "sampling",
+        "Line no": "61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\logppt_sampling.py",
+        "Details": "Magic number 8 used in sampling."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "logppt_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "sampling",
+        "Line no": "89",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\logppt_sampling.py",
+        "Details": "Magic number 2 used in sampling."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "logppt_sampling",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "sampling",
+        "Line no": "89",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\logppt_sampling.py",
+        "Details": "Magic number 2 used in sampling."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\utils.py",
+        "Details": "A line with 153 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\__init__.py",
+        "Details": "A line with 156 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\__init__.py",
+        "Details": "A line with 156 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.sampling",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "118",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\sampling\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "early_stopping",
+        "Class": "EarlyStopping",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "20",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\early_stopping.py",
+        "Details": "A line with 652 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "early_stopping",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\early_stopping.py",
+        "Details": "A line with 160 chars in early_stopping exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "early_stopping",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "73",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\early_stopping.py",
+        "Details": "A line with 135 chars in early_stopping exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "early_stopping",
+        "Class": "EarlyStopping",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "19",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\early_stopping.py",
+        "Details": "Magic number 7 used in __init__."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Complex method",
+        "Function/Method": "train",
+        "Line no": "142 - 194",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "Method 'train' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "TrainingArguments",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "27 - 61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "__init__ has 16 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "65 - 84",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "__init__ has 8 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Long statement",
+        "Function/Method": "initialize",
+        "Line no": "94",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "A line with 176 chars in initialize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Long statement",
+        "Function/Method": "initialize",
+        "Line no": "101",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "A line with 165 chars in initialize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Long statement",
+        "Function/Method": "initialize",
+        "Line no": "115",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "A line with 298 chars in initialize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Long statement",
+        "Function/Method": "initialize",
+        "Line no": "126",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "A line with 123 chars in initialize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Long statement",
+        "Function/Method": "initialize",
+        "Line no": "133",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "A line with 184 chars in initialize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "A line with 153 chars in trainer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "211",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "A line with 135 chars in trainer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "TrainingArguments",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "35",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "Magic number 8 used in __init__."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "TrainingArguments",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "36",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "Magic number 8 used in __init__."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "TrainingArguments",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "Magic number 5e-05 used in __init__."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "TrainingArguments",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "39",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "Magic number 3 used in __init__."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "TrainingArguments",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "44",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "Magic number 42 used in __init__."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Magic number",
+        "Function/Method": "initialize",
+        "Line no": "106",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "Magic number 500 used in initialize."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Magic number",
+        "Function/Method": "initialize",
+        "Line no": "107",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "Magic number 100 used in initialize."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Magic number",
+        "Function/Method": "initialize",
+        "Line no": "108",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "Magic number 500 used in initialize."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Magic number",
+        "Function/Method": "initialize",
+        "Line no": "110",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "Magic number 5 used in initialize."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Magic number",
+        "Function/Method": "initialize",
+        "Line no": "99",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "Magic number 10 used in initialize."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "trainer",
+        "Class": "Trainer",
+        "Smell": "Magic number",
+        "Function/Method": "initialize",
+        "Line no": "104",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\trainer.py",
+        "Details": "Magic number 10 used in initialize."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "utils",
+        "Class": "CustomDataCollator",
+        "Smell": "Long statement",
+        "Function/Method": "__call__",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\utils.py",
+        "Details": "A line with 155 chars in __call__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\utils.py",
+        "Details": "A line with 151 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "63",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\__init__.py",
+        "Details": "A line with 154 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "UNLEASH.unleash.tuning",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\UNLEASH\\unleash\\tuning\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    }
+]

@@ -1,0 +1,2762 @@
+[
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "weights_mapping",
+        "Line no": "434 - 525",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Method 'weights_mapping' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGAN",
+        "Smell": "Complex method",
+        "Function/Method": "from_tf_hub",
+        "Line no": "646 - 735",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Method 'from_tf_hub' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "weights_mapping",
+        "Line no": "434 - 525",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Method 'weights_mapping' is too long (83 lines)."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Long method",
+        "Function/Method": "__init__",
+        "Line no": "245 - 325",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Method '__init__' is too long (71 lines)."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGAN",
+        "Smell": "Long method",
+        "Function/Method": "from_tf_hub",
+        "Line no": "646 - 735",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Method 'from_tf_hub' is too long (73 lines)."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "245 - 325",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "__init__ has 7 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "534 - 566",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "__init__ has 9 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "truncated_noise_sample",
+        "Line no": "32",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 264 chars in truncated_noise_sample exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "weights_mapping",
+        "Line no": "439",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 269 chars in weights_mapping exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "weights_mapping",
+        "Line no": "465",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 123 chars in weights_mapping exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "weights_mapping",
+        "Line no": "476",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 149 chars in weights_mapping exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "weights_mapping",
+        "Line no": "500",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 123 chars in weights_mapping exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "weights_mapping",
+        "Line no": "518",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 155 chars in weights_mapping exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANBatchNorm",
+        "Smell": "Long statement",
+        "Function/Method": "call",
+        "Line no": "207",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 146 chars in call exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANBatchNorm",
+        "Smell": "Long statement",
+        "Function/Method": "call",
+        "Line no": "212",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 143 chars in call exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANBatchNorm",
+        "Smell": "Long statement",
+        "Function/Method": "call",
+        "Line no": "232",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 141 chars in call exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "263",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 122 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "275",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 126 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "291",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 126 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "307",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 126 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "Generator",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "385",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 159 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 156 chars in biggan exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "777",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "A line with 135 chars in biggan exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "truncated_noise_sample",
+        "Line no": "28",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 128 used in truncated_noise_sample."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "snconv2d",
+        "Line no": "48",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 1e-12 used in snconv2d."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "snlinear",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 1e-12 used in snlinear."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "sn_embedding",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 1e-12 used in sn_embedding."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "SelfAttn",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "69",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 1e-12 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANBatchNorm",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "148",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 51 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANBatchNorm",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "149",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 0.0001 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "250",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "252",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 51 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "253",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 1e-12 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "356",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in call."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "GenBlock",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "356",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 3 used in call."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "Generator",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "370",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "Generator",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "429",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 3 used in call."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "536",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 128 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "537",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 128 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "538",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 128 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "539",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 128 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "540",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 1000 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "553",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 8 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "554",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 0.0001 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "555",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 51 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "542",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "542",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "543",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "543",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "544",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "544",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "545",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 16 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "545",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 8 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "546",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 8 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "546",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 8 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "547",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 8 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "547",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "548",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "548",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "549",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "549",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "550",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "550",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGANConfig",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "551",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGAN",
+        "Smell": "Magic number",
+        "Function/Method": "from_tf_hub",
+        "Line no": "672",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 3 used in from_tf_hub."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGAN",
+        "Smell": "Magic number",
+        "Function/Method": "from_tf_hub",
+        "Line no": "687",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 2 used in from_tf_hub."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGAN",
+        "Smell": "Magic number",
+        "Function/Method": "sample_with_labels",
+        "Line no": "749",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 0.5 used in sample_with_labels."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "biggan",
+        "Class": "BigGAN",
+        "Smell": "Magic number",
+        "Function/Method": "sample",
+        "Line no": "756",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\biggan.py",
+        "Details": "Magic number 0.5 used in sample."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "example",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\example.py",
+        "Details": "A line with 157 chars in example exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "example",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\example.py",
+        "Details": "A line with 135 chars in example exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "extract_stats",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\extract_stats.py",
+        "Details": "A line with 163 chars in extract_stats exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "extract_stats",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\extract_stats.py",
+        "Details": "A line with 315 chars in extract_stats exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.biggan",
+        "Module": "extract_stats",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "68",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\biggan\\extract_stats.py",
+        "Details": "A line with 135 chars in extract_stats exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\model.py",
+        "Details": "A line with 152 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "95",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\model.py",
+        "Details": "A line with 135 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "model",
+        "Class": "Decoder",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "68",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\model.py",
+        "Details": "Magic number 0.1 used in call."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "model",
+        "Class": "Decoder",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "68",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\model.py",
+        "Details": "Magic number 0.9 used in call."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\train.py",
+        "Details": "A line with 152 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "78",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\train.py",
+        "Details": "A line with 204 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "86",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\train.py",
+        "Details": "A line with 173 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "132",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\train.py",
+        "Details": "A line with 135 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "plot_to_image",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\utils.py",
+        "Details": "A line with 152 chars in plot_to_image exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "plot_regression",
+        "Line no": "91",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\utils.py",
+        "Details": "A line with 158 chars in plot_regression exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\utils.py",
+        "Details": "A line with 152 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "169",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "get_gp_curve_generator",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\utils.py",
+        "Details": "Magic number 10000 used in get_gp_curve_generator."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "get_gp_curve_generator",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\utils.py",
+        "Details": "Magic number 64 used in get_gp_curve_generator."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "get_gp_curve_generator",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\utils.py",
+        "Details": "Magic number 10 used in get_gp_curve_generator."
+    },
+    {
+        "Package": "tf2-published-models.cnp",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "get_gp_curve_generator",
+        "Line no": "45",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\cnp\\utils.py",
+        "Details": "Magic number 400 used in get_gp_curve_generator."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "MaskedConv2D",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "21 - 39",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "__init__ has 8 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "MaskedConv2D",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "53",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "A line with 155 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "MaskedConv2D",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "A line with 143 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "ResidualBlock",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "137",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "A line with 148 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "ResidualBlock",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "147",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "A line with 148 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "GatedPixelCNN",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "225",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "A line with 145 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "GatedPixelCNN",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "234",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "A line with 147 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "GatedPixelCNN",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "243",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "A line with 147 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "GatedPixelCNN",
+        "Smell": "Long statement",
+        "Function/Method": "sample",
+        "Line no": "298",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "A line with 289 chars in sample exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "A line with 163 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "348",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "A line with 135 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "MaskedConv2D",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "68",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "Magic number 2 used in build."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "MaskedConv2D",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "68",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "Magic number 2 used in build."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "GatedPixelCNN",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "205",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "Magic number 5 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "model",
+        "Class": "GatedPixelCNN",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "205",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\model.py",
+        "Details": "Magic number 256 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\train.py",
+        "Details": "A line with 163 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "85",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\train.py",
+        "Details": "A line with 137 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "114",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\train.py",
+        "Details": "A line with 135 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "plot_to_image",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\utils.py",
+        "Details": "A line with 152 chars in plot_to_image exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\utils.py",
+        "Details": "A line with 163 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "97",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.gated_pixelcnn",
+        "Module": "utils",
+        "Class": "PlotSamplesCallback",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\gated_pixelcnn\\utils.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "MaskedConv2D",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "20 - 33",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "__init__ has 7 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "MaskedConv2D",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "A line with 155 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "MaskedConv2D",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "A line with 143 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "ResidualBlock",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "131",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "A line with 133 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "PixelCNN",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "169",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "A line with 145 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "PixelCNN",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "183",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "A line with 125 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "PixelCNN",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "191",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "A line with 125 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "A line with 157 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "256",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "A line with 135 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "MaskedConv2D",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "Magic number 2 used in build."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "MaskedConv2D",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "Magic number 2 used in build."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "PixelCNN",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "156",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "Magic number 5 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "PixelCNN",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "156",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "Magic number 256 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "model",
+        "Class": "PixelCNN",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "160",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\model.py",
+        "Details": "Magic number 256 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\train.py",
+        "Details": "A line with 157 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "59",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\train.py",
+        "Details": "A line with 134 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\train.py",
+        "Details": "A line with 137 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "110",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\train.py",
+        "Details": "A line with 135 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "plot_to_image",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\utils.py",
+        "Details": "A line with 152 chars in plot_to_image exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\utils.py",
+        "Details": "A line with 157 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "84",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn",
+        "Module": "utils",
+        "Class": "PlotSamplesCallback",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn\\utils.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Complex method",
+        "Function/Method": "call",
+        "Line no": "357 - 409",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Method 'call' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long method",
+        "Function/Method": "build",
+        "Line no": "226 - 354",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Method 'build' is too long (109 lines)."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "209 - 217",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "__init__ has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "discretized_logistic_mix_loss",
+        "Line no": "483",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 126 chars in discretized_logistic_mix_loss exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConv",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 130 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConvTranspose",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "63",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 138 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConvTranspose",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "71",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 125 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownRightShiftedConvTranspose",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "106",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 138 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "262",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 178 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "272",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 150 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "281",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 155 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "290",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 176 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "300",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 155 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "309",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 160 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "320",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 129 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "329",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 129 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "sample",
+        "Line no": "412",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 289 chars in sample exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Long statement",
+        "Function/Method": "sample",
+        "Line no": "436",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 126 chars in sample exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 162 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "557",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "A line with 135 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "discretized_logistic_mix_loss",
+        "Line no": "516",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 255.0 used in discretized_logistic_mix_loss."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "discretized_logistic_mix_loss",
+        "Line no": "514",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2.0 used in discretized_logistic_mix_loss."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "discretized_logistic_mix_loss",
+        "Line no": "491",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in discretized_logistic_mix_loss."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConv",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "39",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConv",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "39",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 3 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConvTranspose",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownShiftedConvTranspose",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 3 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownRightShiftedConv",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownRightShiftedConv",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownRightShiftedConvTranspose",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "103",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "DownRightShiftedConvTranspose",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "103",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "ResidualBlock",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "125",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 0.2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "209",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 0.2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "209",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 5 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "210",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "210",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 5 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "234",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 3 used in build."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "235",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 3 used in build."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "237",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 10 used in build."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "sample",
+        "Line no": "458",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 3 used in sample."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "model",
+        "Class": "PixelCNNplus",
+        "Smell": "Magic number",
+        "Function/Method": "sample",
+        "Line no": "464",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\model.py",
+        "Details": "Magic number 2 used in sample."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\train.py",
+        "Details": "A line with 162 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "80",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\train.py",
+        "Details": "A line with 145 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "92",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\train.py",
+        "Details": "A line with 137 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "121",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\train.py",
+        "Details": "A line with 135 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "prepare",
+        "Line no": "57",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\train.py",
+        "Details": "Magic number 127.5 used in prepare."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "plot_to_image",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\utils.py",
+        "Details": "A line with 152 chars in plot_to_image exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\utils.py",
+        "Details": "A line with 162 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "97",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "utils",
+        "Class": "PlotSamplesCallback",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\utils.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelcnn_plus",
+        "Module": "utils",
+        "Class": "PlotSamplesCallback",
+        "Smell": "Magic number",
+        "Function/Method": "plot_img",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelcnn_plus\\utils.py",
+        "Details": "Magic number 2.0 used in plot_img."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "176 - 184",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "__init__ has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "discretized_logistic_mix_loss",
+        "Line no": "363",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "A line with 126 chars in discretized_logistic_mix_loss exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "DownShiftedConv",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "41",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "A line with 130 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "216",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "A line with 161 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "227",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "A line with 134 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "236",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "A line with 134 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "246",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "A line with 153 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Long statement",
+        "Function/Method": "call",
+        "Line no": "275",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "A line with 204 chars in call exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Long statement",
+        "Function/Method": "sample",
+        "Line no": "316",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "A line with 126 chars in sample exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "A line with 159 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "437",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "A line with 135 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "discretized_logistic_mix_loss",
+        "Line no": "396",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 255.0 used in discretized_logistic_mix_loss."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "discretized_logistic_mix_loss",
+        "Line no": "394",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 2.0 used in discretized_logistic_mix_loss."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "discretized_logistic_mix_loss",
+        "Line no": "371",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 2 used in discretized_logistic_mix_loss."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "DownShiftedConv",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "DownShiftedConv",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 3 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "DownRightShiftedConv",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "DownRightShiftedConv",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "ResidualBlock",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 0.2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "ResidualBlock",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "96",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 2 used in build."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "ResidualBlock",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "96",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 2 used in build."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "CausalAttentionBlock",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "162",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 10000000000.0 used in call."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "176",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 0.2 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "176",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 5 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "177",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 5 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "193",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 3 used in build."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "194",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 3 used in build."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Magic number",
+        "Function/Method": "build",
+        "Line no": "196",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 10 used in build."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Magic number",
+        "Function/Method": "sample",
+        "Line no": "338",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 3 used in sample."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "model",
+        "Class": "PixelSNAIL",
+        "Smell": "Magic number",
+        "Function/Method": "sample",
+        "Line no": "344",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\model.py",
+        "Details": "Magic number 2 used in sample."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\train.py",
+        "Details": "A line with 159 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\train.py",
+        "Details": "A line with 134 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "76",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\train.py",
+        "Details": "A line with 133 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "88",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\train.py",
+        "Details": "A line with 137 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "116",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\train.py",
+        "Details": "A line with 135 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "prepare",
+        "Line no": "55",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\train.py",
+        "Details": "Magic number 127.5 used in prepare."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "plot_to_image",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\utils.py",
+        "Details": "A line with 152 chars in plot_to_image exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\utils.py",
+        "Details": "A line with 159 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "86",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "utils",
+        "Class": "PlotSamplesCallback",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\utils.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.pixelsnail",
+        "Module": "utils",
+        "Class": "PlotSamplesCallback",
+        "Smell": "Magic number",
+        "Function/Method": "plot_img",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\pixelsnail\\utils.py",
+        "Details": "Magic number 2.0 used in plot_img."
+    },
+    {
+        "Package": "tf2-published-models.simple_autoencoder",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\simple_autoencoder\\model.py",
+        "Details": "A line with 167 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.simple_autoencoder",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\simple_autoencoder\\model.py",
+        "Details": "A line with 135 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.simple_autoencoder",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\simple_autoencoder\\train.py",
+        "Details": "A line with 167 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.simple_autoencoder",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "53",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\simple_autoencoder\\train.py",
+        "Details": "A line with 134 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.simple_autoencoder",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\simple_autoencoder\\train.py",
+        "Details": "A line with 236 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.simple_autoencoder",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "72",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\simple_autoencoder\\train.py",
+        "Details": "A line with 288 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.simple_autoencoder",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "104",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\simple_autoencoder\\train.py",
+        "Details": "A line with 135 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.simple_autoencoder",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "prepare",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\simple_autoencoder\\train.py",
+        "Details": "Magic number 255.0 used in prepare."
+    },
+    {
+        "Package": "tf2-published-models.simple_autoencoder",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "plot_to_image",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\simple_autoencoder\\utils.py",
+        "Details": "A line with 152 chars in plot_to_image exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.simple_autoencoder",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\simple_autoencoder\\utils.py",
+        "Details": "A line with 167 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.simple_autoencoder",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "100",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\simple_autoencoder\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.simple_autoencoder",
+        "Module": "utils",
+        "Class": "PlotReconstructionCallback",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\simple_autoencoder\\utils.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\model.py",
+        "Details": "A line with 152 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "67",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\model.py",
+        "Details": "A line with 135 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "model",
+        "Class": "VAE",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "40",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\model.py",
+        "Details": "Magic number 0.5 used in call."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "model",
+        "Class": "VAE",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "40",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\model.py",
+        "Details": "Magic number 2 used in call."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "model",
+        "Class": "VAE",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "40",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\model.py",
+        "Details": "Magic number 2 used in call."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "model",
+        "Class": "VAE",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "40",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\model.py",
+        "Details": "Magic number 2.0 used in call."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\train.py",
+        "Details": "A line with 152 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\train.py",
+        "Details": "A line with 134 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "66",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\train.py",
+        "Details": "A line with 242 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "73",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\train.py",
+        "Details": "A line with 288 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "106",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\train.py",
+        "Details": "A line with 135 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "prepare",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\train.py",
+        "Details": "Magic number 255.0 used in prepare."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "plot_to_image",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\utils.py",
+        "Details": "A line with 152 chars in plot_to_image exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\utils.py",
+        "Details": "A line with 152 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "136",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "utils",
+        "Class": "PlotReconstructionCallback",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\utils.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.vae",
+        "Module": "utils",
+        "Class": "PlotSamplesCallback",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "91",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vae\\utils.py",
+        "Details": "Magic number 4 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "model",
+        "Class": "VectorQuantizerEMA",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "32",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\model.py",
+        "Details": "A line with 175 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "model",
+        "Class": "VectorQuantizerEMA",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "39",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\model.py",
+        "Details": "A line with 163 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "model",
+        "Class": "VectorQuantizerEMA",
+        "Smell": "Long statement",
+        "Function/Method": "build",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\model.py",
+        "Details": "A line with 132 chars in build exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "model",
+        "Class": "VectorQuantizerEMA",
+        "Smell": "Long statement",
+        "Function/Method": "call",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\model.py",
+        "Details": "A line with 169 chars in call exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "model",
+        "Class": "VQVAE",
+        "Smell": "Long statement",
+        "Function/Method": "quantize",
+        "Line no": "124",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\model.py",
+        "Details": "A line with 163 chars in quantize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\model.py",
+        "Details": "A line with 154 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "168",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\model.py",
+        "Details": "A line with 135 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "model",
+        "Class": "VectorQuantizerEMA",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\model.py",
+        "Details": "Magic number 0.9 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "model",
+        "Class": "VectorQuantizerEMA",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "87",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\model.py",
+        "Details": "Magic number 1e-05 used in call."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "model",
+        "Class": "VectorQuantizerEMA",
+        "Smell": "Magic number",
+        "Function/Method": "call",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\model.py",
+        "Details": "Magic number 2 used in call."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "model",
+        "Class": "VQVAE",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "106",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\model.py",
+        "Details": "Magic number 0.25 used in __init__."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "model",
+        "Class": "VQVAE",
+        "Smell": "Magic number",
+        "Function/Method": "quantize",
+        "Line no": "126",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\model.py",
+        "Details": "Magic number 2 used in quantize."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\train.py",
+        "Details": "A line with 154 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "53",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\train.py",
+        "Details": "A line with 134 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\train.py",
+        "Details": "A line with 272 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "73",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\train.py",
+        "Details": "A line with 304 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "106",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\train.py",
+        "Details": "A line with 135 chars in train exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "train",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "prepare",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\train.py",
+        "Details": "Magic number 255.0 used in prepare."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "plot_to_image",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\utils.py",
+        "Details": "A line with 152 chars in plot_to_image exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\utils.py",
+        "Details": "A line with 154 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "100",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "tf2-published-models.vqvae",
+        "Module": "utils",
+        "Class": "PlotReconstructionCallback",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\tf2-published-models\\vqvae\\utils.py",
+        "Details": "Magic number 4 used in __init__."
+    }
+]

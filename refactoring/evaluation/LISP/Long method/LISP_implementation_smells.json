@@ -1,0 +1,2412 @@
+[
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "process_data",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "generate_graph",
+        "Line no": "59 - 105",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\process_data.py",
+        "Details": "Method 'generate_graph' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "process_data",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "generate_graph",
+        "Line no": "104",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\process_data.py",
+        "Details": "A line with 124 chars in generate_graph exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "process_data",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "10",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\process_data.py",
+        "Details": "A line with 190 chars in process_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "process_data",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "127",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\process_data.py",
+        "Details": "A line with 135 chars in process_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "sns_settings",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "9",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\sns_settings.py",
+        "Details": "A line with 190 chars in sns_settings exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "sns_settings",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "40",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\sns_settings.py",
+        "Details": "A line with 135 chars in sns_settings exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "generate_valid_coverage_over_time",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "Identifier'generate_valid_coverage_over_time' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "generate_all_coverage_over_time",
+        "Line no": "68",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "Identifier'generate_all_coverage_over_time' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "generate_total_inputs_over_time",
+        "Line no": "71",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "Identifier'generate_total_inputs_over_time' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "generate_valid_coverage_over_total_inputs",
+        "Line no": "74",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "Identifier'generate_valid_coverage_over_total_inputs' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "generate_all_coverage_over_total_inputs",
+        "Line no": "77",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "Identifier'generate_all_coverage_over_total_inputs' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "process_plot_data",
+        "Line no": "26",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "A line with 131 chars in process_plot_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "process_plot_data",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "A line with 132 chars in process_plot_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "process_plot_data",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "A line with 135 chars in process_plot_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "generate_plot_data_base",
+        "Line no": "59",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "A line with 134 chars in generate_plot_data_base exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "A line with 187 chars in visualize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "115",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "A line with 135 chars in visualize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "show_values_on_bars",
+        "Line no": "84",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "Magic number 10 used in show_values_on_bars."
+    },
+    {
+        "Package": "LISP.llm-JQF.scripts.experiments.ei.data-processing",
+        "Module": "visualize",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "show_values_on_bars",
+        "Line no": "83",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-JQF\\scripts\\experiments\\ei\\data-processing\\visualize.py",
+        "Details": "Magic number 2 used in show_values_on_bars."
+    },
+    {
+        "Package": "LISP.llm-seed-generator",
+        "Module": "main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "setup_logging",
+        "Line no": "28",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\main.py",
+        "Details": "A line with 201 chars in setup_logging exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator",
+        "Module": "main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\main.py",
+        "Details": "A line with 150 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator",
+        "Module": "main",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "84",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\main.py",
+        "Details": "A line with 135 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.config",
+        "Module": "configuration",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\config\\configuration.py",
+        "Details": "A line with 167 chars in configuration exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.config",
+        "Module": "configuration",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "41",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\config\\configuration.py",
+        "Details": "A line with 135 chars in configuration exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.config",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\config\\__init__.py",
+        "Details": "A line with 162 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.config",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "32",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\config\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.driver",
+        "Module": "driver_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "extract_method_signature",
+        "Line no": "28",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\driver\\driver_generator.py",
+        "Details": "A line with 214 chars in extract_method_signature exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.driver",
+        "Module": "driver_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "get_info_from_mg",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\driver\\driver_generator.py",
+        "Details": "A line with 137 chars in get_info_from_mg exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.driver",
+        "Module": "driver_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "get_info_from_mg",
+        "Line no": "102",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\driver\\driver_generator.py",
+        "Details": "A line with 137 chars in get_info_from_mg exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.driver",
+        "Module": "driver_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "generate_driver_file",
+        "Line no": "129",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\driver\\driver_generator.py",
+        "Details": "A line with 134 chars in generate_driver_file exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.driver",
+        "Module": "driver_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "generate_driver_file",
+        "Line no": "140",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\driver\\driver_generator.py",
+        "Details": "A line with 123 chars in generate_driver_file exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.driver",
+        "Module": "driver_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\driver\\driver_generator.py",
+        "Details": "A line with 170 chars in driver_generator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.driver",
+        "Module": "driver_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\driver\\driver_generator.py",
+        "Details": "A line with 276 chars in driver_generator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.driver",
+        "Module": "driver_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "199",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\driver\\driver_generator.py",
+        "Details": "A line with 135 chars in driver_generator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.driver",
+        "Module": "driver_generator",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "extract_method_signature",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\driver\\driver_generator.py",
+        "Details": "Magic number 3 used in extract_method_signature."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.driver",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\driver\\__init__.py",
+        "Details": "A line with 162 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.driver",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\driver\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\__init__.py",
+        "Details": "A line with 161 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v1",
+        "Module": "trivial",
+        "Class": "V1TrivialChatter",
+        "Smell": "Long statement",
+        "Function/Method": "format_template",
+        "Line no": "106",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v1\\trivial.py",
+        "Details": "A line with 185 chars in format_template exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v1",
+        "Module": "trivial",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v1\\trivial.py",
+        "Details": "A line with 164 chars in trivial exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v1",
+        "Module": "trivial",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v1\\trivial.py",
+        "Details": "A line with 177 chars in trivial exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v1",
+        "Module": "trivial",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "26",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v1\\trivial.py",
+        "Details": "A line with 2045 chars in trivial exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v1",
+        "Module": "trivial",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "89",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v1\\trivial.py",
+        "Details": "A line with 147 chars in trivial exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v1",
+        "Module": "trivial",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "124",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v1\\trivial.py",
+        "Details": "A line with 2964 chars in trivial exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v1",
+        "Module": "trivial",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "146",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v1\\trivial.py",
+        "Details": "A line with 135 chars in trivial exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v1",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v1\\__init__.py",
+        "Details": "A line with 165 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v1",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v1\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "llm_generator",
+        "Class": "LLMGenerator",
+        "Smell": "Complex method",
+        "Function/Method": "generate",
+        "Line no": "43 - 108",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\llm_generator.py",
+        "Details": "Method 'generate' has a cyclomatic complexity of 14, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "llm_generator",
+        "Class": "LLMGenerator",
+        "Smell": "Complex method",
+        "Function/Method": "generate_with_calling",
+        "Line no": "110 - 175",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\llm_generator.py",
+        "Details": "Method 'generate_with_calling' has a cyclomatic complexity of 14, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "llm_generator",
+        "Class": "LLMGenerator",
+        "Smell": "Complex method",
+        "Function/Method": "generate_non_ep",
+        "Line no": "177 - 206",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\llm_generator.py",
+        "Details": "Method 'generate_non_ep' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "llm_generator",
+        "Class": "LLMGenerator",
+        "Smell": "Complex method",
+        "Function/Method": "generate_non_understanding",
+        "Line no": "208 - 246",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\llm_generator.py",
+        "Details": "Method 'generate_non_understanding' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "llm_generator",
+        "Class": "LLMGenerator",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "31",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\llm_generator.py",
+        "Details": "Identifier'equivalence_partitioning_deeper_chain' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "llm_generator",
+        "Class": "LLMGenerator",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "31",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\llm_generator.py",
+        "Details": "Identifier'input_understanding_chain_non_ep' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "llm_generator",
+        "Class": "LLMGenerator",
+        "Smell": "Long statement",
+        "Function/Method": "generate",
+        "Line no": "44",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\llm_generator.py",
+        "Details": "A line with 302 chars in generate exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "llm_generator",
+        "Class": "LLMGenerator",
+        "Smell": "Long statement",
+        "Function/Method": "generate_with_calling",
+        "Line no": "111",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\llm_generator.py",
+        "Details": "A line with 302 chars in generate_with_calling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "llm_generator",
+        "Class": "LLMGenerator",
+        "Smell": "Long statement",
+        "Function/Method": "generate_with_calling",
+        "Line no": "125",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\llm_generator.py",
+        "Details": "A line with 123 chars in generate_with_calling exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "llm_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\llm_generator.py",
+        "Details": "A line with 170 chars in llm_generator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "llm_generator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "282",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\llm_generator.py",
+        "Details": "A line with 135 chars in llm_generator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\__init__.py",
+        "Details": "A line with 165 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "BasicGenerationNonEP",
+        "Smell": "Long identifier",
+        "Function/Method": "__init__",
+        "Line no": "426",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "Identifier'generator_non_static_shot_prompt' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "BasicGenerationNonEP",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "428",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 141 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "BasicGenerationNonEP",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "432",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 130 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "BasicGenerationNonEP",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "438",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 174 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "BasicGenerationNonEP",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "442",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 174 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "BasicGenerationNonEP",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "478",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 126 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "BasicGenerationNonEP",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "484",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 152 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 187 chars in basic_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "26",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 252 chars in basic_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 124 chars in basic_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "43",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 551 chars in basic_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "50",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 150 chars in basic_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "56",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 157 chars in basic_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 8129 chars in basic_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "290",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 4935 chars in basic_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "494",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 674 chars in basic_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "basic_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "528",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\basic_generation_non_ep.py",
+        "Details": "A line with 135 chars in basic_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning",
+        "Class": "EquivalencePartitioningChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "165",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning.py",
+        "Details": "A line with 188 chars in equivalence_partitioning exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning.py",
+        "Details": "A line with 256 chars in equivalence_partitioning exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "39",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning.py",
+        "Details": "A line with 5043 chars in equivalence_partitioning exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "199",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning.py",
+        "Details": "A line with 1085 chars in equivalence_partitioning exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "239",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning.py",
+        "Details": "A line with 135 chars in equivalence_partitioning exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning_2",
+        "Class": "EquivalencePartitioningDeeperChain",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "141",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning_2.py",
+        "Details": "Identifier'EquivalencePartitioningDeeperChain' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning_2",
+        "Class": "EquivalencePartitioningDeeperChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "144",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning_2.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning_2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning_2.py",
+        "Details": "A line with 190 chars in equivalence_partitioning_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning_2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning_2.py",
+        "Details": "A line with 294 chars in equivalence_partitioning_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning_2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "30",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning_2.py",
+        "Details": "A line with 151 chars in equivalence_partitioning_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning_2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "35",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning_2.py",
+        "Details": "A line with 158 chars in equivalence_partitioning_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning_2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "40",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning_2.py",
+        "Details": "A line with 3171 chars in equivalence_partitioning_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning_2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "178",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning_2.py",
+        "Details": "A line with 429 chars in equivalence_partitioning_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning_2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "194",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning_2.py",
+        "Details": "A line with 9888 chars in equivalence_partitioning_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "equivalence_partitioning_2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "479",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\equivalence_partitioning_2.py",
+        "Details": "A line with 135 chars in equivalence_partitioning_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "InputGenerationChain",
+        "Smell": "Complex method",
+        "Function/Method": "run",
+        "Line no": "565 - 603",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "Method 'run' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "InputGenerationChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "526",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "InputGenerationChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "538",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 168 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "InputGenerationChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "543",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 164 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "InputGenerationChain",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "593",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 126 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "InputGenerationChain",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "599",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 152 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 180 chars in input_generation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 252 chars in input_generation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "30",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 148 chars in input_generation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "36",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 155 chars in input_generation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 583 chars in input_generation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "49",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 189 chars in input_generation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "55",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 196 chars in input_generation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 4685 chars in input_generation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "183",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 14363 chars in input_generation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "630",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation.py",
+        "Details": "A line with 135 chars in input_generation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "InputGenerationNonEPChain",
+        "Smell": "Complex method",
+        "Function/Method": "run",
+        "Line no": "742 - 770",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "Method 'run' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "InputGenerationNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "703",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "InputGenerationNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "715",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 168 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "InputGenerationNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "720",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 164 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "InputGenerationNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "766",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 151 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 187 chars in input_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 252 chars in input_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "35",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 124 chars in input_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "41",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 583 chars in input_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "48",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 158 chars in input_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 165 chars in input_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 7784 chars in input_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "305",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 15670 chars in input_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_generation_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "791",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_generation_non_ep.py",
+        "Details": "A line with 135 chars in input_generation_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "InputNonUnderstandingChain",
+        "Smell": "Complex method",
+        "Function/Method": "init_dict",
+        "Line no": "586 - 616",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "Method 'init_dict' has a cyclomatic complexity of 9, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "InputNonUnderstandingChain",
+        "Smell": "Complex method",
+        "Function/Method": "run",
+        "Line no": "618 - 654",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "Method 'run' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "InputNonUnderstandingChain",
+        "Smell": "Long identifier",
+        "Function/Method": "__init__",
+        "Line no": "525",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "Identifier'generator_non_static_shot_prompt' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "InputNonUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "526",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 470 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "InputNonUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "535",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 141 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "InputNonUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "539",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 130 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "InputNonUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "545",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 174 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "InputNonUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "549",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 174 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "InputNonUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "parse_constructor",
+        "Line no": "563",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 125 chars in parse_constructor exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "InputNonUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "init_dict",
+        "Line no": "587",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 362 chars in init_dict exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "InputNonUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "641",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 131 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "InputNonUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "650",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 161 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 187 chars in input_non_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "26",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 252 chars in input_non_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "31",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 175 chars in input_non_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 182 chars in input_non_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "43",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 583 chars in input_non_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "50",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 215 chars in input_non_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "56",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 222 chars in input_non_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 26101 chars in input_non_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "424",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 4452 chars in input_non_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_non_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "673",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_non_understanding.py",
+        "Details": "A line with 135 chars in input_non_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Complex method",
+        "Function/Method": "init_dict",
+        "Line no": "411 - 468",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "Method 'init_dict' has a cyclomatic complexity of 23, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Complex method",
+        "Function/Method": "understand_further",
+        "Line no": "470 - 524",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "Method 'understand_further' has a cyclomatic complexity of 17, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Complex method",
+        "Function/Method": "understand_param",
+        "Line no": "526 - 581",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "Method 'understand_param' has a cyclomatic complexity of 16, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Complex method",
+        "Function/Method": "run",
+        "Line no": "583 - 633",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "Method 'run' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Empty catch block",
+        "Function/Method": "run",
+        "Line no": "628",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "Empty catch block found in run."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long identifier",
+        "Function/Method": "__init__",
+        "Line no": "330",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "Identifier'generator_non_static_shot_prompt' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "331",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 470 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "340",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 147 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "344",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 138 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "350",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 143 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "354",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 130 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "360",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 145 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "364",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 134 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "370",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 178 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "374",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 178 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "parse_constructor",
+        "Line no": "388",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 125 chars in parse_constructor exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "init_dict",
+        "Line no": "412",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 362 chars in init_dict exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "understand_further",
+        "Line no": "471",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 248 chars in understand_further exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "understand_further",
+        "Line no": "491",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 143 chars in understand_further exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "understand_param",
+        "Line no": "527",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 255 chars in understand_param exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "understand_param",
+        "Line no": "545",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 136 chars in understand_param exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "607",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 138 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "617",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 136 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "InputUnderstandingChain",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "623",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 162 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 183 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "27",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 450 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "34",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 201 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "40",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 206 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 419 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "53",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 209 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "59",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 214 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 278 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "70",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 183 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "76",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 188 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 591 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "89",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 228 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "95",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 235 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "101",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 2923 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "168",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 2103 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "212",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 4028 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "279",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 2742 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "662",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding.py",
+        "Details": "A line with 135 chars in input_understanding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Complex method",
+        "Function/Method": "init_dict",
+        "Line no": "489 - 519",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "Method 'init_dict' has a cyclomatic complexity of 9, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Complex method",
+        "Function/Method": "understand_further",
+        "Line no": "521 - 562",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "Method 'understand_further' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Complex method",
+        "Function/Method": "understand_param",
+        "Line no": "564 - 606",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "Method 'understand_param' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Complex method",
+        "Function/Method": "run",
+        "Line no": "608 - 643",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "Method 'run' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long identifier",
+        "Function/Method": "__init__",
+        "Line no": "408",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "Identifier'generator_non_static_shot_prompt' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "409",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 470 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "418",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 147 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "422",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 138 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "428",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 143 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "432",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 130 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "438",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 145 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "442",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 134 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "448",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 178 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "452",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 178 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "parse_constructor",
+        "Line no": "466",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 125 chars in parse_constructor exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "init_dict",
+        "Line no": "490",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 362 chars in init_dict exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "understand_further",
+        "Line no": "522",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 180 chars in understand_further exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "understand_param",
+        "Line no": "565",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 187 chars in understand_param exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "understand_param",
+        "Line no": "582",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 122 chars in understand_param exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "631",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 127 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "InputUnderstandingNonEPChain",
+        "Smell": "Long statement",
+        "Function/Method": "run",
+        "Line no": "639",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 161 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 190 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "26",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 237 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "31",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 168 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 175 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "43",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 206 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "48",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 176 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 183 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 279 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 152 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "71",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 159 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "77",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 591 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "84",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 201 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "90",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 208 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "97",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 2786 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "159",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 1962 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "199",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 5708 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "313",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 4357 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "input_understanding_non_ep",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "663",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\input_understanding_non_ep.py",
+        "Details": "A line with 135 chars in input_understanding_non_ep exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\__init__.py",
+        "Details": "A line with 172 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.model.v2.chain",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\model\\v2\\chain\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.util",
+        "Module": "file_util",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\util\\file_util.py",
+        "Details": "A line with 161 chars in file_util exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.util",
+        "Module": "file_util",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "97",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\util\\file_util.py",
+        "Details": "A line with 135 chars in file_util exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.util",
+        "Module": "mg_util",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "parameters",
+        "Line no": "34 - 140",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\util\\mg_util.py",
+        "Details": "Method 'parameters' has a cyclomatic complexity of 30, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.util",
+        "Module": "mg_util",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "parameter_info",
+        "Line no": "143 - 173",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\util\\mg_util.py",
+        "Details": "Method 'parameter_info' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.util",
+        "Module": "mg_util",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "parameters",
+        "Line no": "34 - 140",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\util\\mg_util.py",
+        "Details": "Method 'parameters' is too long (95 lines)."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.util",
+        "Module": "mg_util",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parameters",
+        "Line no": "35",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\util\\mg_util.py",
+        "Details": "A line with 495 chars in parameters exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.util",
+        "Module": "mg_util",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parameters",
+        "Line no": "93",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\util\\mg_util.py",
+        "Details": "A line with 124 chars in parameters exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.util",
+        "Module": "mg_util",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parameter_info",
+        "Line no": "144",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\util\\mg_util.py",
+        "Details": "A line with 330 chars in parameter_info exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.util",
+        "Module": "mg_util",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\util\\mg_util.py",
+        "Details": "A line with 159 chars in mg_util exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.util",
+        "Module": "mg_util",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "195",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\util\\mg_util.py",
+        "Details": "A line with 135 chars in mg_util exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.util",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\util\\__init__.py",
+        "Details": "A line with 160 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "LISP.llm-seed-generator.util",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\LISP\\llm-seed-generator\\util\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    }
+]

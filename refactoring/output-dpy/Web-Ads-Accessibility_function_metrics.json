@@ -1,0 +1,74 @@
+[
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "sele",
+        "Class": "",
+        "Function": "perform_action",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "sele",
+        "Class": "",
+        "Function": "crawl_ibm_extension",
+        "LOC": 61,
+        "CC": 5,
+        "PC": 2
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "sele",
+        "Class": "",
+        "Function": "extract_domain",
+        "LOC": 2,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "sele_adblock",
+        "Class": "",
+        "Function": "perform_action",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 2
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "sele_adblock",
+        "Class": "",
+        "Function": "crawl_ibm_extension",
+        "LOC": 61,
+        "CC": 5,
+        "PC": 2
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "sele_adblock",
+        "Class": "",
+        "Function": "extract_domain",
+        "LOC": 2,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table4",
+        "Class": "",
+        "Function": "getDomain",
+        "LOC": 3,
+        "CC": 1,
+        "PC": 1
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table4",
+        "Class": "",
+        "Function": "find_domains",
+        "LOC": 7,
+        "CC": 2,
+        "PC": 1
+    }
+]

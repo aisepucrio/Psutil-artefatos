@@ -1,0 +1,1202 @@
+[
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "check_markdown_links",
+        "Line no": "139 - 169",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "Method 'check_markdown_links' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "get_python_latest_stable_version",
+        "Line no": "112",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "Identifier'get_python_latest_stable_version' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "enumerate_markdown_files_in_dir",
+        "Line no": "172",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "Identifier'enumerate_markdown_files_in_dir' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "check_versions_are_up_to_date",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 128 chars in check_versions_are_up_to_date exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "check_versions_are_up_to_date",
+        "Line no": "89",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 185 chars in check_versions_are_up_to_date exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "check_versions_are_up_to_date",
+        "Line no": "93",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 732 chars in check_versions_are_up_to_date exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "analyze_uri",
+        "Line no": "242",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 123 chars in analyze_uri exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "31",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 173 chars in check_documentation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "43",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 303 chars in check_documentation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "275",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 164 chars in check_documentation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "292",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 135 chars in check_documentation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "get_python_latest_stable_version",
+        "Line no": "114",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "Magic number 200 used in get_python_latest_stable_version."
+    },
+    {
+        "Package": "saida_gemini.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "check_external_uri",
+        "Line no": "257",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\scripts\\check_documentation.py",
+        "Details": "Magic number 200 used in check_external_uri."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "validate_arguments",
+        "Line no": "99 - 126",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "Method 'validate_arguments' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "get_output_strings",
+        "Line no": "158 - 201",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "Method 'get_output_strings' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "process_batch",
+        "Line no": "204 - 240",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "Method 'process_batch' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "validate_arguments",
+        "Line no": "99 - 126",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "validate_arguments has 8 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "initialize_magika",
+        "Line no": "129 - 155",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "initialize_magika has 7 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "process_batch",
+        "Line no": "204 - 240",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "process_batch has 10 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "main",
+        "Line no": "333 - 415",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "main has 16 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "initialize_magika",
+        "Line no": "144",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 174 chars in initialize_magika exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "get_output_strings",
+        "Line no": "180",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 147 chars in get_output_strings exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "process_batch",
+        "Line no": "216",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 151 chars in process_batch exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "364",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 127 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "398",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 155 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 163 chars in magika_client exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "421",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 167 chars in magika_client exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "438",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 135 chars in magika_client exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "validate_arguments",
+        "Line no": "116",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "Magic number 512 used in validate_arguments."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Complex method",
+        "Function/Method": "get_corner_case_candidates_generator",
+        "Line no": "537 - 601",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Method 'get_corner_case_candidates_generator' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_get_examples_by_path",
+        "Line no": "158",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'reference_for_inference_examples_by_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_get_examples_by_content",
+        "Line no": "167",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'reference_for_inference_examples_by_content' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_reference_for_inference",
+        "Line no": "191",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'_generate_reference_for_inference' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_examples_by_path_reference",
+        "Line no": "201",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'_generate_examples_by_path_reference' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_examples_by_content_reference",
+        "Line no": "256",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'_generate_examples_by_content_reference' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_examples_for_all_modes",
+        "Line no": "308",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'_generate_examples_for_all_modes' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_check_result_vs_reference_example",
+        "Line no": "604",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'_check_result_vs_reference_example' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Long identifier",
+        "Function/Method": "get_corner_case_candidates_generator",
+        "Line no": "537",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'get_corner_case_candidates_generator' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_examples_by_content",
+        "Line no": "168",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 121 chars in _get_examples_by_content exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_load_examples",
+        "Line no": "177",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 205 chars in _load_examples exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_create_example_by_path",
+        "Line no": "235",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 313 chars in _create_example_by_path exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_create_example_by_content",
+        "Line no": "333",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 316 chars in _create_example_by_content exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_create_example_by_content",
+        "Line no": "345",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 156 chars in _create_example_by_content exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_write_examples",
+        "Line no": "397",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 141 chars in _write_examples exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseInfo",
+        "Smell": "Long statement",
+        "Function/Method": "__repr__",
+        "Line no": "415",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 167 chars in __repr__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "443",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 1179 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "461",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 189 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Long statement",
+        "Function/Method": "_get_cornern_case_example",
+        "Line no": "490",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 216 chars in _get_cornern_case_example exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Long statement",
+        "Function/Method": "get_corner_case_candidates_generator",
+        "Line no": "598",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 122 chars in get_corner_case_candidates_generator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 170 chars in test_inference_vs_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 178 chars in test_inference_vs_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "665",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 135 chars in test_inference_vs_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_examples_for_all_modes",
+        "Line no": "324",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Magic number 100 used in _generate_examples_for_all_modes."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Magic number",
+        "Function/Method": "_get_score_range",
+        "Line no": "526",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Magic number 0.5 used in _get_score_range."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Magic number",
+        "Function/Method": "get_corner_case_candidates_generator",
+        "Line no": "545",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Magic number 0.5 used in get_corner_case_candidates_generator."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_check_version",
+        "Line no": "48",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_check_version' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_one_test_file",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_one_test_file' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_explicit_model_dir",
+        "Line no": "75",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_explicit_model_dir' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_basic_tests_by_paths",
+        "Line no": "88",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_basic_tests_by_paths' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_basic_tests_by_path",
+        "Line no": "96",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_basic_tests_by_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_basic_tests_by_bytes",
+        "Line no": "106",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_basic_tests_by_bytes' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_basic_tests_by_stream",
+        "Line no": "119",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_basic_tests_by_stream' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_all_models",
+        "Line no": "132",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_all_models' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_previously_missdetected_samples",
+        "Line no": "143",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_previously_missdetected_samples' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_empty_content",
+        "Line no": "152",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_empty_content' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_short_content",
+        "Line no": "182",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_short_content' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_python_and_non_python_content",
+        "Line no": "220",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_python_and_non_python_content' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_identify_stream_does_not_alter_position",
+        "Line no": "237",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_identify_stream_does_not_alter_position' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_whitespaces",
+        "Line no": "257",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_whitespaces' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "323",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_different_prediction_modes' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "357",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_overwrite_reason' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "357",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'python_high_confidence_threshold' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "357",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'is_overwrite_map_ct_target_text' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "357",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'overwrite_map_ct_high_confidence_threshold' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "357",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'generic_type_high_confidence_threshold' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_directory",
+        "Line no": "400",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_directory' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_multiple_copies_of_the_same_file",
+        "Line no": "413",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_multiple_copies_of_the_same_file' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_symlink",
+        "Line no": "429",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_symlink' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_non_existing_file",
+        "Line no": "458",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_non_existing_file' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_permission_error",
+        "Line no": "470",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_permission_error' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_really_many_files",
+        "Line no": "503",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_really_many_files' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "518",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_big_file' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_access_magika_result_and_prediction",
+        "Line no": "575",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_access_magika_result_and_prediction' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_access_backward_compatibility_layer",
+        "Line no": "622",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_access_backward_compatibility_layer' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_get_model_and_output_content_types",
+        "Line no": "651",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_get_model_and_output_content_types' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "get_expected_content_type_label_from_test_file_path",
+        "Line no": "694",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'get_expected_content_type_label_from_test_file_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "check_result_vs_expected_result",
+        "Line no": "700",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'check_result_vs_expected_result' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_whitespaces",
+        "Line no": "260",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 889 chars in test_magika_module_with_whitespaces exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "336",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 177 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "340",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 160 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "344",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 139 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "345",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 132 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "348",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 144 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "352",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 131 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "353",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 124 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "362",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 145 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "367",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 128 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "368",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 135 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "370",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 125 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "371",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 132 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "373",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 123 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "374",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 123 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "383",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 152 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "388",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 146 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "389",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 212 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "392",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 138 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "396",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 121 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_get_model_and_output_content_types",
+        "Line no": "670",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 157 chars in test_get_model_and_output_content_types exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 168 chars in test_magika_python_module exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_identify_stream_does_not_alter_position",
+        "Line no": "243",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 100 used in test_magika_module_identify_stream_does_not_alter_position."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_identify_stream_does_not_alter_position",
+        "Line no": "244",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 1000 used in test_magika_module_identify_stream_does_not_alter_position."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_identify_stream_does_not_alter_position",
+        "Line no": "245",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 10000 used in test_magika_module_identify_stream_does_not_alter_position."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_multiple_copies_of_the_same_file",
+        "Line no": "418",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 3 used in test_magika_module_multiple_copies_of_the_same_file."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_really_many_files",
+        "Line no": "508",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 10000 used in test_magika_module_with_really_many_files."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "526",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 2 used in test_magika_module_with_big_file."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "530",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 1000 used in test_magika_module_with_big_file."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "530",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 10000 used in test_magika_module_with_big_file."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "530",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 1000000 used in test_magika_module_with_big_file."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "530",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 1000000000 used in test_magika_module_with_big_file."
+    },
+    {
+        "Package": "saida_gemini.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "530",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 10000000000 used in test_magika_module_with_big_file."
+    }
+]

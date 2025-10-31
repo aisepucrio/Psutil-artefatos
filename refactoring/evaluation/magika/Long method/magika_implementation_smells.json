@@ -1,0 +1,3252 @@
+[
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_copyright",
+        "Class": "",
+        "Smell": "Complex conditional",
+        "Function/Method": "get_relevant_files_paths",
+        "Line no": "90",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_copyright.py",
+        "Details": "A conditional in get_relevant_files_paths has 5 conditions, more than the recommended maximum 3 conditions."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_copyright",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_copyright.py",
+        "Details": "A line with 392 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_copyright",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "get_relevant_files_paths",
+        "Line no": "67",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_copyright.py",
+        "Details": "A line with 329 chars in get_relevant_files_paths exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_copyright",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "get_relevant_files_paths",
+        "Line no": "81",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_copyright.py",
+        "Details": "A line with 132 chars in get_relevant_files_paths exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_copyright",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "has_copyright",
+        "Line no": "106",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_copyright.py",
+        "Details": "A line with 125 chars in has_copyright exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_copyright",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_copyright.py",
+        "Details": "A line with 160 chars in check_copyright exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_copyright",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "133",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_copyright.py",
+        "Details": "A line with 135 chars in check_copyright exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "check_markdown_links",
+        "Line no": "156 - 193",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "Method 'check_markdown_links' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "extract_uris_infos_from_file",
+        "Line no": "214 - 289",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "Method 'extract_uris_infos_from_file' has a cyclomatic complexity of 15, exceeding the max of 6."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "get_python_latest_stable_version",
+        "Line no": "128",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "Identifier'get_python_latest_stable_version' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "enumerate_markdown_files_in_dir",
+        "Line no": "196",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "Identifier'enumerate_markdown_files_in_dir' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "extract_uris_infos_from_file",
+        "Line no": "214 - 289",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "Method 'extract_uris_infos_from_file' is too long (72 lines)."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "check_versions_are_up_to_date",
+        "Line no": "90",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 128 chars in check_versions_are_up_to_date exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "check_versions_are_up_to_date",
+        "Line no": "98",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 185 chars in check_versions_are_up_to_date exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "check_versions_are_up_to_date",
+        "Line no": "102",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 732 chars in check_versions_are_up_to_date exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "extract_uris_infos_from_file",
+        "Line no": "279",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 135 chars in extract_uris_infos_from_file exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 164 chars in check_documentation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "44",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 173 chars in check_documentation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "58",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 303 chars in check_documentation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "315",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "A line with 135 chars in check_documentation exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "get_python_latest_stable_version",
+        "Line no": "130",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "Magic number 200 used in get_python_latest_stable_version."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_documentation",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "extract_uris_infos_from_file",
+        "Line no": "248",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_documentation.py",
+        "Details": "Magic number 200 used in extract_uris_infos_from_file."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_release_candidate_python_package",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "validate_release_tag",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_release_candidate_python_package.py",
+        "Details": "A line with 354 chars in validate_release_tag exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_release_candidate_python_package",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "check_python_module_version",
+        "Line no": "85",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_release_candidate_python_package.py",
+        "Details": "A line with 426 chars in check_python_module_version exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_release_candidate_python_package",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "check_rust_cli_version",
+        "Line no": "116",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_release_candidate_python_package.py",
+        "Details": "A line with 312 chars in check_rust_cli_version exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_release_candidate_python_package",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_release_candidate_python_package.py",
+        "Details": "A line with 183 chars in check_release_candidate_python_package exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_release_candidate_python_package",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "159",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_release_candidate_python_package.py",
+        "Details": "A line with 135 chars in check_release_candidate_python_package exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "check_release_candidate_python_package",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "check_rust_cli_version",
+        "Line no": "129",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\check_release_candidate_python_package.py",
+        "Details": "Magic number 2 used in check_rust_cli_version."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "fix_package_version",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "patch_main_rs_with_version",
+        "Line no": "72",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\fix_package_version.py",
+        "Details": "A line with 131 chars in patch_main_rs_with_version exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "fix_package_version",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "patch_line_matching_prefix",
+        "Line no": "104",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\fix_package_version.py",
+        "Details": "A line with 165 chars in patch_line_matching_prefix exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "fix_package_version",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\fix_package_version.py",
+        "Details": "A line with 164 chars in fix_package_version exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "fix_package_version",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "141",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\fix_package_version.py",
+        "Details": "A line with 135 chars in fix_package_version exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "generate_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\generate_reference.py",
+        "Details": "A line with 163 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "generate_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\generate_reference.py",
+        "Details": "A line with 163 chars in generate_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "generate_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "76",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\generate_reference.py",
+        "Details": "A line with 135 chars in generate_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "prepare_pyproject_for_pure_python_wheel",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\prepare_pyproject_for_pure_python_wheel.py",
+        "Details": "A line with 184 chars in prepare_pyproject_for_pure_python_wheel exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "prepare_pyproject_for_pure_python_wheel",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "71",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\prepare_pyproject_for_pure_python_wheel.py",
+        "Details": "A line with 135 chars in prepare_pyproject_for_pure_python_wheel exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "run_quick_test_magika_cli",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "main",
+        "Line no": "51 - 105",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\run_quick_test_magika_cli.py",
+        "Details": "Method 'main' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "run_quick_test_magika_cli",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "52",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\run_quick_test_magika_cli.py",
+        "Details": "A line with 293 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "run_quick_test_magika_cli",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "70",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\run_quick_test_magika_cli.py",
+        "Details": "A line with 124 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "run_quick_test_magika_cli",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\run_quick_test_magika_cli.py",
+        "Details": "A line with 170 chars in run_quick_test_magika_cli exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "run_quick_test_magika_cli",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "28",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\run_quick_test_magika_cli.py",
+        "Details": "A line with 405 chars in run_quick_test_magika_cli exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "run_quick_test_magika_cli",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "122",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\run_quick_test_magika_cli.py",
+        "Details": "A line with 135 chars in run_quick_test_magika_cli exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "run_quick_test_magika_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\run_quick_test_magika_module.py",
+        "Details": "A line with 173 chars in run_quick_test_magika_module exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "run_quick_test_magika_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "28",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\run_quick_test_magika_module.py",
+        "Details": "A line with 202 chars in run_quick_test_magika_module exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "run_quick_test_magika_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "96",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\run_quick_test_magika_module.py",
+        "Details": "A line with 135 chars in run_quick_test_magika_module exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "update_python_content_type_label_py",
+        "Line no": "166",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "Identifier'update_python_content_type_label_py' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "Identifier'MODELS_NAMES_TO_INCLUDE_IN_PYTHON_PACKAGE' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "Identifier'PYTHON_CONTENT_TYPES_LABELS_PY_PATH' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "139",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "Identifier'CONTENT_TYPE_LABEL_PY_SOURCE_PREFIX' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "200",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "Identifier'COPYRIGHT_AND_DONOT_EDIT_PREFIX' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "219",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "Identifier'CONTENT_TYPE_LABEL_TS_SOURCE_PREFIX' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "update_js_content_type_files",
+        "Line no": "244",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "A line with 125 chars in update_js_content_type_files exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "update_js_content_type_files",
+        "Line no": "259",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "A line with 317 chars in update_js_content_type_files exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "update_js_content_type_files",
+        "Line no": "277",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "A line with 215 chars in update_js_content_type_files exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "23",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "A line with 149 chars in sync exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "139",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "A line with 932 chars in sync exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "200",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "A line with 715 chars in sync exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "219",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "A line with 292 chars in sync exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "308",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "A line with 135 chars in sync exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "update_python_content_type_label_py",
+        "Line no": "187",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "Magic number 4 used in update_python_content_type_label_py."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "update_python_content_type_label_py",
+        "Line no": "174",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "Magic number 4 used in update_python_content_type_label_py."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "update_python_content_type_label_py",
+        "Line no": "176",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "Magic number 4 used in update_python_content_type_label_py."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "update_js_content_type_files",
+        "Line no": "239",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "Magic number 2 used in update_js_content_type_files."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "sync",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "update_js_content_type_files",
+        "Line no": "241",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\sync.py",
+        "Details": "Magic number 2 used in update_js_content_type_files."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "test_magika_model",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "main",
+        "Line no": "47 - 85",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\test_magika_model.py",
+        "Details": "Method 'main' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "test_magika_model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "78",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\test_magika_model.py",
+        "Details": "A line with 138 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "test_magika_model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "23",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\test_magika_model.py",
+        "Details": "A line with 162 chars in test_magika_model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "test_magika_model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "29",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\test_magika_model.py",
+        "Details": "A line with 182 chars in test_magika_model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.scripts",
+        "Module": "test_magika_model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "110",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\scripts\\test_magika_model.py",
+        "Details": "A line with 135 chars in test_magika_model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "colors",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\colors.py",
+        "Details": "A line with 155 chars in colors exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "colors",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\colors.py",
+        "Details": "A line with 135 chars in colors exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "logger",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\logger.py",
+        "Details": "A line with 155 chars in logger exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "logger",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "112",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\logger.py",
+        "Details": "A line with 135 chars in logger exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Complex method",
+        "Function/Method": "__init__",
+        "Line no": "60 - 114",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Method '__init__' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Complex method",
+        "Function/Method": "identify_stream",
+        "Line no": "169 - 199",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Method 'identify_stream' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Complex method",
+        "Function/Method": "_get_output_label_from_dl_label_and_score",
+        "Line no": "563 - 619",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Method '_get_output_label_from_dl_label_and_score' has a cyclomatic complexity of 9, exceeding the max of 6."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Complex method",
+        "Function/Method": "_get_raw_predictions",
+        "Line no": "781 - 827",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Method '_get_raw_predictions' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long identifier",
+        "Function/Method": "_extract_features_from_seekable",
+        "Line no": "388",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Identifier'_extract_features_from_seekable' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long identifier",
+        "Function/Method": "_get_model_outputs_from_features",
+        "Line no": "514",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Identifier'_get_model_outputs_from_features' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long identifier",
+        "Function/Method": "_get_output_label_from_dl_label_and_score",
+        "Line no": "563",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Identifier'_get_output_label_from_dl_label_and_score' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long identifier",
+        "Function/Method": "_get_result_from_labels_and_score",
+        "Line no": "621",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Identifier'_get_result_from_labels_and_score' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long identifier",
+        "Function/Method": "_get_result_or_features_from_path",
+        "Line no": "639",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Identifier'_get_result_or_features_from_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long identifier",
+        "Function/Method": "_get_result_or_features_from_seekable",
+        "Line no": "699",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Identifier'_get_result_or_features_from_seekable' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "60 - 114",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "__init__ has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long parameter list",
+        "Function/Method": "_extract_features_from_seekable",
+        "Line no": "388 - 463",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "_extract_features_from_seekable has 7 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "get_output_content_types",
+        "Line no": "202",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 441 chars in get_output_content_types exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "get_output_content_types",
+        "Line no": "213",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 172 chars in get_output_content_types exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "get_model_content_types",
+        "Line no": "229",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 548 chars in get_model_content_types exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_default_model_name",
+        "Line no": "246",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 193 chars in _get_default_model_name exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_load_content_types_kb",
+        "Line no": "281",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 180 chars in _load_content_types_kb exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_load_model_config",
+        "Line no": "295",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 628 chars in _load_model_config exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_results_from_paths",
+        "Line no": "334",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 322 chars in _get_results_from_paths exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_extract_features_from_seekable",
+        "Line no": "397",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 957 chars in _extract_features_from_seekable exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_extract_features_from_seekable",
+        "Line no": "456",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 156 chars in _extract_features_from_seekable exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_beg_ints_with_padding",
+        "Line no": "470",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 289 chars in _get_beg_ints_with_padding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_end_ints_with_padding",
+        "Line no": "494",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 293 chars in _get_end_ints_with_padding exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_model_outputs_from_features",
+        "Line no": "522",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 166 chars in _get_model_outputs_from_features exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_results_from_features",
+        "Line no": "547",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 121 chars in _get_results_from_features exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_results_from_features",
+        "Line no": "553",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 187 chars in _get_results_from_features exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_result_from_labels_and_score",
+        "Line no": "629",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 179 chars in _get_result_from_labels_and_score exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_result_or_features_from_path",
+        "Line no": "642",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 539 chars in _get_result_or_features_from_path exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_result_or_features_from_path",
+        "Line no": "656",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 145 chars in _get_result_or_features_from_path exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_result_or_features_from_path",
+        "Line no": "680",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 147 chars in _get_result_or_features_from_path exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_result_or_features_from_path",
+        "Line no": "689",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 145 chars in _get_result_or_features_from_path exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_result_or_features_from_seekable",
+        "Line no": "702",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 582 chars in _get_result_or_features_from_seekable exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_result_or_features_from_seekable",
+        "Line no": "717",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 143 chars in _get_result_or_features_from_seekable exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_result_or_features_from_seekable",
+        "Line no": "731",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 258 chars in _get_result_or_features_from_seekable exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_result_from_few_bytes",
+        "Line no": "766",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 124 chars in _get_result_from_few_bytes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Long statement",
+        "Function/Method": "_get_raw_predictions",
+        "Line no": "784",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 133 chars in _get_raw_predictions exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 155 chars in magika exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "840",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "A line with 135 chars in magika exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Magic number",
+        "Function/Method": "_init_onnx_session",
+        "Line no": "324",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Magic number 1000 used in _init_onnx_session."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Magic number",
+        "Function/Method": "_get_results_from_paths",
+        "Line no": "363",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Magic number 1000 used in _get_results_from_paths."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Magic number",
+        "Function/Method": "_get_result_from_few_bytes",
+        "Line no": "764",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Magic number 4 used in _get_result_from_few_bytes."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Magic number",
+        "Function/Method": "_get_raw_predictions",
+        "Line no": "807",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Magic number 1000 used in _get_raw_predictions."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Magic number",
+        "Function/Method": "_get_raw_predictions",
+        "Line no": "801",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Magic number 1000 used in _get_raw_predictions."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "magika",
+        "Class": "Magika",
+        "Smell": "Magic number",
+        "Function/Method": "_get_raw_predictions",
+        "Line no": "823",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\magika.py",
+        "Details": "Magic number 1000 used in _get_raw_predictions."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\__init__.py",
+        "Details": "A line with 157 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "main",
+        "Line no": "136 - 340",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "Method 'main' has a cyclomatic complexity of 43, exceeding the max of 6."
+    },
+    {
+        "Package": "magika.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "main",
+        "Line no": "136 - 340",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "Method 'main' is too long (163 lines)."
+    },
+    {
+        "Package": "magika.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "main",
+        "Line no": "136 - 340",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "main has 16 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "magika.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "241",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 174 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "310",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 147 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 167 chars in magika_client exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "49",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 163 chars in magika_client exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "369",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "A line with 135 chars in magika_client exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.cli",
+        "Module": "magika_client",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "main",
+        "Line no": "199",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\cli\\magika_client.py",
+        "Details": "Magic number 512 used in main."
+    },
+    {
+        "Package": "magika.python.src.magika.cli",
+        "Module": "magika_rust_client_not_found_warning",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "32",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\cli\\magika_rust_client_not_found_warning.py",
+        "Details": "A line with 455 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.cli",
+        "Module": "magika_rust_client_not_found_warning",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\cli\\magika_rust_client_not_found_warning.py",
+        "Details": "A line with 190 chars in magika_rust_client_not_found_warning exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.cli",
+        "Module": "magika_rust_client_not_found_warning",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\cli\\magika_rust_client_not_found_warning.py",
+        "Details": "A line with 135 chars in magika_rust_client_not_found_warning exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "content_type_info",
+        "Class": "ContentTypeInfo",
+        "Smell": "Long statement",
+        "Function/Method": "ct_label",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\content_type_info.py",
+        "Details": "A line with 196 chars in ct_label exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "content_type_info",
+        "Class": "ContentTypeInfo",
+        "Smell": "Long statement",
+        "Function/Method": "score",
+        "Line no": "56",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\content_type_info.py",
+        "Details": "A line with 187 chars in score exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "content_type_info",
+        "Class": "ContentTypeInfo",
+        "Smell": "Long statement",
+        "Function/Method": "magic",
+        "Line no": "63",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\content_type_info.py",
+        "Details": "A line with 199 chars in magic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "content_type_info",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\content_type_info.py",
+        "Details": "A line with 173 chars in content_type_info exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "content_type_info",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "81",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\content_type_info.py",
+        "Details": "A line with 135 chars in content_type_info exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "content_type_label",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\content_type_label.py",
+        "Details": "A line with 174 chars in content_type_label exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "content_type_label",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "404",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\content_type_label.py",
+        "Details": "A line with 135 chars in content_type_label exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "magika_error",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\magika_error.py",
+        "Details": "A line with 168 chars in magika_error exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "magika_error",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\magika_error.py",
+        "Details": "A line with 135 chars in magika_error exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "magika_prediction",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\magika_prediction.py",
+        "Details": "A line with 173 chars in magika_prediction exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "magika_prediction",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "53",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\magika_prediction.py",
+        "Details": "A line with 135 chars in magika_prediction exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "magika_result",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\magika_result.py",
+        "Details": "A line with 169 chars in magika_result exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "magika_result",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "124",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\magika_result.py",
+        "Details": "A line with 135 chars in magika_result exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\model.py",
+        "Details": "A line with 161 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "model",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "78",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\model.py",
+        "Details": "A line with 135 chars in model exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "overwrite_reason",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\overwrite_reason.py",
+        "Details": "A line with 172 chars in overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "overwrite_reason",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "49",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\overwrite_reason.py",
+        "Details": "A line with 135 chars in overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "prediction_mode",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\prediction_mode.py",
+        "Details": "A line with 171 chars in prediction_mode exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "prediction_mode",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "55",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\prediction_mode.py",
+        "Details": "A line with 135 chars in prediction_mode exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "seekable",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\seekable.py",
+        "Details": "A line with 164 chars in seekable exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "seekable",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\seekable.py",
+        "Details": "A line with 135 chars in seekable exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "status",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\status.py",
+        "Details": "A line with 162 chars in status exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "status",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "56",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\status.py",
+        "Details": "A line with 135 chars in status exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "strenum",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\strenum.py",
+        "Details": "A line with 163 chars in strenum exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "strenum",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "28",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\strenum.py",
+        "Details": "A line with 294 chars in strenum exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "strenum",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "79",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\strenum.py",
+        "Details": "A line with 135 chars in strenum exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\__init__.py",
+        "Details": "A line with 164 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "43",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\__init__.py",
+        "Details": "A line with 206 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.src.magika.types",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "69",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\src\\magika\\types\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "_check_features_vs_reference_example_features",
+        "Line no": "265 - 289",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Method '_check_features_vs_reference_example_features' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "FeaturesExtractionExampleMetadata",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "313",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Identifier'FeaturesExtractionExampleMetadata' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_features_extraction_vs_reference",
+        "Line no": "71",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Identifier'test_features_extraction_vs_reference' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_reference_features_extraction",
+        "Line no": "97",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Identifier'_generate_reference_features_extraction' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_dump_reference_features_extraction_examples",
+        "Line no": "104",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Identifier'_dump_reference_features_extraction_examples' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_dump_reference_features_extraction_examples",
+        "Line no": "104",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Identifier'reference_features_extraction_examples_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases",
+        "Line no": "126",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Identifier'_generate_reference_features_extraction_tests_cases' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "157",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Identifier'_generate_reference_features_extraction_tests_cases_inputs' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_content_from_metadata",
+        "Line no": "223",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Identifier'_generate_content_from_metadata' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_get_examples_from_reference",
+        "Line no": "250",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Identifier'ref_features_extraction_examples_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_check_features_vs_reference_example_features",
+        "Line no": "265",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Identifier'_check_features_vs_reference_example_features' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_features_extraction_vs_reference",
+        "Line no": "79",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 320 chars in test_features_extraction_vs_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_dump_reference_features_extraction_examples",
+        "Line no": "118",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 152 chars in _dump_reference_features_extraction_examples exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases",
+        "Line no": "129",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 169 chars in _generate_reference_features_extraction_tests_cases exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases",
+        "Line no": "135",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 225 chars in _generate_reference_features_extraction_tests_cases exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases",
+        "Line no": "145",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 157 chars in _generate_reference_features_extraction_tests_cases exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "173",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 372 chars in _generate_reference_features_extraction_tests_cases_inputs exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "203",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 195 chars in _generate_reference_features_extraction_tests_cases_inputs exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "211",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 138 chars in _generate_reference_features_extraction_tests_cases_inputs exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_content_from_metadata",
+        "Line no": "226",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 316 chars in _generate_content_from_metadata exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_content_from_metadata",
+        "Line no": "243",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 140 chars in _generate_content_from_metadata exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_examples_from_reference",
+        "Line no": "255",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 167 chars in _get_examples_from_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 180 chars in test_features_extraction_vs_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "43",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 178 chars in test_features_extraction_vs_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "333",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "A line with 135 chars in test_features_extraction_vs_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "160",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 128 used in _generate_reference_features_extraction_tests_cases_inputs."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "162",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 64 used in _generate_reference_features_extraction_tests_cases_inputs."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "163",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 512 used in _generate_reference_features_extraction_tests_cases_inputs."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "164",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 256 used in _generate_reference_features_extraction_tests_cases_inputs."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "176",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 10 used in _generate_reference_features_extraction_tests_cases_inputs."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "190",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 2 used in _generate_reference_features_extraction_tests_cases_inputs."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "193",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 4 used in _generate_reference_features_extraction_tests_cases_inputs."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "189",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 2 used in _generate_reference_features_extraction_tests_cases_inputs."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "191",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 2 used in _generate_reference_features_extraction_tests_cases_inputs."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "192",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 4 used in _generate_reference_features_extraction_tests_cases_inputs."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_reference_features_extraction_tests_cases_inputs",
+        "Line no": "194",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 4 used in _generate_reference_features_extraction_tests_cases_inputs."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_content_from_metadata",
+        "Line no": "236",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 5 used in _generate_content_from_metadata."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_features_extraction_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_content_from_metadata",
+        "Line no": "240",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_features_extraction_vs_reference.py",
+        "Details": "Magic number 2 used in _generate_content_from_metadata."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "_generate_examples_by_content",
+        "Line no": "238 - 348",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Method '_generate_examples_by_content' has a cyclomatic complexity of 13, exceeding the max of 6."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Complex method",
+        "Function/Method": "get_corner_case_candidates_generator",
+        "Line no": "538 - 602",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Method 'get_corner_case_candidates_generator' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_get_examples_by_path",
+        "Line no": "147",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'reference_for_inference_examples_by_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_get_examples_by_content",
+        "Line no": "167",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'reference_for_inference_examples_by_content' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_generate_reference_for_inference",
+        "Line no": "187",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'_generate_reference_for_inference' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "_check_result_vs_reference_example",
+        "Line no": "605",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'_check_result_vs_reference_example' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Long identifier",
+        "Function/Method": "get_corner_case_candidates_generator",
+        "Line no": "538",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Identifier'get_corner_case_candidates_generator' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "_generate_examples_by_content",
+        "Line no": "238 - 348",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Method '_generate_examples_by_content' is too long (92 lines)."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_examples_by_path",
+        "Line no": "151",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 242 chars in _get_examples_by_path exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_examples_by_content",
+        "Line no": "168",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 121 chars in _get_examples_by_content exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_get_examples_by_content",
+        "Line no": "171",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 248 chars in _get_examples_by_content exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_examples_by_path",
+        "Line no": "215",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 313 chars in _generate_examples_by_path exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_examples_by_content",
+        "Line no": "328",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 316 chars in _generate_examples_by_content exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_generate_examples_by_content",
+        "Line no": "340",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 156 chars in _generate_examples_by_content exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_dump_examples_by_path",
+        "Line no": "366",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 161 chars in _dump_examples_by_path exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_dump_examples_by_content",
+        "Line no": "395",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 167 chars in _dump_examples_by_content exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseInfo",
+        "Smell": "Long statement",
+        "Function/Method": "__repr__",
+        "Line no": "416",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 167 chars in __repr__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "444",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 1179 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "462",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 189 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Long statement",
+        "Function/Method": "_get_cornern_case_example",
+        "Line no": "491",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 216 chars in _get_cornern_case_example exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Long statement",
+        "Function/Method": "get_corner_case_candidates_generator",
+        "Line no": "599",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 122 chars in get_corner_case_candidates_generator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 170 chars in test_inference_vs_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 178 chars in test_inference_vs_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "666",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "A line with 135 chars in test_inference_vs_reference exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "_generate_examples_by_content",
+        "Line no": "300",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Magic number 100 used in _generate_examples_by_content."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Magic number",
+        "Function/Method": "_get_score_range",
+        "Line no": "527",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Magic number 0.5 used in _get_score_range."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_inference_vs_reference",
+        "Class": "CornerCaseCollector",
+        "Smell": "Magic number",
+        "Function/Method": "get_corner_case_candidates_generator",
+        "Line no": "546",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_inference_vs_reference.py",
+        "Details": "Magic number 0.5 used in get_corner_case_candidates_generator."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_check_version",
+        "Line no": "48",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_check_version' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_one_test_file",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_one_test_file' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_explicit_model_dir",
+        "Line no": "75",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_explicit_model_dir' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_basic_tests_by_paths",
+        "Line no": "88",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_basic_tests_by_paths' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_basic_tests_by_path",
+        "Line no": "96",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_basic_tests_by_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_basic_tests_by_bytes",
+        "Line no": "106",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_basic_tests_by_bytes' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_basic_tests_by_stream",
+        "Line no": "119",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_basic_tests_by_stream' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_all_models",
+        "Line no": "132",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_all_models' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_previously_missdetected_samples",
+        "Line no": "143",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_previously_missdetected_samples' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_empty_content",
+        "Line no": "152",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_empty_content' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_short_content",
+        "Line no": "182",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_short_content' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_python_and_non_python_content",
+        "Line no": "220",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_python_and_non_python_content' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_identify_stream_does_not_alter_position",
+        "Line no": "237",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_identify_stream_does_not_alter_position' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_whitespaces",
+        "Line no": "257",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_whitespaces' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "314",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_different_prediction_modes' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "413",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_overwrite_reason' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "413",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'python_high_confidence_threshold' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "413",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'is_overwrite_map_ct_target_text' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "413",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'overwrite_map_ct_high_confidence_threshold' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "413",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'generic_type_high_confidence_threshold' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_directory",
+        "Line no": "482",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_directory' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_multiple_copies_of_the_same_file",
+        "Line no": "495",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_multiple_copies_of_the_same_file' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_symlink",
+        "Line no": "511",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_symlink' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_non_existing_file",
+        "Line no": "540",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_non_existing_file' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_permission_error",
+        "Line no": "552",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_permission_error' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_really_many_files",
+        "Line no": "585",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_really_many_files' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "600",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_magika_module_with_big_file' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_access_magika_result_and_prediction",
+        "Line no": "657",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_access_magika_result_and_prediction' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_access_backward_compatibility_layer",
+        "Line no": "704",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_access_backward_compatibility_layer' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "test_get_model_and_output_content_types",
+        "Line no": "733",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'test_get_model_and_output_content_types' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "get_expected_content_type_label_from_test_file_path",
+        "Line no": "776",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'get_expected_content_type_label_from_test_file_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "check_result_vs_expected_result",
+        "Line no": "782",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'check_result_vs_expected_result' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "check_results_vs_expected_results",
+        "Line no": "793",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Identifier'check_results_vs_expected_results' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "314 - 409",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Method 'test_magika_module_with_different_prediction_modes' is too long (93 lines)."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_whitespaces",
+        "Line no": "260",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 889 chars in test_magika_module_with_whitespaces exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "317",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 134 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "323",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 133 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "329",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 133 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "335",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 134 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "343",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 141 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "349",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 189 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "352",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 133 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "358",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 134 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "366",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 128 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "369",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 141 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "375",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 171 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "378",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 164 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "381",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 134 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "390",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 128 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "393",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 141 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "399",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 171 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "402",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 164 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_with_different_prediction_modes",
+        "Line no": "405",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 134 chars in test_magika_module_with_different_prediction_modes exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "418",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 145 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "423",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 176 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "426",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 183 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "430",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 173 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "433",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 180 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "437",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 171 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "440",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 171 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "451",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 152 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "456",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 191 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "459",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 257 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "469",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 138 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "473",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 156 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_magika_module_overwrite_reason",
+        "Line no": "477",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 147 chars in test_magika_module_overwrite_reason exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_get_model_and_output_content_types",
+        "Line no": "752",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 157 chars in test_get_model_and_output_content_types exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 168 chars in test_magika_python_module exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "810",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "A line with 135 chars in test_magika_python_module exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_identify_stream_does_not_alter_position",
+        "Line no": "243",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 100 used in test_magika_module_identify_stream_does_not_alter_position."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_identify_stream_does_not_alter_position",
+        "Line no": "244",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 1000 used in test_magika_module_identify_stream_does_not_alter_position."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_identify_stream_does_not_alter_position",
+        "Line no": "245",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 10000 used in test_magika_module_identify_stream_does_not_alter_position."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_multiple_copies_of_the_same_file",
+        "Line no": "500",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 3 used in test_magika_module_multiple_copies_of_the_same_file."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_really_many_files",
+        "Line no": "590",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 10000 used in test_magika_module_with_really_many_files."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "608",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 2 used in test_magika_module_with_big_file."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "612",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 1000 used in test_magika_module_with_big_file."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "612",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 10000 used in test_magika_module_with_big_file."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "612",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 1000000 used in test_magika_module_with_big_file."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "612",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 1000000000 used in test_magika_module_with_big_file."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_magika_python_module",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "test_magika_module_with_big_file",
+        "Line no": "612",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_magika_python_module.py",
+        "Details": "Magic number 10000000000 used in test_magika_module_with_big_file."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_python_magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_python_magika_client.py",
+        "Details": "A line with 168 chars in test_python_magika_client exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "test_python_magika_client",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "56",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\test_python_magika_client.py",
+        "Details": "A line with 135 chars in test_python_magika_client exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "get_previously_missdetected_files_dir",
+        "Line no": "61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "Identifier'get_previously_missdetected_files_dir' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "get_previously_missdetected_files_paths",
+        "Line no": "79",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "Identifier'get_previously_missdetected_files_paths' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "get_reference_features_extraction_examples_path",
+        "Line no": "85",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "Identifier'get_reference_features_extraction_examples_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "get_reference_for_inference_examples_by_path_path",
+        "Line no": "89",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "Identifier'get_reference_for_inference_examples_by_path_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "get_reference_for_inference_examples_by_content_path",
+        "Line no": "97",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "Identifier'get_reference_for_inference_examples_by_content_path' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "A line with 148 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "197",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "write_random_file_with_size",
+        "Line no": "136",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "Magic number 1024 used in write_random_file_with_size."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "write_random_file_with_size",
+        "Line no": "136",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "Magic number 1024 used in write_random_file_with_size."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "write_random_file_with_size",
+        "Line no": "136",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "Magic number 1024 used in write_random_file_with_size."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "generate_pattern",
+        "Line no": "168",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "Magic number 10 used in generate_pattern."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "generate_pattern",
+        "Line no": "168",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "Magic number 26 used in generate_pattern."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "generate_pattern",
+        "Line no": "168",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\utils.py",
+        "Details": "Magic number 2 used in generate_pattern."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\__init__.py",
+        "Details": "A line with 151 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.python.tests",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\python\\tests\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.tests_data.basic.python",
+        "Module": "code",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\tests_data\\basic\\python\\code.py",
+        "Details": "A line with 159 chars in code exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "magika.tests_data.basic.python",
+        "Module": "code",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "36",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\magika\\tests_data\\basic\\python\\code.py",
+        "Details": "A line with 135 chars in code exceeds the maximum length of 120 characters."
+    }
+]

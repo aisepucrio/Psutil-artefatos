@@ -1,0 +1,22 @@
+[
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "find-diff",
+        "Class": "",
+        "Smell": "Ambiguous merge key",
+        "Function/Method": "",
+        "Line no": "53",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\find-diff.py",
+        "Details": "Merging without specifying 'on' can lead to unintended behavior as pandas implicitly uses all overlapping column names as join keys."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "find-diff",
+        "Class": "",
+        "Smell": "Ambiguous merge key",
+        "Function/Method": "",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\find-diff.py",
+        "Details": "Merging without specifying 'on' can lead to unintended behavior as pandas implicitly uses all overlapping column names as join keys."
+    }
+]

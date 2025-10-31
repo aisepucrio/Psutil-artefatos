@@ -1,0 +1,42 @@
+[
+    {
+        "Package": "saida_gemini.RepSEO-classifier-npm",
+        "Module": "file_extractor",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "122",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\RepSEO-classifier-npm\\file_extractor.py",
+        "Details": "A line with 176 chars in file_extractor exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.RepSEO-classifier-npm",
+        "Module": "file_extractor",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "139",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\RepSEO-classifier-npm\\file_extractor.py",
+        "Details": "A line with 135 chars in file_extractor exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.RepSEO-classifier-npm",
+        "Module": "file_extractor",
+        "Class": "FileExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "_extract_user_info",
+        "Line no": "92",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\RepSEO-classifier-npm\\file_extractor.py",
+        "Details": "Magic number 5 used in _extract_user_info."
+    },
+    {
+        "Package": "saida_gemini.RepSEO-classifier-npm",
+        "Module": "file_extractor",
+        "Class": "FileExtractor",
+        "Smell": "Magic number",
+        "Function/Method": "_extract_user_info",
+        "Line no": "93",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\RepSEO-classifier-npm\\file_extractor.py",
+        "Details": "Magic number 9 used in _extract_user_info."
+    }
+]

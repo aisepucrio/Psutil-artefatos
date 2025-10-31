@@ -1,0 +1,62 @@
+[
+    {
+        "Package": "saida_gemini.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_configure_parser",
+        "Line no": "34",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 134 chars in _configure_parser exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_configure_parser",
+        "Line no": "35",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 141 chars in _configure_parser exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "_configure_parser",
+        "Line no": "36",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 124 chars in _configure_parser exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "save_system_metrics",
+        "Line no": "72",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 135 chars in save_system_metrics exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "12",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 134 chars in Dispatcher exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "saida_gemini.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "15",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\refactoring\\saida_gemini\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 186 chars in Dispatcher exceeds the maximum length of 120 characters."
+    }
+]

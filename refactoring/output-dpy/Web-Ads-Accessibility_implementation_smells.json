@@ -1,0 +1,282 @@
+[
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "find-diff",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\find-diff.py",
+        "Details": "A line with 157 chars in find-diff exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "find-diff",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "76",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\find-diff.py",
+        "Details": "A line with 135 chars in find-diff exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "sele",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\sele.py",
+        "Details": "A line with 152 chars in sele exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "sele",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "159",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\sele.py",
+        "Details": "A line with 135 chars in sele exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "sele_adblock",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\sele_adblock.py",
+        "Details": "A line with 160 chars in sele_adblock exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src",
+        "Module": "sele_adblock",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "159",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\sele_adblock.py",
+        "Details": "A line with 135 chars in sele_adblock exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "fig4",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\fig4.py",
+        "Details": "A line with 166 chars in fig4 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "fig4",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "59",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\fig4.py",
+        "Details": "A line with 135 chars in fig4 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "fig5",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\fig5.py",
+        "Details": "A line with 166 chars in fig5 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "fig5",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "55",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\fig5.py",
+        "Details": "A line with 135 chars in fig5 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "fig8a",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\fig8a.py",
+        "Details": "A line with 167 chars in fig8a exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "fig8a",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "53",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\fig8a.py",
+        "Details": "A line with 135 chars in fig8a exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "fig8b",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\fig8b.py",
+        "Details": "A line with 167 chars in fig8b exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "fig8b",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\fig8b.py",
+        "Details": "A line with 135 chars in fig8b exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "fig8c",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\fig8c.py",
+        "Details": "A line with 167 chars in fig8c exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "fig8c",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\fig8c.py",
+        "Details": "A line with 135 chars in fig8c exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\table2.py",
+        "Details": "A line with 168 chars in table2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "28",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\table2.py",
+        "Details": "A line with 129 chars in table2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "30",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\table2.py",
+        "Details": "A line with 123 chars in table2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "35",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\table2.py",
+        "Details": "A line with 129 chars in table2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\table2.py",
+        "Details": "A line with 123 chars in table2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "39",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\table2.py",
+        "Details": "A line with 125 chars in table2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "48",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\table2.py",
+        "Details": "A line with 123 chars in table2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\table2.py",
+        "Details": "A line with 135 chars in table2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table3",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\table3.py",
+        "Details": "A line with 168 chars in table3 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table3",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\table3.py",
+        "Details": "A line with 135 chars in table3 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table4",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\table4.py",
+        "Details": "A line with 168 chars in table4 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Module": "table4",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "102",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\Web-Ads-Accessibility\\src\\reproducible\\table4.py",
+        "Details": "A line with 135 chars in table4 exceeds the maximum length of 120 characters."
+    }
+]

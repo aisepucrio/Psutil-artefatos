@@ -1,0 +1,1012 @@
+[
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "dll_info",
+        "Class": "TorchInfo",
+        "Smell": "Complex method",
+        "Function/Method": "set_apis",
+        "Line no": "197 - 239",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\dll_info.py",
+        "Details": "Method 'set_apis' has a cyclomatic complexity of 14, exceeding the max of 6."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "dll_info",
+        "Class": "TorchInfo",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "167",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\dll_info.py",
+        "Details": "A line with 126 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "dll_info",
+        "Class": "TFInfo",
+        "Smell": "Long statement",
+        "Function/Method": "fuzzer_cmd_prefix",
+        "Line no": "265",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\dll_info.py",
+        "Details": "A line with 124 chars in fuzzer_cmd_prefix exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "dll_info",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\dll_info.py",
+        "Details": "A line with 149 chars in dll_info exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "dll_info",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "315",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\dll_info.py",
+        "Details": "A line with 135 chars in dll_info exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "ExpManager",
+        "Smell": "Complex conditional",
+        "Function/Method": "gen_pov",
+        "Line no": "859",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A conditional in gen_pov has 4 conditions, more than the recommended maximum 3 conditions."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Complex method",
+        "Function/Method": "schedule_merge_intra_generations",
+        "Line no": "626 - 659",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Method 'schedule_merge_intra_generations' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "ExpManager",
+        "Smell": "Complex method",
+        "Function/Method": "check_images",
+        "Line no": "722 - 736",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Method 'check_images' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "ExpManager",
+        "Smell": "Complex method",
+        "Function/Method": "gen_pov",
+        "Line no": "834 - 909",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Method 'gen_pov' has a cyclomatic complexity of 14, exceeding the max of 6."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Complex method",
+        "Function/Method": "run",
+        "Line no": "959 - 1069",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Method 'run' has a cyclomatic complexity of 33, exceeding the max of 6."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long identifier",
+        "Function/Method": "jobs_per_itv_optimal",
+        "Line no": "573",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Identifier'min_jobs_for_same_max_apis_per_job' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long identifier",
+        "Function/Method": "__schedule_covrun_jobs_few_cores",
+        "Line no": "583",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Identifier'__schedule_covrun_jobs_few_cores' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long identifier",
+        "Function/Method": "schedule_merge_intra_generations",
+        "Line no": "626",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Identifier'schedule_merge_intra_generations' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "ExpManager",
+        "Smell": "Long method",
+        "Function/Method": "gen_pov",
+        "Line no": "834 - 909",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Method 'gen_pov' is too long (74 lines)."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Long method",
+        "Function/Method": "run",
+        "Line no": "959 - 1069",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Method 'run' is too long (106 lines)."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "FuzzerJob",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "25 - 46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "__init__ has 10 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "FuzzRunJob",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "122 - 142",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "__init__ has 10 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovRunJob",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "174 - 200",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "__init__ has 16 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovMergeIntraJob",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "241 - 262",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "__init__ has 10 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovMergeInterJob",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "287 - 305",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "__init__ has 8 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovGenHtmlJob",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "325 - 343",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "__init__ has 8 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobScheduler",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "359 - 371",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "__init__ has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "FuzzJobScheduler",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "392 - 421",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "__init__ has 7 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "448 - 482",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "__init__ has 11 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "ExpManager",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "690 - 720",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "__init__ has 13 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "FuzzRunJob",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "132",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 165 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovRunJob",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "186",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 202 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovMergeIntraJob",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "250",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 160 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovMergeInterJob",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "296",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 160 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovGenHtmlJob",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "334",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 160 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "FuzzJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "410",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 130 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "FuzzJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "417",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 130 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "FuzzJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "fuzzrun_job",
+        "Line no": "428",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 141 chars in fuzzrun_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "FuzzJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "fuzzrun_job",
+        "Line no": "429",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 223 chars in fuzzrun_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "476",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 130 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "covrun_job",
+        "Line no": "491",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 160 chars in covrun_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "covrun_job",
+        "Line no": "495",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 145 chars in covrun_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "covrun_job",
+        "Line no": "505",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 306 chars in covrun_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "merge_intra_job",
+        "Line no": "521",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 163 chars in merge_intra_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "merge_intra_job",
+        "Line no": "523",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 145 chars in merge_intra_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "merge_intra_job",
+        "Line no": "527",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 205 chars in merge_intra_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "merge_inter_job",
+        "Line no": "544",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 185 chars in merge_inter_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "genhtml_job",
+        "Line no": "561",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 181 chars in genhtml_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Long statement",
+        "Function/Method": "schedule_worker",
+        "Line no": "669",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 124 chars in schedule_worker exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "ExpManager",
+        "Smell": "Long statement",
+        "Function/Method": "schedule",
+        "Line no": "773",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 133 chars in schedule exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "ExpManager",
+        "Smell": "Long statement",
+        "Function/Method": "schedule",
+        "Line no": "781",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 191 chars in schedule exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "ExpManager",
+        "Smell": "Long statement",
+        "Function/Method": "summary_gcov",
+        "Line no": "797",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 154 chars in summary_gcov exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 151 chars in expmanager exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "1082",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "A line with 135 chars in expmanager exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "FuzzRunJob",
+        "Smell": "Magic number",
+        "Function/Method": "loose_timeout",
+        "Line no": "155",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 180 used in loose_timeout."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovRunJob",
+        "Smell": "Magic number",
+        "Function/Method": "job_id_str",
+        "Line no": "214",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 10 used in job_id_str."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovMergeIntraJob",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "259",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 2 used in __init__."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovMergeIntraJob",
+        "Smell": "Magic number",
+        "Function/Method": "job_id_str",
+        "Line no": "270",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 10 used in job_id_str."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobScheduler",
+        "Smell": "Magic number",
+        "Function/Method": "set_repeatition_indexes",
+        "Line no": "374",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 5 used in set_repeatition_indexes."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "GcovJobScheduler",
+        "Smell": "Magic number",
+        "Function/Method": "schedule_merge_intra_generations",
+        "Line no": "637",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 2 used in schedule_merge_intra_generations."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "ExpManager",
+        "Smell": "Magic number",
+        "Function/Method": "gen_pov",
+        "Line no": "859",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 124 used in gen_pov."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "ExpManager",
+        "Smell": "Magic number",
+        "Function/Method": "gen_pov",
+        "Line no": "859",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 137 used in gen_pov."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Magic number",
+        "Function/Method": "timeover",
+        "Line no": "946",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 60 used in timeover."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Magic number",
+        "Function/Method": "run",
+        "Line no": "1043",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 124 used in run."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Magic number",
+        "Function/Method": "run",
+        "Line no": "1043",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 137 used in run."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Magic number",
+        "Function/Method": "run",
+        "Line no": "1046",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 124 used in run."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Magic number",
+        "Function/Method": "run",
+        "Line no": "1051",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 137 used in run."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Magic number",
+        "Function/Method": "run",
+        "Line no": "1048",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 124 used in run."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Magic number",
+        "Function/Method": "run",
+        "Line no": "1053",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 137 used in run."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Magic number",
+        "Function/Method": "run",
+        "Line no": "1058",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 124 used in run."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Magic number",
+        "Function/Method": "run",
+        "Line no": "1058",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 137 used in run."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Magic number",
+        "Function/Method": "run",
+        "Line no": "1066",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 124 used in run."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "expmanager",
+        "Class": "JobRunner",
+        "Smell": "Magic number",
+        "Function/Method": "run",
+        "Line no": "1066",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\expmanager.py",
+        "Details": "Magic number 137 used in run."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "parse_arg",
+        "Line no": "18 - 84",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\run.py",
+        "Details": "Method 'parse_arg' has a cyclomatic complexity of 14, exceeding the max of 6."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "main",
+        "Line no": "86 - 132",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\run.py",
+        "Details": "Method 'main' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parse_arg",
+        "Line no": "59",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\run.py",
+        "Details": "A line with 156 chars in parse_arg exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parse_arg",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\run.py",
+        "Details": "A line with 130 chars in parse_arg exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "105",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\run.py",
+        "Details": "A line with 277 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\run.py",
+        "Details": "A line with 144 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "148",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\run.py",
+        "Details": "A line with 135 chars in run exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "parse_arg",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\run.py",
+        "Details": "Magic number 3600 used in parse_arg."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "parse_arg",
+        "Line no": "68",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\run.py",
+        "Details": "Magic number 1200 used in parse_arg."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "parse_arg",
+        "Line no": "80",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\run.py",
+        "Details": "Magic number 2 used in parse_arg."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "main",
+        "Line no": "129",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\run.py",
+        "Details": "Magic number 60 used in main."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "run",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "main",
+        "Line no": "130",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\run.py",
+        "Details": "Magic number 60 used in main."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\utils.py",
+        "Details": "A line with 146 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "84",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "emphasize",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\utils.py",
+        "Details": "Magic number 2 used in emphasize."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "count_input",
+        "Class": "PassRateResult",
+        "Smell": "Complex method",
+        "Function/Method": "count",
+        "Line no": "50 - 85",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\count_input.py",
+        "Details": "Method 'count' has a cyclomatic complexity of 12, exceeding the max of 6."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "count_input",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\count_input.py",
+        "Details": "A line with 161 chars in count_input exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "count_input",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "132",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\count_input.py",
+        "Details": "A line with 135 chars in count_input exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "coverage",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "merge",
+        "Line no": "153 - 200",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\coverage.py",
+        "Details": "Method 'merge' has a cyclomatic complexity of 9, exceeding the max of 6."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "coverage",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "geninfo",
+        "Line no": "100 - 148",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\coverage.py",
+        "Details": "geninfo has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "coverage",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parse_arg",
+        "Line no": "77",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\coverage.py",
+        "Details": "A line with 122 chars in parse_arg exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "coverage",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "geninfo",
+        "Line no": "112",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\coverage.py",
+        "Details": "A line with 257 chars in geninfo exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "coverage",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "geninfo",
+        "Line no": "132",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\coverage.py",
+        "Details": "A line with 273 chars in geninfo exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "coverage",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "merge",
+        "Line no": "182",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\coverage.py",
+        "Details": "A line with 145 chars in merge exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "coverage",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "226",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\coverage.py",
+        "Details": "A line with 122 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "coverage",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\coverage.py",
+        "Details": "A line with 158 chars in coverage exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "coverage",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "258",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\coverage.py",
+        "Details": "A line with 135 chars in coverage exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "pathfinder_coverage",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "seed_exist",
+        "Line no": "114 - 134",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\pathfinder_coverage.py",
+        "Details": "Method 'seed_exist' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "pathfinder_coverage",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "175",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\pathfinder_coverage.py",
+        "Details": "A line with 126 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "pathfinder_coverage",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\pathfinder_coverage.py",
+        "Details": "A line with 169 chars in pathfinder_coverage exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "pathfinder_coverage",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "192",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\pathfinder_coverage.py",
+        "Details": "A line with 135 chars in pathfinder_coverage exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "pathfinder_coverage",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "main",
+        "Line no": "173",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\pathfinder_coverage.py",
+        "Details": "Magic number 60 used in main."
+    },
+    {
+        "Package": "pathfinder-artifact.scripts",
+        "Module": "pathfinder_coverage",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "main",
+        "Line no": "174",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\pathfinder-artifact\\scripts\\pathfinder_coverage.py",
+        "Details": "Magic number 60 used in main."
+    }
+]

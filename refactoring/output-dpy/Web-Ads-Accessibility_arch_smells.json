@@ -1,0 +1,7 @@
+[
+    {
+        "Package": "Web-Ads-Accessibility.src.reproducible",
+        "Smell": "Feature concentration",
+        "Details": "The component realizes more than one architectural concern/feature. Independent sets of related modules within this component are: [fig4]; [fig5]; [fig8a]; [fig8b]; [fig8c]; [table2]; [table3]; [table4]. LCC (Lack of Component Cohesion) = 1.0"
+    }
+]

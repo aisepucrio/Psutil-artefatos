@@ -1,0 +1,2932 @@
+[
+    {
+        "Package": "NDSAStudy.code.NDDetector",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\__init__.py",
+        "Details": "A line with 157 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "detector_strategy_2",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "move_nd_files",
+        "Line no": "29 - 49",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\detector_strategy_2.py",
+        "Details": "move_nd_files has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "detector_strategy_2",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "checkResults",
+        "Line no": "52 - 74",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\detector_strategy_2.py",
+        "Details": "checkResults has 7 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "detector_strategy_2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\detector_strategy_2.py",
+        "Details": "A line with 187 chars in detector_strategy_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "detector_strategy_2",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "128",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\detector_strategy_2.py",
+        "Details": "A line with 135 chars in detector_strategy_2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "detector_strategy_2",
+        "Class": "",
+        "Smell": "Missing default",
+        "Function/Method": "generate_comparable_results",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\detector_strategy_2.py",
+        "Details": "Missing default case in generate_comparable_results."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "diff_flowdroid",
+        "Line no": "72 - 131",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "Method 'diff_flowdroid' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "diff_amandroid",
+        "Line no": "133 - 155",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "Method 'diff_amandroid' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "diff",
+        "Line no": "239 - 272",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "Method 'diff' has a cyclomatic complexity of 9, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "diff_flowdroid",
+        "Line no": "126",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "A line with 148 chars in diff_flowdroid exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "diff_doop",
+        "Line no": "186",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "A line with 158 chars in diff_doop exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "diff_doop",
+        "Line no": "189",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "A line with 148 chars in diff_doop exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "diff_parallel",
+        "Line no": "297",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "A line with 148 chars in diff_parallel exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "A line with 180 chars in post_process exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "334",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "A line with 135 chars in post_process exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "diff_flowdroid",
+        "Line no": "108",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "Magic number 6 used in diff_flowdroid."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "diff_flowdroid",
+        "Line no": "108",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "Magic number 5 used in diff_flowdroid."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "diff_doop",
+        "Line no": "185",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "Magic number 4 used in diff_doop."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.scripts.analysis",
+        "Module": "post_process",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "diff_doop",
+        "Line no": "188",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\scripts\\analysis\\post_process.py",
+        "Details": "Magic number 2 used in diff_doop."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\__init__.py",
+        "Details": "A line with 162 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "ToolTester",
+        "Smell": "Complex method",
+        "Function/Method": "move_nd_files",
+        "Line no": "98 - 127",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "Method 'move_nd_files' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "ToolTester",
+        "Smell": "Complex method",
+        "Function/Method": "detect_nondeterminism_doopc",
+        "Line no": "140 - 170",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "Method 'detect_nondeterminism_doopc' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "ToolTester",
+        "Smell": "Complex method",
+        "Function/Method": "detect_nondeterminism_dir",
+        "Line no": "173 - 203",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "Method 'detect_nondeterminism_dir' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "ToolTester",
+        "Smell": "Complex method",
+        "Function/Method": "detect_nondeterminism",
+        "Line no": "205 - 234",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "Method 'detect_nondeterminism' has a cyclomatic complexity of 9, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "ToolTester",
+        "Smell": "Complex method",
+        "Function/Method": "main",
+        "Line no": "237 - 279",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "Method 'main' has a cyclomatic complexity of 12, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "ToolTester",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "65 - 81",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "__init__ has 8 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "297",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "A line with 135 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "300",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "A line with 134 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "main",
+        "Line no": "303",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "A line with 137 chars in main exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "A line with 170 chars in Tester exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "376",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "A line with 135 chars in Tester exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "ToolTester",
+        "Smell": "Magic number",
+        "Function/Method": "detect_nondeterminism_doopc",
+        "Line no": "142",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "Magic number 2 used in detect_nondeterminism_doopc."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "ToolTester",
+        "Smell": "Magic number",
+        "Function/Method": "detect_nondeterminism_dir",
+        "Line no": "175",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "Magic number 2 used in detect_nondeterminism_dir."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "ToolTester",
+        "Smell": "Magic number",
+        "Function/Method": "detect_nondeterminism",
+        "Line no": "207",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "Magic number 2 used in detect_nondeterminism."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "",
+        "Smell": "Missing default",
+        "Function/Method": "get_file_types",
+        "Line no": "336",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "Missing default case in get_file_types."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "Tester",
+        "Class": "ToolTester",
+        "Smell": "Missing default",
+        "Function/Method": "generate_comparable_results",
+        "Line no": "84",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\Tester.py",
+        "Details": "Missing default case in generate_comparable_results."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\__init__.py",
+        "Details": "A line with 172 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "parse_args",
+        "Line no": "44 - 113",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "Method 'parse_args' is too long (70 lines)."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parse_args",
+        "Line no": "48",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 202 chars in parse_args exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parse_args",
+        "Line no": "55",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 269 chars in parse_args exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parse_args",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 264 chars in parse_args exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parse_args",
+        "Line no": "77",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 132 chars in parse_args exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parse_args",
+        "Line no": "96",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 124 chars in parse_args exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 186 chars in Dispatcher exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "38",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 134 chars in Dispatcher exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "Dispatcher",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "142",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\Dispatcher.py",
+        "Details": "A line with 135 chars in Dispatcher exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "DockerManager",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "start_runner",
+        "Line no": "68",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\DockerManager.py",
+        "Details": "A line with 133 chars in start_runner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "DockerManager",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "start_runner",
+        "Line no": "80",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\DockerManager.py",
+        "Details": "A line with 206 chars in start_runner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "DockerManager",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\DockerManager.py",
+        "Details": "A line with 189 chars in DockerManager exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "DockerManager",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "117",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\DockerManager.py",
+        "Details": "A line with 135 chars in DockerManager exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\__init__.py",
+        "Details": "A line with 184 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.dispatcher",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\dispatcher\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "Configuration",
+        "Class": "Configuration",
+        "Smell": "Long statement",
+        "Function/Method": "__eq__",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\Configuration.py",
+        "Details": "A line with 149 chars in __eq__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "Configuration",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\Configuration.py",
+        "Details": "A line with 185 chars in Configuration exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "Configuration",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "67",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\Configuration.py",
+        "Details": "A line with 135 chars in Configuration exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "CustomDict",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\CustomDict.py",
+        "Details": "A line with 182 chars in CustomDict exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "CustomDict",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "76",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\CustomDict.py",
+        "Details": "A line with 135 chars in CustomDict exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "Flow",
+        "Class": "Flow",
+        "Smell": "Long statement",
+        "Function/Method": "__eq__",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\Flow.py",
+        "Details": "A line with 123 chars in __eq__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "Flow",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\Flow.py",
+        "Details": "A line with 176 chars in Flow exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "Flow",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "81",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\Flow.py",
+        "Details": "A line with 135 chars in Flow exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "Tag",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "43",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\Tag.py",
+        "Details": "A line with 175 chars in Tag exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "Tag",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "73",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\Tag.py",
+        "Details": "A line with 135 chars in Tag exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "Tool",
+        "Class": "Tool",
+        "Smell": "Long statement",
+        "Function/Method": "as_dict",
+        "Line no": "50",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\Tool.py",
+        "Details": "A line with 130 chars in as_dict exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "Tool",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\Tool.py",
+        "Details": "A line with 176 chars in Tool exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "Tool",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "88",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\Tool.py",
+        "Details": "A line with 135 chars in Tool exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\__init__.py",
+        "Details": "A line with 180 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.models",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\models\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "AbstractReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\AbstractReader.py",
+        "Details": "A line with 187 chars in AbstractReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "AbstractReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "51",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\AbstractReader.py",
+        "Details": "A line with 135 chars in AbstractReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "AmanDroidReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\AmanDroidReader.py",
+        "Details": "A line with 188 chars in AmanDroidReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "AmanDroidReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "69",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\AmanDroidReader.py",
+        "Details": "A line with 135 chars in AmanDroidReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "DroidSafeReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\DroidSafeReader.py",
+        "Details": "A line with 188 chars in DroidSafeReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "DroidSafeReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\DroidSafeReader.py",
+        "Details": "A line with 135 chars in DroidSafeReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "FlowDroidFlowReader",
+        "Class": "FlowDroidFlowReader",
+        "Smell": "Empty catch block",
+        "Function/Method": "import_file",
+        "Line no": "51",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\FlowDroidFlowReader.py",
+        "Details": "Empty catch block found in import_file."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "FlowDroidFlowReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\FlowDroidFlowReader.py",
+        "Details": "A line with 192 chars in FlowDroidFlowReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "FlowDroidFlowReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "71",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\FlowDroidFlowReader.py",
+        "Details": "A line with 135 chars in FlowDroidFlowReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "InferReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\InferReader.py",
+        "Details": "A line with 184 chars in InferReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "InferReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "67",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\InferReader.py",
+        "Details": "A line with 135 chars in InferReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "ReaderFactory",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "get_reader_for_task_and_tool",
+        "Line no": "47 - 71",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\ReaderFactory.py",
+        "Details": "Method 'get_reader_for_task_and_tool' has a cyclomatic complexity of 9, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "ReaderFactory",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\ReaderFactory.py",
+        "Details": "A line with 186 chars in ReaderFactory exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "ReaderFactory",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "84",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\ReaderFactory.py",
+        "Details": "A line with 135 chars in ReaderFactory exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "SimpleLineReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "39",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\SimpleLineReader.py",
+        "Details": "A line with 189 chars in SimpleLineReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "SimpleLineReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "67",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\SimpleLineReader.py",
+        "Details": "A line with 135 chars in SimpleLineReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\__init__.py",
+        "Details": "A line with 181 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "AbstractCallGraphReader",
+        "Class": "AbstractCallGraphReader",
+        "Smell": "Long statement",
+        "Function/Method": "process_line",
+        "Line no": "57",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\AbstractCallGraphReader.py",
+        "Details": "A line with 182 chars in process_line exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "AbstractCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\AbstractCallGraphReader.py",
+        "Details": "A line with 207 chars in AbstractCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "AbstractCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "78",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\AbstractCallGraphReader.py",
+        "Details": "A line with 135 chars in AbstractCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "CGNode",
+        "Class": "CGNode",
+        "Smell": "Long statement",
+        "Function/Method": "__eq__",
+        "Line no": "39",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\CGNode.py",
+        "Details": "A line with 136 chars in __eq__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "CGNode",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\CGNode.py",
+        "Details": "A line with 190 chars in CGNode exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "CGNode",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "59",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\CGNode.py",
+        "Details": "A line with 135 chars in CGNode exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "Code2flowCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\Code2flowCallGraphReader.py",
+        "Details": "A line with 208 chars in Code2flowCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "Code2flowCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "73",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\Code2flowCallGraphReader.py",
+        "Details": "A line with 135 chars in Code2flowCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "DOOPCallGraphReader",
+        "Class": "DOOPCallGraphReader",
+        "Smell": "Long statement",
+        "Function/Method": "process_line",
+        "Line no": "63",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\DOOPCallGraphReader.py",
+        "Details": "A line with 159 chars in process_line exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "DOOPCallGraphReader",
+        "Class": "DOOPCallGraphReader",
+        "Smell": "Long statement",
+        "Function/Method": "process_line",
+        "Line no": "66",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\DOOPCallGraphReader.py",
+        "Details": "A line with 149 chars in process_line exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "DOOPCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\DOOPCallGraphReader.py",
+        "Details": "A line with 203 chars in DOOPCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "DOOPCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "85",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\DOOPCallGraphReader.py",
+        "Details": "A line with 135 chars in DOOPCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "DOOPCallGraphReader",
+        "Class": "DOOPCallGraphReader",
+        "Smell": "Magic number",
+        "Function/Method": "process_line",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\DOOPCallGraphReader.py",
+        "Details": "Magic number 4 used in process_line."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "DOOPCallGraphReader",
+        "Class": "DOOPCallGraphReader",
+        "Smell": "Magic number",
+        "Function/Method": "process_line",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\DOOPCallGraphReader.py",
+        "Details": "Magic number 2 used in process_line."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "OPALCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\OPALCallGraphReader.py",
+        "Details": "A line with 203 chars in OPALCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "OPALCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "67",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\OPALCallGraphReader.py",
+        "Details": "A line with 135 chars in OPALCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "PyCGCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\PyCGCallGraphReader.py",
+        "Details": "A line with 203 chars in PyCGCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "PyCGCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "66",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\PyCGCallGraphReader.py",
+        "Details": "A line with 135 chars in PyCGCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "SOOTCallGraphReader",
+        "Class": "SOOTCallGraphReader",
+        "Smell": "Empty catch block",
+        "Function/Method": "import_file",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\SOOTCallGraphReader.py",
+        "Details": "Empty catch block found in import_file."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "SOOTCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\SOOTCallGraphReader.py",
+        "Details": "A line with 203 chars in SOOTCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "SOOTCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\SOOTCallGraphReader.py",
+        "Details": "A line with 135 chars in SOOTCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "TAJSCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\TAJSCallGraphReader.py",
+        "Details": "A line with 203 chars in TAJSCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "TAJSCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "70",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\TAJSCallGraphReader.py",
+        "Details": "A line with 135 chars in TAJSCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "WALACallGraphReader",
+        "Class": "WALACallGraphReader",
+        "Smell": "Long statement",
+        "Function/Method": "process_line",
+        "Line no": "44",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\WALACallGraphReader.py",
+        "Details": "A line with 377 chars in process_line exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "WALACallGraphReader",
+        "Class": "WALACallGraphReader",
+        "Smell": "Long statement",
+        "Function/Method": "process_line",
+        "Line no": "59",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\WALACallGraphReader.py",
+        "Details": "A line with 177 chars in process_line exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "WALACallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\WALACallGraphReader.py",
+        "Details": "A line with 203 chars in WALACallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "WALACallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "77",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\WALACallGraphReader.py",
+        "Details": "A line with 135 chars in WALACallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "WALAJSCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "23",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\WALAJSCallGraphReader.py",
+        "Details": "A line with 205 chars in WALAJSCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "WALAJSCallGraphReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "55",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\WALAJSCallGraphReader.py",
+        "Details": "A line with 135 chars in WALAJSCallGraphReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\__init__.py",
+        "Details": "A line with 192 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.readers.callgraph",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\readers\\callgraph\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "AbstractCommandLineToolRunner",
+        "Class": "AbstractCommandLineToolRunner",
+        "Smell": "Complex method",
+        "Function/Method": "run_job",
+        "Line no": "97 - 167",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\AbstractCommandLineToolRunner.py",
+        "Details": "Method 'run_job' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "AbstractCommandLineToolRunner",
+        "Class": "AbstractCommandLineToolRunner",
+        "Smell": "Long statement",
+        "Function/Method": "run_job",
+        "Line no": "98",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\AbstractCommandLineToolRunner.py",
+        "Details": "A line with 698 chars in run_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "AbstractCommandLineToolRunner",
+        "Class": "AbstractCommandLineToolRunner",
+        "Smell": "Long statement",
+        "Function/Method": "run_job",
+        "Line no": "117",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\AbstractCommandLineToolRunner.py",
+        "Details": "A line with 125 chars in run_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "AbstractCommandLineToolRunner",
+        "Class": "AbstractCommandLineToolRunner",
+        "Smell": "Long statement",
+        "Function/Method": "get_output",
+        "Line no": "170",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\AbstractCommandLineToolRunner.py",
+        "Details": "A line with 383 chars in get_output exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "AbstractCommandLineToolRunner",
+        "Class": "AbstractCommandLineToolRunner",
+        "Smell": "Long statement",
+        "Function/Method": "try_run_job",
+        "Line no": "187",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\AbstractCommandLineToolRunner.py",
+        "Details": "A line with 457 chars in try_run_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "AbstractCommandLineToolRunner",
+        "Class": "AbstractCommandLineToolRunner",
+        "Smell": "Long statement",
+        "Function/Method": "dict_hash",
+        "Line no": "203",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\AbstractCommandLineToolRunner.py",
+        "Details": "A line with 433 chars in dict_hash exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "AbstractCommandLineToolRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\AbstractCommandLineToolRunner.py",
+        "Details": "A line with 202 chars in AbstractCommandLineToolRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "AbstractCommandLineToolRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "228",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\AbstractCommandLineToolRunner.py",
+        "Details": "A line with 135 chars in AbstractCommandLineToolRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "AmanDroidRunner",
+        "Class": "AmanDroidRunner",
+        "Smell": "Long statement",
+        "Function/Method": "get_base_command",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\AmanDroidRunner.py",
+        "Details": "A line with 312 chars in get_base_command exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "AmanDroidRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\AmanDroidRunner.py",
+        "Details": "A line with 188 chars in AmanDroidRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "AmanDroidRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "125",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\AmanDroidRunner.py",
+        "Details": "A line with 135 chars in AmanDroidRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "Code2flowRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\Code2flowRunner.py",
+        "Details": "A line with 188 chars in Code2flowRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "Code2flowRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "134",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\Code2flowRunner.py",
+        "Details": "A line with 135 chars in Code2flowRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "CommandLineToolRunner",
+        "Class": "CommandLineToolRunner",
+        "Smell": "Long statement",
+        "Function/Method": "get_task_option",
+        "Line no": "78",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\CommandLineToolRunner.py",
+        "Details": "A line with 204 chars in get_task_option exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "CommandLineToolRunner",
+        "Class": "CommandLineToolRunner",
+        "Smell": "Long statement",
+        "Function/Method": "try_run_job",
+        "Line no": "89",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\CommandLineToolRunner.py",
+        "Details": "A line with 418 chars in try_run_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "CommandLineToolRunner",
+        "Class": "CommandLineToolRunner",
+        "Smell": "Long statement",
+        "Function/Method": "run_from_cmd",
+        "Line no": "112",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\CommandLineToolRunner.py",
+        "Details": "A line with 364 chars in run_from_cmd exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "CommandLineToolRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\CommandLineToolRunner.py",
+        "Details": "A line with 194 chars in CommandLineToolRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "CommandLineToolRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\CommandLineToolRunner.py",
+        "Details": "A line with 134 chars in CommandLineToolRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "CommandLineToolRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "147",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\CommandLineToolRunner.py",
+        "Details": "A line with 135 chars in CommandLineToolRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "DOOPCRunner",
+        "Class": "DOOPCRunner",
+        "Smell": "Long statement",
+        "Function/Method": "try_run_job",
+        "Line no": "90",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\DOOPCRunner.py",
+        "Details": "A line with 126 chars in try_run_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "DOOPCRunner",
+        "Class": "DOOPCRunner",
+        "Smell": "Long statement",
+        "Function/Method": "try_run_job",
+        "Line no": "97",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\DOOPCRunner.py",
+        "Details": "A line with 133 chars in try_run_job exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "DOOPCRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\DOOPCRunner.py",
+        "Details": "A line with 184 chars in DOOPCRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "DOOPCRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "113",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\DOOPCRunner.py",
+        "Details": "A line with 135 chars in DOOPCRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "DOOPRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\DOOPRunner.py",
+        "Details": "A line with 183 chars in DOOPRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "DOOPRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "95",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\DOOPRunner.py",
+        "Details": "A line with 135 chars in DOOPRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "DroidSafeRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\DroidSafeRunner.py",
+        "Details": "A line with 188 chars in DroidSafeRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "DroidSafeRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "100",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\DroidSafeRunner.py",
+        "Details": "A line with 135 chars in DroidSafeRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "FlowDroidRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "create_shell_file",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\FlowDroidRunner.py",
+        "Details": "A line with 127 chars in create_shell_file exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "FlowDroidRunner",
+        "Class": "FlowDroidRunner",
+        "Smell": "Long statement",
+        "Function/Method": "get_base_command",
+        "Line no": "92",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\FlowDroidRunner.py",
+        "Details": "A line with 312 chars in get_base_command exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "FlowDroidRunner",
+        "Class": "FlowDroidRunner",
+        "Smell": "Long statement",
+        "Function/Method": "get_base_command",
+        "Line no": "110",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\FlowDroidRunner.py",
+        "Details": "A line with 129 chars in get_base_command exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "FlowDroidRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\FlowDroidRunner.py",
+        "Details": "A line with 188 chars in FlowDroidRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "FlowDroidRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "165",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\FlowDroidRunner.py",
+        "Details": "A line with 135 chars in FlowDroidRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "InferRunner",
+        "Class": "InferRunner",
+        "Smell": "Long statement",
+        "Function/Method": "get_base_command",
+        "Line no": "59",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\InferRunner.py",
+        "Details": "A line with 173 chars in get_base_command exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "InferRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\InferRunner.py",
+        "Details": "A line with 184 chars in InferRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "InferRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "91",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\InferRunner.py",
+        "Details": "A line with 135 chars in InferRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "OPALRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\OPALRunner.py",
+        "Details": "A line with 183 chars in OPALRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "OPALRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "98",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\OPALRunner.py",
+        "Details": "A line with 135 chars in OPALRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "PyCGRunner",
+        "Class": "PyCGRunner",
+        "Smell": "Long statement",
+        "Function/Method": "get_output",
+        "Line no": "80",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\PyCGRunner.py",
+        "Details": "A line with 127 chars in get_output exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "PyCGRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\PyCGRunner.py",
+        "Details": "A line with 183 chars in PyCGRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "PyCGRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "132",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\PyCGRunner.py",
+        "Details": "A line with 135 chars in PyCGRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "RunnerFactory",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\RunnerFactory.py",
+        "Details": "A line with 186 chars in RunnerFactory exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "RunnerFactory",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "79",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\RunnerFactory.py",
+        "Details": "A line with 135 chars in RunnerFactory exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "SOOTRunner",
+        "Class": "SOOTRunner",
+        "Smell": "Long statement",
+        "Function/Method": "dict_to_config_str",
+        "Line no": "67",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\SOOTRunner.py",
+        "Details": "A line with 285 chars in dict_to_config_str exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "SOOTRunner",
+        "Class": "SOOTRunner",
+        "Smell": "Long statement",
+        "Function/Method": "dict_to_config_str",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\SOOTRunner.py",
+        "Details": "A line with 133 chars in dict_to_config_str exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "SOOTRunner",
+        "Class": "SOOTRunner",
+        "Smell": "Long statement",
+        "Function/Method": "get_base_command",
+        "Line no": "109",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\SOOTRunner.py",
+        "Details": "A line with 313 chars in get_base_command exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "SOOTRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\SOOTRunner.py",
+        "Details": "A line with 183 chars in SOOTRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "SOOTRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "141",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\SOOTRunner.py",
+        "Details": "A line with 135 chars in SOOTRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "TAJSRunner",
+        "Class": "TAJSRunner",
+        "Smell": "Long statement",
+        "Function/Method": "dict_to_config_str",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\TAJSRunner.py",
+        "Details": "A line with 321 chars in dict_to_config_str exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "TAJSRunner",
+        "Class": "TAJSRunner",
+        "Smell": "Long statement",
+        "Function/Method": "get_base_command",
+        "Line no": "97",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\TAJSRunner.py",
+        "Details": "A line with 321 chars in get_base_command exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "TAJSRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\TAJSRunner.py",
+        "Details": "A line with 183 chars in TAJSRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "TAJSRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "129",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\TAJSRunner.py",
+        "Details": "A line with 135 chars in TAJSRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "WALAJSRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "23",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\WALAJSRunner.py",
+        "Details": "A line with 185 chars in WALAJSRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "WALAJSRunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "57",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\WALAJSRunner.py",
+        "Details": "A line with 135 chars in WALAJSRunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "WALARunner",
+        "Class": "WALARunner",
+        "Smell": "Long statement",
+        "Function/Method": "get_input_option",
+        "Line no": "47",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\WALARunner.py",
+        "Details": "A line with 150 chars in get_input_option exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "WALARunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\WALARunner.py",
+        "Details": "A line with 183 chars in WALARunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "WALARunner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "84",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\WALARunner.py",
+        "Details": "A line with 135 chars in WALARunner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\__init__.py",
+        "Details": "A line with 181 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.runners",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\runners\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "AbstractTaskToolGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\AbstractTaskToolGenerator.py",
+        "Details": "A line with 205 chars in AbstractTaskToolGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "AbstractTaskToolGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "36",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\AbstractTaskToolGenerator.py",
+        "Details": "A line with 135 chars in AbstractTaskToolGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "AmandroidTaskGenerator",
+        "Class": "AmandroidTaskGenerator",
+        "Smell": "Complex method",
+        "Function/Method": "read_config_and_generate_jobs",
+        "Line no": "39 - 74",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\AmandroidTaskGenerator.py",
+        "Details": "Method 'read_config_and_generate_jobs' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "AmandroidTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\AmandroidTaskGenerator.py",
+        "Details": "A line with 202 chars in AmandroidTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "AmandroidTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "87",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\AmandroidTaskGenerator.py",
+        "Details": "A line with 135 chars in AmandroidTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "Code2flowTaskGenerator",
+        "Class": "Code2flowTaskGenerator",
+        "Smell": "Complex method",
+        "Function/Method": "read_config_and_generate_jobs",
+        "Line no": "20 - 61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\Code2flowTaskGenerator.py",
+        "Details": "Method 'read_config_and_generate_jobs' has a cyclomatic complexity of 9, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "Code2flowTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\Code2flowTaskGenerator.py",
+        "Details": "A line with 202 chars in Code2flowTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "Code2flowTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "74",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\Code2flowTaskGenerator.py",
+        "Details": "A line with 135 chars in Code2flowTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "DOOPTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\DOOPTaskGenerator.py",
+        "Details": "A line with 197 chars in DOOPTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "DOOPTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\DOOPTaskGenerator.py",
+        "Details": "A line with 135 chars in DOOPTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "DroidSafeTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\DroidSafeTaskGenerator.py",
+        "Details": "A line with 202 chars in DroidSafeTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "DroidSafeTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\DroidSafeTaskGenerator.py",
+        "Details": "A line with 135 chars in DroidSafeTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "FlowdroidTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\FlowdroidTaskGenerator.py",
+        "Details": "A line with 202 chars in FlowdroidTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "FlowdroidTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "71",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\FlowdroidTaskGenerator.py",
+        "Details": "A line with 135 chars in FlowdroidTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "InferTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\InferTaskGenerator.py",
+        "Details": "A line with 198 chars in InferTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "InferTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "63",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\InferTaskGenerator.py",
+        "Details": "A line with 135 chars in InferTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "OPALTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\OPALTaskGenerator.py",
+        "Details": "A line with 197 chars in OPALTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "OPALTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\OPALTaskGenerator.py",
+        "Details": "A line with 135 chars in OPALTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "PyCGTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\PyCGTaskGenerator.py",
+        "Details": "A line with 197 chars in PyCGTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "PyCGTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\PyCGTaskGenerator.py",
+        "Details": "A line with 135 chars in PyCGTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "SOOTTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\SOOTTaskGenerator.py",
+        "Details": "A line with 197 chars in SOOTTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "SOOTTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\SOOTTaskGenerator.py",
+        "Details": "A line with 135 chars in SOOTTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "TajsTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\TajsTaskGenerator.py",
+        "Details": "A line with 197 chars in TajsTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "TajsTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\TajsTaskGenerator.py",
+        "Details": "A line with 135 chars in TajsTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "TaskGeneratorFactory",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\TaskGeneratorFactory.py",
+        "Details": "A line with 200 chars in TaskGeneratorFactory exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "TaskGeneratorFactory",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "75",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\TaskGeneratorFactory.py",
+        "Details": "A line with 135 chars in TaskGeneratorFactory exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "WalaJSTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "10",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\WalaJSTaskGenerator.py",
+        "Details": "A line with 199 chars in WalaJSTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "WalaJSTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "66",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\WalaJSTaskGenerator.py",
+        "Details": "A line with 135 chars in WalaJSTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "WalaTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "10",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\WalaTaskGenerator.py",
+        "Details": "A line with 197 chars in WalaTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "WalaTaskGenerator",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "66",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\WalaTaskGenerator.py",
+        "Details": "A line with 135 chars in WalaTaskGenerator exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\__init__.py",
+        "Details": "A line with 188 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.taskgenerators",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\taskgenerators\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "ApplicationCodeFilter",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\ApplicationCodeFilter.py",
+        "Details": "A line with 191 chars in ApplicationCodeFilter exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "ApplicationCodeFilter",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "51",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\ApplicationCodeFilter.py",
+        "Details": "A line with 135 chars in ApplicationCodeFilter exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "BenchmarkReader",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "try_resolve_path",
+        "Line no": "45 - 76",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\BenchmarkReader.py",
+        "Details": "Method 'try_resolve_path' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "BenchmarkReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "validate",
+        "Line no": "81",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\BenchmarkReader.py",
+        "Details": "A line with 311 chars in validate exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "BenchmarkReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\BenchmarkReader.py",
+        "Details": "A line with 185 chars in BenchmarkReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "BenchmarkReader",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "135",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\BenchmarkReader.py",
+        "Details": "A line with 135 chars in BenchmarkReader exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "CGCallSite",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\CGCallSite.py",
+        "Details": "A line with 180 chars in CGCallSite exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "CGCallSite",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\CGCallSite.py",
+        "Details": "A line with 135 chars in CGCallSite exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "CGTarget",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\CGTarget.py",
+        "Details": "A line with 178 chars in CGTarget exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "CGTarget",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "63",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\CGTarget.py",
+        "Details": "A line with 135 chars in CGTarget exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "config",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\config.py",
+        "Details": "A line with 176 chars in config exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "config",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\config.py",
+        "Details": "A line with 135 chars in config exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "FuzzingJob",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\FuzzingJob.py",
+        "Details": "A line with 180 chars in FuzzingJob exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "FuzzingJob",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\FuzzingJob.py",
+        "Details": "A line with 135 chars in FuzzingJob exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "JavaApplicationCodeFilter",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\JavaApplicationCodeFilter.py",
+        "Details": "A line with 195 chars in JavaApplicationCodeFilter exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "JavaApplicationCodeFilter",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "71",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\JavaApplicationCodeFilter.py",
+        "Details": "A line with 135 chars in JavaApplicationCodeFilter exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "UtilClasses",
+        "Class": "DetectionJob",
+        "Smell": "Long statement",
+        "Function/Method": "__eq__",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\UtilClasses.py",
+        "Details": "A line with 122 chars in __eq__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "UtilClasses",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\UtilClasses.py",
+        "Details": "A line with 181 chars in UtilClasses exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "UtilClasses",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "107",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\UtilClasses.py",
+        "Details": "A line with 135 chars in UtilClasses exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\__init__.py",
+        "Details": "A line with 178 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.ecstatic.util",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\ecstatic\\util\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\__init__.py",
+        "Details": "A line with 173 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\__init__.py",
+        "Details": "A line with 185 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.cats-microbenchmark",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\cats-microbenchmark\\__init__.py",
+        "Details": "A line with 206 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.cats-microbenchmark",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\cats-microbenchmark\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.dacapo-2006",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\dacapo-2006\\__init__.py",
+        "Details": "A line with 198 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.dacapo-2006",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\dacapo-2006\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.droidbench",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\droidbench\\__init__.py",
+        "Details": "A line with 197 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.droidbench",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\droidbench\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.fossdroid-all-apks",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\fossdroid-all-apks\\__init__.py",
+        "Details": "A line with 205 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.fossdroid-all-apks",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\fossdroid-all-apks\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.icse25-ezbench",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\icse25-ezbench\\__init__.py",
+        "Details": "A line with 201 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.icse25-ezbench",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\icse25-ezbench\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.icse25-ezcats",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\icse25-ezcats\\__init__.py",
+        "Details": "A line with 200 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.icse25-ezcats",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\icse25-ezcats\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.itc-benchmarks",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\itc-benchmarks\\__init__.py",
+        "Details": "A line with 201 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.itc-benchmarks",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\itc-benchmarks\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.jquery",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\jquery\\__init__.py",
+        "Details": "A line with 193 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.jquery",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\jquery\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.openssl",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\openssl\\__init__.py",
+        "Details": "A line with 194 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.openssl",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\openssl\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.pycg-macro",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\pycg-macro\\__init__.py",
+        "Details": "A line with 197 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.pycg-macro",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "41",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\pycg-macro\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.pycg-micro",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\pycg-micro\\__init__.py",
+        "Details": "A line with 197 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.pycg-micro",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "41",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\pycg-micro\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.sqlite",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\sqlite\\__init__.py",
+        "Details": "A line with 193 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.sqlite",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\sqlite\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.sunspider_test",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\sunspider_test\\__init__.py",
+        "Details": "A line with 201 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.sunspider_test",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "41",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\sunspider_test\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.toybox",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\toybox\\__init__.py",
+        "Details": "A line with 193 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.benchmarks.toybox",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "25",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\benchmarks\\toybox\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\__init__.py",
+        "Details": "A line with 180 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.amandroid",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\amandroid\\__init__.py",
+        "Details": "A line with 191 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.amandroid",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\amandroid\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.code2flow",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\code2flow\\__init__.py",
+        "Details": "A line with 191 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.code2flow",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\code2flow\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.doop",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\doop\\__init__.py",
+        "Details": "A line with 186 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.doop",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\doop\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.doopc",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\doopc\\__init__.py",
+        "Details": "A line with 187 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.doopc",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\doopc\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.droidsafe",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\droidsafe\\__init__.py",
+        "Details": "A line with 191 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.droidsafe",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\droidsafe\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.flowdroid",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\flowdroid\\__init__.py",
+        "Details": "A line with 191 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.flowdroid",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\flowdroid\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.infer",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\infer\\__init__.py",
+        "Details": "A line with 187 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.infer",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\infer\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.opal",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\opal\\__init__.py",
+        "Details": "A line with 186 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.opal",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\opal\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.pycg",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\pycg\\__init__.py",
+        "Details": "A line with 186 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.pycg",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\pycg\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.soot",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\soot\\__init__.py",
+        "Details": "A line with 186 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.soot",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\soot\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.wala",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\wala\\__init__.py",
+        "Details": "A line with 186 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.wala",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\wala\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.wala-js",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\wala-js\\__init__.py",
+        "Details": "A line with 189 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.code.NDDetector.src.resources.tools.wala-js",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "42",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\code\\NDDetector\\src\\resources\\tools\\wala-js\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.data.rq1.scripts",
+        "Module": "extractor",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "search_for_key_issues",
+        "Line no": "92",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\data\\rq1\\scripts\\extractor.py",
+        "Details": "A line with 151 chars in search_for_key_issues exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.data.rq1.scripts",
+        "Module": "extractor",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\data\\rq1\\scripts\\extractor.py",
+        "Details": "A line with 160 chars in extractor exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.data.rq1.scripts",
+        "Module": "extractor",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "22",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\data\\rq1\\scripts\\extractor.py",
+        "Details": "A line with 493 chars in extractor exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.data.rq1.scripts",
+        "Module": "extractor",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "34",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\data\\rq1\\scripts\\extractor.py",
+        "Details": "A line with 121 chars in extractor exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "NDSAStudy.data.rq1.scripts",
+        "Module": "extractor",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "161",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\NDSAStudy\\data\\rq1\\scripts\\extractor.py",
+        "Details": "A line with 135 chars in extractor exceeds the maximum length of 120 characters."
+    }
+]

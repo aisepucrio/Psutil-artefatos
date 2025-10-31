@@ -1,0 +1,2262 @@
+[
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "explore_and_validate",
+        "Line no": "56 - 160",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "Method 'explore_and_validate' has a cyclomatic complexity of 11, exceeding the max of 6."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "explore_and_validate",
+        "Line no": "56 - 160",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "Method 'explore_and_validate' is too long (82 lines)."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long parameter list",
+        "Function/Method": "minimize",
+        "Line no": "163 - 187",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "minimize has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "explore_and_validate",
+        "Line no": "57",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 638 chars in explore_and_validate exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "explore_and_validate",
+        "Line no": "74",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 262 chars in explore_and_validate exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "explore_and_validate",
+        "Line no": "84",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 300 chars in explore_and_validate exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "explore_and_validate",
+        "Line no": "95",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 211 chars in explore_and_validate exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "minimize",
+        "Line no": "167",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 566 chars in minimize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "minimize_with_smt2",
+        "Line no": "195",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 618 chars in minimize_with_smt2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "minimize_with_smt2",
+        "Line no": "214",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 144 chars in minimize_with_smt2 exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 140 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 639 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "50",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 133 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "229",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 125 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "231",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 145 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "235",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 133 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "237",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 151 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "241",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 128 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "245",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 164 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "249",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 287 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "254",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 405 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "261",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 205 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "270",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 373 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "276",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 209 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "326",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 238 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "354",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 243 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "364",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 145 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt",
+        "Module": "pipeline",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "396",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\pipeline.py",
+        "Details": "A line with 135 chars in pipeline exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "run_cvc5_solver",
+        "Line no": "67 - 183",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\cvc5_runner.py",
+        "Details": "Method 'run_cvc5_solver' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "run_cvc5_solver",
+        "Line no": "67 - 183",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\cvc5_runner.py",
+        "Details": "Method 'run_cvc5_solver' is too long (102 lines)."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "run_cvc5_solver",
+        "Line no": "68",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\cvc5_runner.py",
+        "Details": "A line with 189 chars in run_cvc5_solver exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "run_cvc5_solver",
+        "Line no": "97",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\cvc5_runner.py",
+        "Details": "A line with 123 chars in run_cvc5_solver exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "run_cvc5_solver",
+        "Line no": "101",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\cvc5_runner.py",
+        "Details": "A line with 125 chars in run_cvc5_solver exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "run_cvc5_solver",
+        "Line no": "109",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\cvc5_runner.py",
+        "Details": "A line with 129 chars in run_cvc5_solver exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "run_cvc5_solver",
+        "Line no": "149",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\cvc5_runner.py",
+        "Details": "A line with 122 chars in run_cvc5_solver exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\cvc5_runner.py",
+        "Details": "A line with 152 chars in cvc5_runner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\cvc5_runner.py",
+        "Details": "A line with 2437 chars in cvc5_runner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "192",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\cvc5_runner.py",
+        "Details": "A line with 153 chars in cvc5_runner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "cvc5_runner",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "229",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\cvc5_runner.py",
+        "Details": "A line with 135 chars in cvc5_runner exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "split_data",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\split_data.py",
+        "Details": "A line with 151 chars in split_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "split_data",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\split_data.py",
+        "Details": "A line with 145 chars in split_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "split_data",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "29",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\split_data.py",
+        "Details": "A line with 153 chars in split_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.dataset",
+        "Module": "split_data",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "106",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\dataset\\split_data.py",
+        "Details": "A line with 135 chars in split_data exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "compute_extrinsic_mus_counts",
+        "Line no": "61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "Identifier'all_muses_from_original_with_shuffle' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "compute_extrinsic_mus_counts",
+        "Line no": "61",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "Identifier'all_muses_from_original_without_shuffle' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "compute_intrinsic_naive",
+        "Line no": "31",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 278 chars in compute_intrinsic_naive exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "compute_intrinsic_llm",
+        "Line no": "44",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 375 chars in compute_intrinsic_llm exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "compute_extrinsic_mus_counts",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 267 chars in compute_extrinsic_mus_counts exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "compute_extrinsic_mus_counts",
+        "Line no": "100",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 244 chars in compute_extrinsic_mus_counts exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "print_table_II",
+        "Line no": "112",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 128 chars in print_table_II exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "print_table_II",
+        "Line no": "123",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 185 chars in print_table_II exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "print_table_II",
+        "Line no": "129",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 130 chars in print_table_II exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "print_table_II",
+        "Line no": "133",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 301 chars in print_table_II exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "print_table_IV",
+        "Line no": "142",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 168 chars in print_table_IV exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "do_overlapping_analysis",
+        "Line no": "166",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 121 chars in do_overlapping_analysis exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 162 chars in all_illustrations exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "192",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 128 chars in all_illustrations exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "245",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "A line with 135 chars in all_illustrations exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "all_illustrations",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "print_table_II",
+        "Line no": "128",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\all_illustrations.py",
+        "Details": "Magic number 5 used in print_table_II."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "build_test_muses",
+        "Line no": "147 - 194",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "Method 'build_test_muses' has a cyclomatic complexity of 10, exceeding the max of 6."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "240",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "Identifier'all_muses_from_original_with_shuffle' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "241",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "Identifier'all_muses_from_original_without_shuffle' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "compute_mus",
+        "Line no": "34",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 284 chars in compute_mus exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "shuffle_and_compute_mus",
+        "Line no": "80",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 894 chars in shuffle_and_compute_mus exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "shuffle_and_compute_mus",
+        "Line no": "103",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 124 chars in shuffle_and_compute_mus exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "compute_muses",
+        "Line no": "119",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 900 chars in compute_muses exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "compute_muses",
+        "Line no": "135",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 125 chars in compute_muses exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "compute_muses",
+        "Line no": "141",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 127 chars in compute_muses exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "build_test_muses",
+        "Line no": "148",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 209 chars in build_test_muses exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "build_test_muses",
+        "Line no": "185",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 134 chars in build_test_muses exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 154 chars in extrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "200",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 128 chars in extrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "202",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 128 chars in extrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "225",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 131 chars in extrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "extrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "307",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\extrinsic.py",
+        "Details": "A line with 135 chars in extrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "72 - 121",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "Method 'stratify_by_interval' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "stratify_by_minimization_ratio",
+        "Line no": "124 - 172",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "Method 'stratify_by_minimization_ratio' has a cyclomatic complexity of 9, exceeding the max of 6."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "extract_number_of_constraints",
+        "Line no": "175 - 211",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "Method 'extract_number_of_constraints' has a cyclomatic complexity of 7, exceeding the max of 6."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "minimization_ratio",
+        "Line no": "23",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 880 chars in minimization_ratio exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "minimization_ratio_sus",
+        "Line no": "52",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 438 chars in minimization_ratio_sus exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "73",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 380 chars in stratify_by_interval exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "stratify_by_minimization_ratio",
+        "Line no": "125",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 390 chars in stratify_by_minimization_ratio exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "stratify_by_minimization_ratio",
+        "Line no": "138",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 127 chars in stratify_by_minimization_ratio exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "extract_number_of_constraints",
+        "Line no": "176",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 527 chars in extract_number_of_constraints exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "extract_number_of_constraints",
+        "Line no": "196",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 244 chars in extract_number_of_constraints exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "extract_number_of_constraints",
+        "Line no": "206",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 185 chars in extract_number_of_constraints exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 154 chars in intrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "218",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 144 chars in intrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "242",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 139 chars in intrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "248",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 193 chars in intrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "277",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 128 chars in intrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "278",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 130 chars in intrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "279",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 130 chars in intrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "280",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 130 chars in intrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "281",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 130 chars in intrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "294",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "A line with 135 chars in intrinsic exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "94",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "Magic number 10 used in stratify_by_interval."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "93",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "Magic number 10 used in stratify_by_interval."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "stratify_by_minimization_ratio",
+        "Line no": "146",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "Magic number 0.95 used in stratify_by_minimization_ratio."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "stratify_by_minimization_ratio",
+        "Line no": "150",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic.py",
+        "Details": "Magic number 0.95 used in stratify_by_minimization_ratio."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "94 - 172",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "Method 'stratify_by_interval' has a cyclomatic complexity of 13, exceeding the max of 6."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "UNSATVerifier",
+        "Smell": "Empty catch block",
+        "Function/Method": "check",
+        "Line no": "80",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "Empty catch block found in check."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Long method",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "94 - 172",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "Method 'stratify_by_interval' is too long (67 lines)."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "95",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 315 chars in stratify_by_interval exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "UNSATVerifier",
+        "Smell": "Long statement",
+        "Function/Method": "check",
+        "Line no": "62",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 701 chars in check exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "UNSATVerifier",
+        "Smell": "Long statement",
+        "Function/Method": "check",
+        "Line no": "75",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 122 chars in check exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 160 chars in intrinsic_naive exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 160 chars in intrinsic_naive exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "35",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 133 chars in intrinsic_naive exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "179",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 128 chars in intrinsic_naive exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "220",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "A line with 135 chars in intrinsic_naive exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "146",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "Magic number 10 used in stratify_by_interval."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_naive",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "145",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_naive.py",
+        "Details": "Magic number 10 used in stratify_by_interval."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Complex method",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "94 - 145",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "Method 'stratify_by_interval' has a cyclomatic complexity of 8, exceeding the max of 6."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "build_smt2_formula_from_smt2_constraints",
+        "Line no": "34",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "Identifier'build_smt2_formula_from_smt2_constraints' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "build_smt2_formula_from_smt2_constraints",
+        "Line no": "35",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "A line with 491 chars in build_smt2_formula_from_smt2_constraints exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parse_input_formula",
+        "Line no": "53",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "A line with 225 chars in parse_input_formula exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "95",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "A line with 380 chars in stratify_by_interval exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "A line with 161 chars in intrinsic_search exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "28",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "A line with 133 chars in intrinsic_search exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "153",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "A line with 128 chars in intrinsic_search exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "155",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "A line with 135 chars in intrinsic_search exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "157",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "A line with 151 chars in intrinsic_search exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "208",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "A line with 127 chars in intrinsic_search exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "229",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "A line with 127 chars in intrinsic_search exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "243",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "A line with 144 chars in intrinsic_search exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "277",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "A line with 135 chars in intrinsic_search exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "118",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "Magic number 10 used in stratify_by_interval."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "intrinsic_search",
+        "Class": "",
+        "Smell": "Magic number",
+        "Function/Method": "stratify_by_interval",
+        "Line no": "117",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\intrinsic_search.py",
+        "Details": "Magic number 10 used in stratify_by_interval."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "build_smt2_formula_from_string_constraints",
+        "Line no": "21",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\utils.py",
+        "Details": "Identifier'build_smt2_formula_from_string_constraints' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "build_smt2_formula_from_string_constraints",
+        "Line no": "24",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\utils.py",
+        "Details": "A line with 770 chars in build_smt2_formula_from_string_constraints exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "set_cvc5_options_for_unsat",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\utils.py",
+        "Details": "A line with 141 chars in set_cvc5_options_for_unsat exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "set_cvc5_options_for_mus",
+        "Line no": "57",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\utils.py",
+        "Details": "A line with 330 chars in set_cvc5_options_for_mus exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parse_input_formula",
+        "Line no": "75",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\utils.py",
+        "Details": "A line with 225 chars in parse_input_formula exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\utils.py",
+        "Details": "A line with 150 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\utils.py",
+        "Details": "A line with 161 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.experiments",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "106",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\experiments\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "build_smt2_formula_from_string_constraints",
+        "Line no": "51",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "Identifier'build_smt2_formula_from_string_constraints' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "build_smt2_formula_from_cvc5_constraints",
+        "Line no": "75",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "Identifier'build_smt2_formula_from_cvc5_constraints' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long identifier",
+        "Function/Method": "build_smt2_formula_from_smt2_constraints",
+        "Line no": "98",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "Identifier'build_smt2_formula_from_smt2_constraints' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "extract_output_constraints",
+        "Line no": "28",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "A line with 321 chars in extract_output_constraints exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "build_smt2_formula_from_string_constraints",
+        "Line no": "54",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "A line with 770 chars in build_smt2_formula_from_string_constraints exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "build_smt2_formula_from_cvc5_constraints",
+        "Line no": "78",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "A line with 609 chars in build_smt2_formula_from_cvc5_constraints exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "build_smt2_formula_from_smt2_constraints",
+        "Line no": "99",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "A line with 491 chars in build_smt2_formula_from_smt2_constraints exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "parse_input_formula",
+        "Line no": "117",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "A line with 225 chars in parse_input_formula exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "set_cvc5_options_for_mus",
+        "Line no": "139",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "A line with 330 chars in set_cvc5_options_for_mus exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "set_cvc5_options_for_unsat",
+        "Line no": "156",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "A line with 141 chars in set_cvc5_options_for_unsat exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "compute_time_for_mus",
+        "Line no": "167",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "A line with 379 chars in compute_time_for_mus exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "A line with 149 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "utils",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "209",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\utils.py",
+        "Details": "A line with 135 chars in utils exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\__init__.py",
+        "Details": "A line with 152 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "26",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Empty catch block",
+        "Function/Method": "process_response",
+        "Line no": "205",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "Empty catch block found in process_response."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Long identifier",
+        "Function/Method": "explore_without_self_consistency",
+        "Line no": "158",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "Identifier'explore_without_self_consistency' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "GPTExplorer",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "216 - 260",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "__init__ has 7 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "ClaudeExplorer",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "296 - 339",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "__init__ has 8 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "GeminiExplorer",
+        "Smell": "Long parameter list",
+        "Function/Method": "__init__",
+        "Line no": "377 - 418",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "__init__ has 6 parameters, exceeding the max of 5."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "configure_llm",
+        "Line no": "44",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 124 chars in configure_llm exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "init_system_prompt",
+        "Line no": "50",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 143 chars in init_system_prompt exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "init_user_prompt",
+        "Line no": "60",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 139 chars in init_user_prompt exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "apply_zero_shot",
+        "Line no": "69",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 262 chars in apply_zero_shot exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "apply_few_shot",
+        "Line no": "81",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 413 chars in apply_few_shot exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "apply_formula",
+        "Line no": "102",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 219 chars in apply_formula exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "get_prompt",
+        "Line no": "115",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 226 chars in get_prompt exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "explore",
+        "Line no": "144",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 495 chars in explore exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "explore_without_self_consistency",
+        "Line no": "159",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 470 chars in explore_without_self_consistency exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "explore_with_self_consistency",
+        "Line no": "179",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 495 chars in explore_with_self_consistency exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "LLMExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "process_response",
+        "Line no": "194",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 362 chars in process_response exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "GPTExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "220",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 1205 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "GPTExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "configure_llm",
+        "Line no": "263",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 158 chars in configure_llm exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "GPTExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "explore",
+        "Line no": "271",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 180 chars in explore exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "ClaudeExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "300",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 1129 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "ClaudeExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "explore",
+        "Line no": "352",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 179 chars in explore exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "GeminiExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "381",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 1129 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "GeminiExplorer",
+        "Smell": "Long statement",
+        "Function/Method": "explore",
+        "Line no": "434",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 147 chars in explore exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 161 chars in explorer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "470",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "A line with 135 chars in explorer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "explorer",
+        "Class": "ClaudeExplorer",
+        "Smell": "Magic number",
+        "Function/Method": "__init__",
+        "Line no": "298",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\explorer.py",
+        "Details": "Magic number 4096 used in __init__."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "globals",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\globals.py",
+        "Details": "A line with 160 chars in globals exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "globals",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\globals.py",
+        "Details": "A line with 2195 chars in globals exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "globals",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "55",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\globals.py",
+        "Details": "A line with 521 chars in globals exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "globals",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "65",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\globals.py",
+        "Details": "A line with 195 chars in globals exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "globals",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "82",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\globals.py",
+        "Details": "A line with 135 chars in globals exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "minimizers",
+        "Class": "SMT2Minimizer",
+        "Smell": "Long statement",
+        "Function/Method": "minimize",
+        "Line no": "34",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\minimizers.py",
+        "Details": "A line with 738 chars in minimize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "minimizers",
+        "Class": "SMT2Minimizer",
+        "Smell": "Long statement",
+        "Function/Method": "minimize",
+        "Line no": "49",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\minimizers.py",
+        "Details": "A line with 121 chars in minimize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "minimizers",
+        "Class": "SMT2Minimizer",
+        "Smell": "Long statement",
+        "Function/Method": "minimize",
+        "Line no": "70",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\minimizers.py",
+        "Details": "A line with 208 chars in minimize exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "minimizers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\minimizers.py",
+        "Details": "A line with 163 chars in minimizers exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "minimizers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "88",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\minimizers.py",
+        "Details": "A line with 135 chars in minimizers exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithoutAutoCorrection",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "40",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "Identifier'SubsetParserWithoutAutoCorrection' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithCodeBERTEmbeddings",
+        "Smell": "Long identifier",
+        "Function/Method": "",
+        "Line no": "127",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "Identifier'SubsetParserWithCodeBERTEmbeddings' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithEditDistance",
+        "Smell": "Long identifier",
+        "Function/Method": "parse",
+        "Line no": "101",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "Identifier'index_to_most_similar_constraint' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithCodeBERTEmbeddings",
+        "Smell": "Long identifier",
+        "Function/Method": "parse",
+        "Line no": "221",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "Identifier'index_to_most_similar_constraint' exceeds the maximum length of 30 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "BaseParser",
+        "Smell": "Long statement",
+        "Function/Method": "parse",
+        "Line no": "30",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 317 chars in parse exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithoutAutoCorrection",
+        "Smell": "Long statement",
+        "Function/Method": "parse",
+        "Line no": "53",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 240 chars in parse exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithEditDistance",
+        "Smell": "Long statement",
+        "Function/Method": "levenshtein_distance",
+        "Line no": "74",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 419 chars in levenshtein_distance exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithEditDistance",
+        "Smell": "Long statement",
+        "Function/Method": "parse",
+        "Line no": "102",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 441 chars in parse exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithCodeBERTEmbeddings",
+        "Smell": "Long statement",
+        "Function/Method": "__init__",
+        "Line no": "143",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 309 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithCodeBERTEmbeddings",
+        "Smell": "Long statement",
+        "Function/Method": "retrieve_constraint_embeddings",
+        "Line no": "160",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 405 chars in retrieve_constraint_embeddings exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithCodeBERTEmbeddings",
+        "Smell": "Long statement",
+        "Function/Method": "encode_constraints",
+        "Line no": "180",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 327 chars in encode_constraints exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithCodeBERTEmbeddings",
+        "Smell": "Long statement",
+        "Function/Method": "cache_embeddings",
+        "Line no": "196",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 216 chars in cache_embeddings exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithCodeBERTEmbeddings",
+        "Smell": "Long statement",
+        "Function/Method": "load_embeddings_from_cache",
+        "Line no": "206",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 141 chars in load_embeddings_from_cache exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithCodeBERTEmbeddings",
+        "Smell": "Long statement",
+        "Function/Method": "parse",
+        "Line no": "222",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 481 chars in parse exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "SubsetParserWithCodeBERTEmbeddings",
+        "Smell": "Long statement",
+        "Function/Method": "parse",
+        "Line no": "242",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 127 chars in parse exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 160 chars in parsers exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "13",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 124 chars in parsers exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "parsers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "260",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\parsers.py",
+        "Details": "A line with 135 chars in parsers exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "verifiers",
+        "Class": "UNSATVerifier",
+        "Smell": "Empty catch block",
+        "Function/Method": "check",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\verifiers.py",
+        "Details": "Empty catch block found in check."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "verifiers",
+        "Class": "MUSVerifier",
+        "Smell": "Empty catch block",
+        "Function/Method": "check",
+        "Line no": "124",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\verifiers.py",
+        "Details": "Empty catch block found in check."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "verifiers",
+        "Class": "UNSATVerifier",
+        "Smell": "Long statement",
+        "Function/Method": "check",
+        "Line no": "46",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\verifiers.py",
+        "Details": "A line with 701 chars in check exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "verifiers",
+        "Class": "UNSATVerifier",
+        "Smell": "Long statement",
+        "Function/Method": "check",
+        "Line no": "59",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\verifiers.py",
+        "Details": "A line with 122 chars in check exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "verifiers",
+        "Class": "MUSVerifier",
+        "Smell": "Long statement",
+        "Function/Method": "check",
+        "Line no": "101",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\verifiers.py",
+        "Details": "A line with 701 chars in check exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "verifiers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\verifiers.py",
+        "Details": "A line with 162 chars in verifiers exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "verifiers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "146",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\verifiers.py",
+        "Details": "A line with 135 chars in verifiers exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\__init__.py",
+        "Details": "A line with 161 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.intellismt.modules",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "26",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\intellismt\\modules\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.tests",
+        "Module": "test_minimizers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_smt2_minimizer",
+        "Line no": "36",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\tests\\test_minimizers.py",
+        "Details": "A line with 201 chars in test_smt2_minimizer exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.tests",
+        "Module": "test_minimizers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\tests\\test_minimizers.py",
+        "Details": "A line with 154 chars in test_minimizers exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.tests",
+        "Module": "test_minimizers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "64",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\tests\\test_minimizers.py",
+        "Details": "A line with 135 chars in test_minimizers exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.tests",
+        "Module": "test_verifiers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_unsat_verifier",
+        "Line no": "37",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\tests\\test_verifiers.py",
+        "Details": "A line with 167 chars in test_unsat_verifier exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.tests",
+        "Module": "test_verifiers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_mus_verifier",
+        "Line no": "58",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\tests\\test_verifiers.py",
+        "Details": "A line with 173 chars in test_mus_verifier exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.tests",
+        "Module": "test_verifiers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_mus_verifier",
+        "Line no": "69",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\tests\\test_verifiers.py",
+        "Details": "A line with 124 chars in test_mus_verifier exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.tests",
+        "Module": "test_verifiers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "test_mus_verifier",
+        "Line no": "73",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\tests\\test_verifiers.py",
+        "Details": "A line with 156 chars in test_mus_verifier exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.tests",
+        "Module": "test_verifiers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\tests\\test_verifiers.py",
+        "Details": "A line with 153 chars in test_verifiers exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.tests",
+        "Module": "test_verifiers",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "93",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\tests\\test_verifiers.py",
+        "Details": "A line with 135 chars in test_verifiers exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.tests",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "7",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\tests\\__init__.py",
+        "Details": "A line with 147 chars in __init__ exceeds the maximum length of 120 characters."
+    },
+    {
+        "Package": "intellismt.tests",
+        "Module": "__init__",
+        "Class": "",
+        "Smell": "Long statement",
+        "Function/Method": "",
+        "Line no": "26",
+        "File": "C:\\Users\\PUC\\Documents\\AISE\\ecosustain-replication-study\\artefatos\\intellismt\\tests\\__init__.py",
+        "Details": "A line with 135 chars in __init__ exceeds the maximum length of 120 characters."
+    }
+]

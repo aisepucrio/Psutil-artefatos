@@ -169,7 +169,7 @@ def filtrar_por_smell(caminho_arquivo, smell_tipo):
 
 # === MAIN PIPELINE ===
 pasta_output = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\output-dpy"
-nome_artefato = "dlisa"
+nome_artefato = "Web-Ads-Accessibility"
 artefato = fr"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\artefatos\{nome_artefato}"
 saida_gemini = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\saida_gemini"
 filtered_output = r"C:\Users\PUC\Documents\AISE\ecosustain-replication-study\refactoring\filtered-dpy"
